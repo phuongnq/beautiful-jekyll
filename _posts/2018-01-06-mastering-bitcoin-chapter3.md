@@ -25,7 +25,7 @@ Nếu là một nhà phát triển, bạn sẽ muốn thử thiết lập môi t
 Source code của Bitcoin Core có thể tải về bản nén ZIP hoặc clone source code từ repository trên GitHub. Từ trang GitHub của bitcoin, lựa chọn Download ZIP từ sidebar. Hoặc, dùng command line để tạo một bản copy local từ source code trên hệ thống của bạn.
 
 Tip
-> Trong nhiều vị dụ trong chương này, chúng ta sẽ dùng giao diện dòng lệnh command-line của hệ điều hành (còn được biết đến là "shell"), truy cập thông qua ứng dụng "terminal". Shell sẽ hiển thị dấu chờ lệnh (promt); bạn gõ một câu lệnh; và shell sẽ trả lại text và một ký tự chờ lệnh mới. Ký tự chờ lệnh có thể khác nhau tùy vào hệ thống, tuy nhiên trong những ví dụ sau đây sẽ được ký hiệu bằng ký tự **$**. Trong những ví dụ này, khi thấy text sau ký tự **$**, đừng gõ cả ký tự **$** mà chỉ gõ phần text theo sau nó, sau đó bấm *Enter* để thực thi câu lệnh. Trong những ví dụ này, dòng tiếp theo sau mỗi câu lệnh biểu diễn kết quả thực thi câu lệnh đó. Khi thấy một ký tự **$** mới, bạn biết rằng nó là một câu lệnh mới và bạn nên lặp lại quá trình như trên.
+> Trong nhiều ví dụ trong chương này, chúng ta sẽ dùng giao diện dòng lệnh command-line của hệ điều hành (còn được biết đến là "shell"), truy cập thông qua ứng dụng "terminal". Shell sẽ hiển thị dấu chờ lệnh (promt); bạn gõ một câu lệnh; và shell sẽ trả lại text và một ký tự chờ lệnh mới. Ký tự chờ lệnh có thể khác nhau tùy vào hệ thống, tuy nhiên trong những ví dụ sau đây sẽ được ký hiệu bằng ký tự **$**. Trong những ví dụ này, khi thấy text sau ký tự **$**, đừng gõ cả ký tự **$** mà chỉ gõ phần text theo sau nó, sau đó bấm *Enter* để thực thi câu lệnh. Trong những ví dụ này, dòng tiếp theo sau mỗi câu lệnh biểu diễn kết quả thực thi câu lệnh đó. Khi thấy một ký tự **$** mới, bạn biết rằng nó là một câu lệnh mới và bạn nên lặp lại quá trình như trên.
 
 Trong ví dụ này, chúng ta dùng lệnh *git* để tạo một bản copy local ("clone") source code:
 
@@ -44,6 +44,7 @@ Tip
 > Git là một trong những ứng dụng phổ biến dùng để quản lý version phân tán, một phần không thể thiếu trong bộ toolkit cho nhà phát triển phần mềm. Bạn có thể phải cài đặt git command, hoặc giao diện đồ họa cho git cho hệ điều hành của bạn nếu nó chưa được cài.
 
 Khi lệnh git clone hoàn tất, bạn sẽ có một bản copy trên local của source code trong thư mục *bitcoin*. Di chuyển vào thư mục đó bằng cách gõ **cd bitcoin**:
+
 ```
 $ cd bitcoin
 ```
@@ -52,33 +53,27 @@ $ cd bitcoin
 
 Mặc định thì bản copy local sẽ đồng bộ với code gần đây nhất, thường có thể là bản chưa ổn định hoặc là bản beta của bitcoin. Trước khi thực hiện compile code, lựa chọn một bản cụ thể bằng cách kiểu tra tag release. Việc này sẽ đồng bộ bản copy local với một bản snapshot của repository source code bằng từ khóa tag. Tag thường được nhà phát triển dùng để đánh dấu các bản release của source code bằng một con số version cụ thể. Đầu tiên, kiểm tra các tag hiện hữu, bằng cách dùng câu lệnh git tag:
 
-```
-$ git tag
-v0.1.5
-v0.1.6test1
-v0.10.0
-...
-v0.11.2
-v0.11.2rc1
-v0.12.0rc1
-v0.12.0rc2
-...
-```
+    $ git tag
+    v0.1.5
+    v0.1.6test1
+    v0.10.0
+    ...
+    v0.11.2
+    v0.11.2rc1
+    v0.12.0rc1
+    v0.12.0rc2
+    ...
 
 Danh sách tag thể hiện những version đã được release của bitcoin. Theo quy ước, các bản release mà mục đích là cho việc test, sẽ có đuôi "rc". Các bản release ổn định có thể chạy trên môi trường production thì không có hậu tố như vậy. Từ danh sách trên, lựa chọn bản release với version cao nhất, hiện thời tại thời điểm viết sách là *v0.11.2*. Để đồng bộ code local với version này, dùng lệnh git:
 
-```
-$ git checkout v0.11.2
-HEAD is now at 7e27892... Merge pull request #6975
-```
+    $ git checkout v0.11.2
+    HEAD is now at 7e27892... Merge pull request #6975
 
 Bạn có thể xác nhận version có đúng đã được "checked out" hay không bằng việc dùng lệnh git status:
 
-```
-$ git status
-HEAD detached at v0.11.2
-nothing to commit, working directory clean
-```
+    $ git status
+    HEAD detached at v0.11.2
+    nothing to commit, working directory clean
 
 ### Cấu hình Bitcoin Core Build
 
@@ -108,23 +103,21 @@ Makefile.am: installing 'build-aux/depcomp'
 
 *autogen.sh* script tạo ra tự động các script thiết lập mà sẽ xem xét hệ thống trên local để tìm ra thiết lập đúng đắn và chắc chắn rằng máy local có đủ thư viện cần thiết cho việc compile code. Phần quan trọng nhất là script thiết lập giúp chúng ta có một số lựa chọn để tùy chỉnh quá trình build. Gõ **./configure --help** để xem những tùy chọn này:
 
-```
-$ ./configure --help
-`configure' configures Bitcoin Core 0.11.2 to adapt to many kinds of systems.
+    $ ./configure --help
+    `configure' configures Bitcoin Core 0.11.2 to adapt to many kinds of systems.
 
-Usage: ./configure [OPTION]... [VAR=VALUE]...
+    Usage: ./configure [OPTION]... [VAR=VALUE]...
 
-...
-Optional Features:
-  --disable-option-checking  ignore unrecognized --enable/--with options
-  --disable-FEATURE       do not include FEATURE (same as --enable-FEATURE=no)
-  --enable-FEATURE[=ARG]  include FEATURE [ARG=yes]
+    ...
+    Optional Features:
+    --disable-option-checking  ignore unrecognized --enable/--with options
+    --disable-FEATURE       do not include FEATURE (same as --enable-FEATURE=no)
+    --enable-FEATURE[=ARG]  include FEATURE [ARG=yes]
 
-  --enable-wallet         enable wallet (default is yes)
+    --enable-wallet         enable wallet (default is yes)
 
-  --with-gui[=no|qt4|qt5|auto]
-...
-```
+    --with-gui[=no|qt4|qt5|auto]
+    ...
 
 Script thiết lập cho phép bạn kích hoạt hoặc vô hiệu hóa những tính năng nhất định của *bitcoind* bằng cách thêm cờ --enable-FEATURE và --disable-FEATURE. Ở đây *FEATURE* được thay thế bằng tên tính năng, được liệt kê tại phần help output. Trong chương này, chúng ta sẽ build *bitcoind* client với tất cả tính năng mặc định. Chúng ta sẽ không dùng cờ thiết lập, tuy nhiên bạn nên xem qua chúng để biết được những tùy chọn tính năng nào có thể có cho client. Nếu bạn cần thiết lập mang tính học thuật, hoặc bị hạn chế bởi phòng lab máy tính, bạn có thể phải cài đặt ứng dụng tại thư mục home (e.g., dùng cờ --prefix=$HOME).
 
@@ -144,20 +137,18 @@ Không build giao diệp đồ họa, cái mà cần có thư viện Qt. Với c
 
 Tiếp theo, chạy script thiết lập để tự động tìm ra những thư viện cần thiết, và tạo một bản script build đã được tùy chỉnh cho hệ thống của bạn:
 
-```
-$ ./configure
-checking build system type... x86_64-unknown-linux-gnu
-checking host system type... x86_64-unknown-linux-gnu
-checking for a BSD-compatible install... /usr/bin/install -c
-checking whether build environment is sane... yes
-checking for a thread-safe mkdir -p... /bin/mkdir -p
-checking for gawk... gawk
-checking whether make sets $(MAKE)... yes
-...
-[many pages of configuration tests follow]
-...
-$
-```
+    $ ./configure
+    checking build system type... x86_64-unknown-linux-gnu
+    checking host system type... x86_64-unknown-linux-gnu
+    checking for a BSD-compatible install... /usr/bin/install -c
+    checking whether build environment is sane... yes
+    checking for a thread-safe mkdir -p... /bin/mkdir -p
+    checking for gawk... gawk
+    checking whether make sets $(MAKE)... yes
+    ...
+    [many pages of configuration tests follow]
+    ...
+    $
 
 Nếu mọi việc suôn sẻ, lệnh *configure* sẽ kết thúc bằng việc tạo ra những script build đã tùy biến cho phép chúng ta compile *bitcoind*. Nếu như có bất kỳ thư viện hoặc lỗi nào, lệnh *configure* sẽ kết thúc với một lỗi nào đó thay vì tạo ra build script. Nếu xảy ra lỗi, thường thì là do bị thiếu thư viện hoặc do thư viện không tương thích. Xem lại tài liệu build trong trường hợp đó và chắc chắn rằng bạn đã cài đầy đủ các điều kiện cần. Sau đó chạy *configure* thêm lần nữa và xem thử xem lỗi đã được sửa hay chưa.
 
@@ -165,47 +156,43 @@ Nếu mọi việc suôn sẻ, lệnh *configure* sẽ kết thúc bằng việc
 
 Tiếp theo, bạn sẽ compile source code, là quá trình mất khoảng 1 tiếng để hoàn tất, phụ thuộc vào tốc độ của CPU và memory. Trong quá trình compile này, bạn sẽ thấy được output sau mỗi vài giây hoặc sau vài phút, hoặc thấy một lỗi nào đó nếu có gì đó không đúng. Nếu xảy ra lỗi, quá trình compile sẽ bị gián đoạn, và nó có thể chạy lại bất kỳ lúc nào bằng cách gõ *make* lần nữa. Gõ lệnh **make** để bắt đầu compile ứng dụng chạy:
 
-```ls -
-$ make
-Making all in src
-  CXX      crypto/libbitcoinconsensus_la-hmac_sha512.lo
-  CXX      crypto/libbitcoinconsensus_la-ripemd160.lo
-  CXX      crypto/libbitcoinconsensus_la-sha1.lo
-  CXX      crypto/libbitcoinconsensus_la-sha256.lo
-  CXX      crypto/libbitcoinconsensus_la-sha512.lo
-  CXX      libbitcoinconsensus_la-hash.lo
-  CXX      primitives/libbitcoinconsensus_la-transaction.lo
-  CXX      libbitcoinconsensus_la-pubkey.lo
-  CXX      script/libbitcoinconsensus_la-bitcoinconsensus.lo
-  CXX      script/libbitcoinconsensus_la-interpreter.lo
+    ls -
+    $ make
+    Making all in src
+    CXX      crypto/libbitcoinconsensus_la-hmac_sha512.lo
+    CXX      crypto/libbitcoinconsensus_la-ripemd160.lo
+    CXX      crypto/libbitcoinconsensus_la-sha1.lo
+    CXX      crypto/libbitcoinconsensus_la-sha256.lo
+    CXX      crypto/libbitcoinconsensus_la-sha512.lo
+    CXX      libbitcoinconsensus_la-hash.lo
+    CXX      primitives/libbitcoinconsensus_la-transaction.lo
+    CXX      libbitcoinconsensus_la-pubkey.lo
+    CXX      script/libbitcoinconsensus_la-bitcoinconsensus.lo
+    CXX      script/libbitcoinconsensus_la-interpreter.lo
 
-[... many more compilation messages follow ...]
+    [... many more compilation messages follow ...]
 
-$
-```
+    $
 
 Nếu mọi thứ diễn ra tốt đẹp, Bitcoin Core đã được biên dịch. Bước cuốn cùng là việc cài đặt các chương trình chạy được vào hệ thống dùng lệnh `sudo make install`. Có thể bạn sẽ được gợi ý nhập mật khẩu, vì câu lệnh này cần quyền admin:
 
-```
-$ sudo make install
-Password:
-Making install in src
- ../build-aux/install-sh -c -d '/usr/local/lib'
-libtool: install: /usr/bin/install -c bitcoind /usr/local/bin/bitcoind
-libtool: install: /usr/bin/install -c bitcoin-cli /usr/local/bin/bitcoin-cli
-libtool: install: /usr/bin/install -c bitcoin-tx /usr/local/bin/bitcoin-tx
-...
-$
-```
+    $ sudo make install
+    Password:
+    Making install in src
+    ../build-aux/install-sh -c -d '/usr/local/lib'
+    libtool: install: /usr/bin/install -c bitcoind /usr/local/bin/bitcoind
+    libtool: install: /usr/bin/install -c bitcoin-cli /usr/local/bin/bitcoin-cli
+    libtool: install: /usr/bin/install -c bitcoin-tx /usr/local/bin/bitcoin-tx
+    ...
+    $
 
 Thư mục mặc định cài đặt *bitcoind* là `/usr/local/bin`. Bạn có thể xác nhận lại việc Bitcoin Core đã được cài đặt chính xác hay chưa bằng việc hỏi lại hệ thống đường dẫn của file chạy, như sau đây:
-```
-$ which bitcoind
-/usr/local/bin/bitcoind
 
-$ which bitcoin-cli
-/usr/local/bin/bitcoin-cli
-```
+    $ which bitcoind
+    /usr/local/bin/bitcoind
+
+    $ which bitcoin-cli
+    /usr/local/bin/bitcoin-cli
 
 ### Chạy Bitcoin Core Node
 
@@ -236,19 +223,18 @@ Khi bạn chạy *bitcoind* lần đầu tiên, nó sẽ nhắc nhở bạn tạ
 
 Chạy *bitcoind* bằng cách gõ **bitcoind** trên terminal:
 
-```
-$ bitcoind
-Error: To use the "-server" option, you must set a rpcpassword in the configuration file:
-/home/ubuntu/.bitcoin/bitcoin.conf
-It is recommended you use the following random password:
-rpcuser=bitcoinrpc
-rpcpassword=2XA4DuKNCbtZXsBQRRNDEwEY2nM6M4H9Tx5dFjoAVVbK
-(you do not need to remember this password)
-The username and password MUST NOT be the same.
-If the file does not exist, create it with owner-readable-only file permissions.
-It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %s | mail -s "Bitcoin Alert" admin@foo.com
-```
+    $ bitcoind
+    Error: To use the "-server" option, you must set a rpcpassword in the configuration file:
+    /home/ubuntu/.bitcoin/bitcoin.conf
+    It is recommended you use the following random password:
+    rpcuser=bitcoinrpc
+    rpcpassword=2XA4DuKNCbtZXsBQRRNDEwEY2nM6M4H9Tx5dFjoAVVbK
+    (you do not need to remember this password)
+    The username and password MUST NOT be the same.
+    If the file does not exist, create it with owner-readable-only file permissions.
+    It is also recommended to set alertnotify so you are notified of problems;
+    for example: alertnotify=echo %s | mail -s "Bitcoin Alert" admin@foo.com
+
 
 Như bạn thấy được, tại lần đầu chạy *bitcoind*, nó sẽ bảo rằng bạn cần build file cấu hình, với ít nhất một entry *rpcuser* và *rpcpassword*. Thêm vào đó, nó gợi ý rằng bạn nên thiết lập cơ chế báo động. Trong phần tiếp theo, chúng ta sẽ tìm hiểu các tùy chọn này và thiết lập file configuration.
 
@@ -256,10 +242,8 @@ Như bạn thấy được, tại lần đầu chạy *bitcoind*, nó sẽ bảo
 
 Thay đổi file configuration với editor của bạn và thiết lập các tham số, thay password với mật khẩu đủ mạnh. Chú ý không dùng mật khẩu giới thiệu trong sách này. Tạo một file trong thư mục *.bitcoin* (bên trong thư mục home) và lấy tên là *./bitcoin/bitcoin.conf* đồng thời cung cấp username và password:
 
-```
-rpcuser=bitcoinrpc
-rpcpassword=CHANGE_THIS
-```
+    rpcuser=bitcoinrpc
+    rpcpassword=CHANGE_THIS
 
 Ngoài tùy chọn về *rpcuser* và *rpcpassword*, Bitcoin Core cung cấp nhiều hơn 100 tùy chỉnh cấu hình khác dùng để thay đổi cách vận hành của network node, storage của blockchain, và các khía cạnh khác nữa. Để thấy toàn bộ danh sách này, chạy lệnh `bitcoind --help`:
 
