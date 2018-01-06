@@ -1,5 +1,5 @@
 ---
-title: Làm chủ Bitcoin - Chương 1 - Phần 1
+title: Làm chủ Bitcoin - Chương 1
 date: 2017-12-22 23:12:59
 tags: [mastering bitcoin, vietnamese, book, translate]
 ---
