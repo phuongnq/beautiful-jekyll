@@ -152,6 +152,17 @@ Tiếp theo, chạy script thiết lập để tự động tìm ra những thư
 
 Nếu mọi việc suôn sẻ, lệnh *configure* sẽ kết thúc bằng việc tạo ra những script build đã tùy biến cho phép chúng ta compile *bitcoind*. Nếu như có bất kỳ thư viện hoặc lỗi nào, lệnh *configure* sẽ kết thúc với một lỗi nào đó thay vì tạo ra build script. Nếu xảy ra lỗi, thường thì là do bị thiếu thư viện hoặc do thư viện không tương thích. Xem lại tài liệu build trong trường hợp đó và chắc chắn rằng bạn đã cài đầy đủ các điều kiện cần. Sau đó chạy *configure* thêm lần nữa và xem thử xem lỗi đã được sửa hay chưa.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Cài đặt Bitcoin Core Executables
 
 Tiếp theo, bạn sẽ compile source code, là quá trình mất khoảng 1 tiếng để hoàn tất, phụ thuộc vào tốc độ của CPU và memory. Trong quá trình compile này, bạn sẽ thấy được output sau mỗi vài giây hoặc sau vài phút, hoặc thấy một lỗi nào đó nếu có gì đó không đúng. Nếu xảy ra lỗi, quá trình compile sẽ bị gián đoạn, và nó có thể chạy lại bất kỳ lúc nào bằng cách gõ *make* lần nữa. Gõ lệnh **make** để bắt đầu compile ứng dụng chạy:
@@ -736,6 +747,17 @@ Comprehensive bitcoin library for the .NET framework
 Bitcoin toolkit for ObjC and Swift
 
 Nhiều thư viện khác tồn tại trong các ngôn ngữ khác và một số  thư viện mới luôn được tạo ra.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 # Chú thích
 

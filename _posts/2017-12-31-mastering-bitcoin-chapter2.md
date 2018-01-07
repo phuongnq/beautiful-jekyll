@@ -174,6 +174,17 @@ Tip
 
 Như chúng ta có thể thấy, ví của Alice chứa đựng đủ bicoin trong 1 unspend output duy nhất để trả cho cốc cà phê. Nếu không làm được như vậy, ứng dụng ví của Alice có thể đã phải "rà soát" tất cả các lượng nhỏ unspend output, cũng giống như việc lượm đồng xu từ ví cho tới khi đủ tiền trả cho một cốc cà phê. Cả hai trường hợp đều có thể cần phải có một chút tiền thừa trả lại. Chúng ta sẽ thấy điều này trong phần tiếp theo, khi mà ứng dụng ví tạo output cho giao dịch (thanh toán).
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Tạo output
 
 Output cho một giao dịch được tạo ra dưới dạng script mà tạo ra *trở ngại* trên một **giá trị** và chỉ có thể thực hiện bằng việc đưa ra lời giải cho script đó. Nói một cách đơn giản, output của giao dịch của Alice chứa một script diễn tả thứ giống như là "Output này có thể dùng để thanh toán cho bất kỳ ai có thể đưa ra chữ ký từ khóa tương đương như địa chỉ public của Bob". Bởi vì chỉ có Bob có ví với khóa tương tương cho địa chỉ đó, chỉ có ví của Bob là có khả năng đưa ra chữ ký để thực thi output này. Alice do đó sẽ làm "trở ngại" giá trị output với yêu cầu chữ ký từ Bob.
@@ -263,6 +274,17 @@ Khi mà Bob dùng số tiền từ giao dịch của Alice và những khác hà
 
 
 Trong chương này, chúng ta đã thấy được các giao dịch xây dựng lên chuỗi di chuyển **giá trị** từ chủ sở hữu này sang chủ sở hữu khác. Chúng ta cũng theo dõi được giao dịch của Alice, từ thời điểm nó được tạo ra trong ví của cô, trong bitcoin network và tới những miner lưu nó trong blockchain. Trong phần còn lại của cuốn sách, chúng ta sẽ nghiên cứu về công nghệ đằng sau ví bitcoin, địa chỉ, chữ ký, giao dịch và network, cuối cùng là mining.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 # Chú thích
 

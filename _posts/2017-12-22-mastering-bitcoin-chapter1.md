@@ -50,6 +50,17 @@ Mặc dù những đồng tiền thuở ban đầu này hoạt động được,
 
 **Bitcoin** được phát minh vào năm 2008 bắt đầu từ bài paper "Bitcoin: A Peer-to-Peer Electronic Cash System", được viết bởi tác giả với bí danh là *Nakamoto Satoshi* (xem thêm chú thích 1.). *Nakamoto* kết hợp một vài phát minh trước đó, bao gồm **b-money** và **HashCash**, để tạo ra hệ thống tiền điện tử hoàn toàn phi tập trung. Hệ thống này không phụ thuộc vào chính quyền trung tâm cho việc cấp phát tiền tệ cũng như việc hoàn thành, chứng thực giao dịch. Cải tiến then chốt là việc dùng hệ thống tính toán phân tán (hay thuật toán "Proof-of-Work") để tạo ra một cuộc "bầu cử" toàn cầu trong mỗi 10 phút, cho phép mạng lưới phi tập trung đạt được thoả thuận thống nhất cho trạng thái của mỗi giao dịch. Điều này giải quyết trọn vẹn vấn đề *double-spend*, hay vấn đề một đơn vị đồng tiền có thể được sử dụng hai lần. Trước đó thì vấn đề *double-spend* là điểm yếu của tiền điện tử, và thường được giải quyết bằng việc làm sạch dữ liệu thông qua trung tâm xử lý thông tin. 
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Mạng lưới bitcoin được bắt đầu từ năm 2009, dựa trên implement của *Nakamoto* và được kiểm chứng bởi nhiều lập trình viên khác. Implement của thuật toán "Proof-of-Work" (mining) cung cấp tính bảo mật và tính đàn hồi cho bitcoin. Thuật toán này tăng độ mạnh theo hàm mũ, và hiện đã vượt qua độ mạnh tổng cộng của những siêu máy tính trên thế giới. Tổng giá trị thị trường của bitcoin nhiều lần đã vượt quá 20 tỷ USD, tùy theo tỷ giá đồng bitcoin với USD. Giao dịch lớn nhất trong mạng lưới từng được ghi nhận là 150 triệu USD, diễn ra tức thời và không mất bất kỳ chi phí gì. 
 
 *Nakamoto Satoshi* rút lui khỏi cộng đồng công khai vào tháng 4 năm 2011, để lại trách nhiệm phát triển code và mạng lưới cho một nhóm tình nguyện đang ngày một lớn mạnh. Danh tính của người đứng đằng sau bitcoin vẫn còn là bí ấn. Tuy nhiên không ai nắm quyền điều khiển bitcoin, ngay cả *Nakamoto*. Hệ thống được hoạt động dựa trên những nguyên lý toán học, source code được open, và có được sự nhất trí của tất cả thành viên tham gia. Bản thân phát minh về bitcoin cũng sinh ra ngành khoa học mới trong lĩnh vực máy tính phân tán, kinh tế học và kinh tế toán. 

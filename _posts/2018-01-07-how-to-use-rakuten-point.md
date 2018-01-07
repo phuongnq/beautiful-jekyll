@@ -114,3 +114,14 @@ Trường hợp dùng thẻ Edy thì có thể nạp bằng cách thao tác tạ
 
 Trường hợp dùng ứng dụng おサイフケータイの, có thể làm hoàn toàn online, tham khảo trên trang sau: [https://edy.rakuten.co.jp/howto/osaifukeitai/rsp_exchange/](https://edy.rakuten.co.jp/howto/osaifukeitai/rsp_exchange/)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
