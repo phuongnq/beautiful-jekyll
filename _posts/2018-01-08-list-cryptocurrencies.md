@@ -20,6 +20,8 @@ Bài viết giới thiệu sơ qua về tiền cryptocurrency và một số đ�
 
 4. [zaif](https://zaif.jp): Phí giao dịch thấp
 
+5. [bitbank](https://bitbank.cc/): Phí giao dịch thấp, có nhân viên lập trình là người Việt Nam
+
 # Tiền cryptocurrency là gì?
 
 Theo như định nghĩa trên [Wikipedia](https://en.wikipedia.org/wiki/Cryptocurrency)
