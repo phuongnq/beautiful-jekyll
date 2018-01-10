@@ -14,6 +14,17 @@ Recently I was starting to write my technical, life hacking blog [www.phuongnq.m
 
 And for sure, by writing blog, we will get improve. Just small step everyday, we could accumulate extremly big improvment in the future!
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 # Manual
 
 I am a fan of NodeJS, and for that reason, I want to use some *NodeJS* based frameworks for [my blog](http://www.phuongnq.me). Many people may be familiar with [Wordpress](https://wordpress.com/), a free and open-source CMS (content management system) based on *PHP*. But compare to *NodeJS*, *PHP* has too many configurations, normally for *Apache*. That takes our time to do everything like install *Apache*, create *.htaccess*, etc. After some researches and recommendation from friend, I decidied to use **Hexo** for blogging. Here is it's [homepage](https://hexo.io/).
@@ -203,6 +214,17 @@ INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
 	```
 	hexo generate
 	```
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 # Conclusion
 

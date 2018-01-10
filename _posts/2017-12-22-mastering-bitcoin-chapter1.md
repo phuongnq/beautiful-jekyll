@@ -17,6 +17,17 @@ Bitcoin là tập hợp của nhiều khái niệm và công nghệ  tạo nên 
 
 Người dùng có thể sử dụng bitcoin thông qua mạng lưới để làm bất cứ việc gì mà một đồng tiền truyền thống có thể làm, bao gồm mua bán hàng hóa, gửi tiền cho cá nhân hay tập thể, hoặc kéo dài thời gian trả thẻ tín dụng (extend credit). Bitcoin có thể được mua bán, trao đổi qua lại với các đồng tiền khác thông qua sàn giao dịch. Bitcoin được coi là một dạng tiền hoàn hảo cho mạng Internet vì nó nhanh, bảo mật, và xuyên biên giới.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Không giống như những đồng tiền truyền thống, bitcoin hoàn toàn là tiền ảo. Với bitcoin thì không hề có đồng xu vật lý nào, thậm chí cả bản thân đồng xu điện tử. Đồng tiền bitcoin là hệ quả của quá trình chuyển một **giá trị** từ bên gửi sang bên nhận. Người sở hữu bitcoin có **khóa** để chứng minh quyền sở hữu của mình trong mạng lưới. Với **khóa** này thì người dùng có thể ký vào giao dịch để mở khóa một **giá trị** muốn gửi sang một người sở hữu khác.**Khóa** được lưu trong ví điện tử trên máy tính hoặc smartphone của người dùng. Sở hữu **khóa** giao dịch là điều kiện cần duy nhất giúp chúng ta sử dụng bitcoin. Điều này có nghĩa là quyền điều khiển bitcoin nằm trọn trong tay của mỗi người dùng.
 
 Bitcoin là một hệ thống phân tán, peer-to-peer. Điều này có nghĩa là không tồn tại server “trung tâm” hoặc bất kỳ điểm điều khiển nào. Bitcoin được tạo ra thông qua một quá trình gọi là “đào” (mining). Quá trình này là một cuộc đua tranh để tìm ra lời giải cho một bài toán nào đó trong quá trình giao dịch bitcoin. Bất kỳ ai tham gia vào mạng lưới bitcoin (ví dụ như là bất kỳ ai dùng thiết bị chạy bitcoin protocol stack) có thể gọi là “người đào bitcoin” (miner). Họ sử dụng sức mạnh máy tính để xác thực và ghi lại các giao dịch. Trung bình mỗi 10 phút sẽ có ai đó xác thực giao dịch của 10 phút trước đó và được thưởng với 1 bitcoin mới. Về bản chất, việc đào bitcoin phi tập trung hóa cấp phép đồng tiền, và triệt tiêu vai trò của ngân hàng trung tâm đồng thời thay thế sự cần thiết của bất kỳ ngân hàng trung tâm nào.
@@ -230,6 +241,17 @@ Sự xác nhận
 Đầu tiên, địa chỉ của Alice sẽ hiển thị rằng giao dịch của Joe là "Unconfirmed". Điều này có nghĩa là giao dịch đã được truyền đi trong mạng lưới bitcoin nhưng vẫn chưa được ghi lại thông qua sổ cái giao dịch, biết đến là blockchain. Để được xác nhận, một giao dịch phải bao gồm một block và thêm vào trong blockchain, điều này xảy ra trung bình mỗi 10 phút. Trong giới tài chính truyền thống, việc này được hiểu là *clearing*. Để biết thêm về việc truyền, phê chuẩn và xác nhận giao dịch bitcoin, xem thêm phần *mining* ở trên.
 
 Alice tự hào giờ mình đã sở hữu 0.10 BTC. Trong chương tiếp theo, chúng ta sẽ xem giao dịch đầu tiên của cô với bitcoin, và thí nghiệm về tầng bên dưới giao dịch cũng như công nghệ truyền cụ thể hơn.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 # Chú thích
 

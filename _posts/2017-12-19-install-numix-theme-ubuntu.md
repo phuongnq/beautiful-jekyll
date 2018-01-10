@@ -14,6 +14,16 @@ In this post, I am going to introduce the steps to install **Numix GTK** theme a
 
 First of all, make sure to install **Tweaks**. Tweaks is a tool that make it easier to configure Ubuntu desktop environment settings. We will use *Tweaks* to configure theme and icons later in this post.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ```
 sudo apt install gnome-tweak-tool
@@ -57,6 +67,17 @@ Here is my configuration:
 ![Tweaks configuration](https://images2.imgbox.com/5c/6a/WofcqXXS_o.png)
 
 # Conclusion
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 In this post, I introduced how to install theme and icons for *Ubuntu*. There are hundreds of *themes* or *icon* sets available in the Internet. You can do a research and choose your preferer. There are many icon sets look more fancy with a lot of color. But for me, simplicity is the best so I chose a theme without too much flashy! For *Tweaks*, there are also more configuration so please feel free to do some modification.
 

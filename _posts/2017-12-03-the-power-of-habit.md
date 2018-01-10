@@ -22,6 +22,17 @@ Bản tiếng Anh có thể mua online trên [Rakuten](https://books.rakuten.co.
 
 Ngoài ra, nếu muốn xem thêm đánh giá của nhiều người khác, review chung có thể tham khảo trên [goodreads](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 # Nội dung sách
 
 Sách chia làm 3 phần, nói về thói quen từ quy mô nhỏ đến quy mô lớn:
@@ -84,6 +95,17 @@ Một ví dụ nữa là thay vì hút thuốc khi kích thích thì chúng ta c
 ![Change routine](https://images2.imgbox.com/be/b9/jhxPBKcd_o.jpg "Change routine")
 
 Cuối chương tác giả cũng nhấn mạnh rằng không có cùng một công thức, bao nhiêu bước thì một thói quen sẽ thay đổi cho tất cả mọi người. Và thói quen thì khó có thể loại bỏ, mà chỉ có thể bị thay thế từ thói quen này sang thói quen khác. Để thay thế một thói quen thì chúng ta cần phải có niềm tin rằng việc thay đổi là có thể đạt được: giữ nguyên Gợi ý và Phần thưởng, thay đổi hành động.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 # Kết luận
 

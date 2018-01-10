@@ -24,6 +24,17 @@ Một số **blockchain explorer** gồm có:
 
 Mỗi trang web ở trên đều có chức năng tìm kiếm có thể tìm từ địa chỉ bitcoin, hash của giao dịch, số block, hoặc block hash và trả lại thông tin tương ứng từ mạng lưới bitcoin. Với mỗi ví dụ về giao dịch hoặc block, chúng tôi sẽ cung cấp một URL để bạn có thể tự học và tìm hiểu.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Mua một cốc cà phê
 Alice, người được giới thiệu ở chương trước, là một người dùng mới và cô đã có được bitcoin đầu tiên. Như chúng ta đã biết trong phần trước, Alice gặp bạn của mình là Joe và đổi tiền mặt lấy bitcoin. Giao dịch được tạo ra bởi Joe, và số tiền gửi vào ví của Alice là 0.10 BTC. Bây giờ Alice sẽ thực hiện giao dịch đầu tiên, mua một cốc cà phê từ quán của Bob ở Palo Alto, California.
 

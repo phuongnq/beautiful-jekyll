@@ -14,6 +14,17 @@ They also have very nice office with concentrate working space, coffee bar, and 
 
 **Eureka** technical blog: https://developers.eure.jp/
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 # Agenda
 
 ## ClojureScript+re-frameで社内アプリケーションを開発した話

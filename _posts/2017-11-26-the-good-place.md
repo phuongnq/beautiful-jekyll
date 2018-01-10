@@ -10,6 +10,17 @@ Hôm nay nhân dịp xem hết Season 1 bộ phim [The Good Place](https://www.n
 
 ## Giới thiệu phim
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
  Bộ phim được chiếu trên Netflix, Season 1 vào năm 2016, hiện đang chiếu Season 2 (thời điểm 2017/11/26). Phim thuộc thể loại hài hước vui nhộn mang tính giải trí cao . Ngoài ra, phim dựa trên nhiều khía cạnh triết học hiện đại, đưa ra một số bài học như sau.
 
 ## Bài học thông qua phim
@@ -34,6 +45,17 @@ Tuy nhiên việc tính điểm đạo đức xem cái nào là điểm cộng, 
 Đi xuyên suốt bộ phim thì câu hỏi này được lặp đi lặp lại qua nhiều nhân vật. Ví dụ như Chidi dành cả đời để nghiên cứu về đạo đức, tìm hiểu về “Cái Tốt” thì thực sự có thể coi là người “Tốt”? Có một nhân vật khác là Tahani, cô cống hiến cả đời làm việc cho các tổ chức từ thiện NPO, tuy nhiên động cơ là để vượt qua cô chị gái của mình. Cô làm nhiều việc “tốt”, nhưng liệu có được coi là người “Tốt”? Lỗ lực làm việc “Tốt” là rất quan trọng, tuy nhiên mỗi khi làm việc “Tốt” thì có lẽ cần nghĩ đến lợi ích của người khác.
 
 ### Tiêu chuẩn của Tốt/Xấu thay đổi tùy vào cách nhìn
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Việc đánh giá cái gì là “Tốt”, cái gì là “Xấu” thực chất chỉ là chủ quan. Việc mình nghĩ là “Tốt” nhưng có thể người khác sẽ nghĩ là “Xấu”.
 
