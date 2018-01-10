@@ -95,17 +95,6 @@ Chỉ các đồng tiền điện tử xây dựng dựa trên *ethereum network
 * BAT – Basic Attention Token
 * ICN – Iconomi
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2750437710821247"
-     data-ad-slot="8905029259"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 > ICO (Initial Coin Offering)
 
 Giống như việc IPO của công ty, các startup thường phát hành token để đổi lấy tiền hoặc ethereum. Đây là một hình thức crowdfunding dựa trên ethereum platform.
