@@ -2,6 +2,7 @@
 title: Dùng yarn thay thế cho npm
 date: 2017-12-27 22:09:09
 tags: [vietnamese, manual, npm, yarn, nodejs]
+share-img: https://yarnpkg.com/assets/og_image.png
 ---
 
 Nói đến package manager cho JavaScript thì mọi người thường nghĩ ngay đến `npm`. Tuy nhiên, ngoài `npm` ra thì có một thư viện khác dùng cũng khá hay, community đang ngày càng phát triển đó là **Yarn**. Trong bài viết này thì mình sẽ giới thiệu sơ qua về công cụ này, cách cài đặt và những câu lệnh sử dụng đơn giản.
