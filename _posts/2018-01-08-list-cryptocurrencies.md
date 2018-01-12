@@ -34,7 +34,7 @@ Nhiều trang tiếng Việt thường dịch cryptocurrency là *tiền ảo* n
 
 Để tìm hiểu thêm về cryptocurrency, có thể đọc chuỗi bài về cuốn **Mastering bitcoin** trước đó:
 
-[http://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/](http://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/)
+[https://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/](https://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"

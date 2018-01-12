@@ -221,7 +221,7 @@ Cách thức đưa ví vào trạng thái offline, tránh bị hack. Một số 
 
 Để biết thêm về các hình thức lưu trữ này, tham khảo bài viết trước đó về **Mastering Bitcoin**:
 
-[http://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/](http://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/)
+[https://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/](https://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
