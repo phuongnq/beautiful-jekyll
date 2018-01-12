@@ -4,7 +4,7 @@ tags: [investment, cryptocurrency, vietnamese, bitcoin, japan, dmm]
 share-img: /img/DMMbitcoin.jpg
 ---
 
-**DMM Group** đã bắt đầu mở cửa cho đăng ký tài khoản trade cryptocurrency tại địa chỉ [DMM Bitcoin](https://bitcoin.dmm.com/). Sàn này được release vào ngày *10/01/2018* và bắt đầu cho đăng ký tài khoản từ *11/01/2018*. Bao gồm cả Bitcoin, sàn cho phép giao dịch 7 loại tiền điện tử, ngoài ra người dùng cũng có thể dùng *margin trade*. (Để biết thêm về Margin trade tham khảo bài trước [Danh sách cách thuật ngữ trong cryptocurrency](http://phuongnq.me/2018-01-10-list-cryptocurrenty-term/)).
+**DMM Group** đã bắt đầu mở cửa cho đăng ký tài khoản trade cryptocurrency tại địa chỉ [DMM Bitcoin](https://bitcoin.dmm.com/). Sàn này được release vào ngày *10/01/2018* và bắt đầu cho đăng ký tài khoản từ *11/01/2018*. Bao gồm cả Bitcoin, sàn cho phép giao dịch 7 loại tiền điện tử, ngoài ra người dùng cũng có thể dùng *margin trade*. (Để biết thêm về Margin trade tham khảo bài trước [Danh sách cách thuật ngữ trong cryptocurrency](https://phuongnq.me/2018-01-10-list-cryptocurrenty-term/)).
 
 ![DMM Bitcoin](/img/DMMbitcoin.jpg)
 
@@ -18,7 +18,7 @@ share-img: /img/DMMbitcoin.jpg
 * LiteCoin (LTC)
 * NEM (XEM)
 
-[http://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/](http://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/)
+[https://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/](https://phuongnq.me/2017-12-22-mastering-bitcoin-chapter1/)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
