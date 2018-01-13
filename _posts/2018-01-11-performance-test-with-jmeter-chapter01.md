@@ -1,5 +1,5 @@
 ---
-title: "Performance Test với jMeter"
+title: "Performance Test với jMeter - Các khái niệm chung"
 tags: [tech, performance test, stress test, vietnamese, jmeter]
 share-img: /img/performance_test.png
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Performance Test với jMeter 03 - Cài đặt"
+title: "Performance Test với jMeter - Cài đặt"
 tags: [tech, performance test, stress test, vietnamese, jmeter]
 share-img: /img/performance_test.png
 ---
