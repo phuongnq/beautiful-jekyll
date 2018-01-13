@@ -76,7 +76,7 @@ Một mẹo nhỏ để mở từ dòng lệnh:
 Thêm vào file `~/.bash_profile` dòng sau:
 
 ```
-alias jmeter ~/opt/apache-jmeter/bin/ApacheJMeter.jar
+alias jmeter='open ~/opt/apache-jmeter/bin/ApacheJMeter.jar'
 ```
 
 Mở terminal mới, chúng ta có thể dùng lệnh `jmeter` từ console để khởi động GUI.
