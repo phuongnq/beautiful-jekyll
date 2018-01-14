@@ -42,7 +42,7 @@ My current working goals: create services for Vietnamese community, Japanese com
 
 > Mobilus Inc/Playnext Lab/Playnext US (http://playnext.com/): Most valuable experience until now. Startup to build *Daily fantasy sport* web/application from scatch. After that moving to *Daily fantasy esport*, then *skins betting* system. Stack: MeteorJS/Golang/Google Cloud/MongDB/Microservice.
 
-> Gian EC company in Japan: to be updated...
+> Giant EC company in Japan: to be updated...
 
 ### Please contact me
 
