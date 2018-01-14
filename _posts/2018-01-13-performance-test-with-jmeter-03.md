@@ -9,6 +9,7 @@ share-img: /img/performance_test.png
 * [Các khái niệm liên quan Performance Test](https://phuongnq.me/2018-01-11-performance-test-with-jmeter-chapter01/)
 * [jMeter là gì](https://phuongnq.me/2018-01-12-performance-test-with-jmeter-02/)
 * [Cài đặt jMeter](https://phuongnq.me/2018-01-13-performance-test-with-jmeter-03/)
+* [Test Plan trong jMeter](https://phuongnq.me/2018-01-14-performance-test-with-jmeter-04/)
 
 Trong bài viết này, chúng ta sẽ cùng tìm hiểu cách cài đặt **jMeter** trên Windows, Linux và MacOS. Vì *jMeter* là ứng dụng chạy trên nền *Java*, cần chắc chắn rằng hệ điều hành của bạn đã cài bản mới nhất cho **máy ảo Java (JVM)**.
 
