@@ -42,7 +42,7 @@ Ngày nay thì **Proof of Concept** xuất hiện rộng rãi trong nhiều lĩn
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-# Poc trong các lĩnh vực
+# PoC trong các lĩnh vực
 
 Như trình bày ở trên, **Proof of Concept** xuất hiện trong nhiều lĩnh vực khác nhau. Sau đây mình xin được giới thiệu một vài lĩnh vực gần gũi với bản thân, đáng quan tâm.
 
