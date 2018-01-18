@@ -212,5 +212,10 @@ prose:
 plugins:
   - jekyll-paginate
 
+comment:
+  site_url: https://phuongnq.me
+  facebook:
+    app_id: '217313195503839'
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

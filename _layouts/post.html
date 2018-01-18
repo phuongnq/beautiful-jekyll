@@ -65,9 +65,11 @@ layout: base
         {% endif %}
       </ul>
 
-      {% if page.comments %}
-        <div class="disqus-comments">
-          {% include disqus.html %}
+      {% if site.comment.facebook.app_id and page.comments != false %}
+        {% include common/loading.html %}
+        {% include common/facebook.html %}
+        <div class="comments">
+            <div class="fb-comments" data-href="{{ site.comment.site_url }}{{ page.url }}" data-numposts="5" data-width="100%"></div>
         </div>
       {% endif %}
     </div>
