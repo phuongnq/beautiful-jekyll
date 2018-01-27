@@ -142,6 +142,8 @@ This responds a file to client and in client side, we render a link with `blob` 
     }
 ```
 
+Here is my whole project in GitHub: [website-scraper-demo-nextjs](https://github.com/phuongnq/website-scraper-demo-nextjs)
+
 # Conclusion
 
 In this post I introduced how to use NextJS to build a website scraper. NextJS, with a boilerplate helps us to create initial source code quickly so we can begin to code our real applications. I don't have a chance to try NextJS for larger project but for simple demos, this is effective way to make thing done. And with *ExpressJS* behide, there should be no problem to use NextJS in larger scale. There are some more websites built with NextJS listed here: [https://github.com/zeit/next.js/issues/1458](https://github.com/zeit/next.js/issues/1458)
