@@ -19,6 +19,8 @@ So there are two keywords here: **server-side rendering** and **React**.
 
 By using *NextJS*, we can use both *server-side rendering* technique and using *ReactJS* library. An other plus to count is that it works smoothly with *ExpressJS* which is best NodeJS web framework right now. Last but not least, when using *NextJS*, I can easily configure default routes by seperating files, something similar to PHP. For example, when access to `/sample_route`, it would, by default executes content in `sample_route.js` in server side. This is very convenient if we want to build a quick demo application. Of course, still we can modify this behavior to make routing more structural.
 
+**NextJS** GitHub page: [https://github.com/zeit/next.js/](https://github.com/zeit/next.js/)
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
