@@ -7,7 +7,7 @@ tags: [tech, english, nodejs, reactjs, nextjs]
 
 > What is NextJS?
 
-NextJS is a *NodeJS framework* that allows us to write server-rendering *React* web application.
+NextJS is a *NodeJS framework* that allows us to write *server-side rendering React* web application.
 
 So there are two keywords here: **server-side rendering** and **React**.
 
