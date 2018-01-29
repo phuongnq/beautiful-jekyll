@@ -1,5 +1,5 @@
 ---
-title: "Memo how to use node with nodebrew under proxy"
+title: "How to use node with nodebrew under proxy"
 tags: [tech, english, node, nodebrew, proxy]
 ---
 
