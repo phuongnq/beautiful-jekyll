@@ -6,7 +6,7 @@ share-img: /img/tet_holiday_01.min.jpg
 
 # Introduction about Tet
 
-Tet is traditional holiday for Vietnamese. Unlike Gregorian calendar, in Vietnam and some other countries (China, Korea), we celebrate new year with Luna calendar. There are some opinion that we should elimilate Tet holiday and follow Gregorian calendar's new year as most of the world is following. For example, in the past, Japan had celebrated Lunar new year as well but they changed to Gregorian calendar's new year so that it's easier to do businees. The rule is simple: resting when the world is resting and working when the world is working. 
+Tet is traditional holiday for Vietnamese. Unlike Gregorian calendar, in Vietnam and some other countries (China, Korea), we celebrate new year with Luna calendar. There are some opinion that we should eliminate Tet holiday and follow Gregorian calendar's new year as most of the world is following. For example, in the past, Japan had celebrated Lunar new year as well but they changed to Gregorian calendar's new year so that it's easier to do businees. The rule is simple: resting when the world is resting and working when the world is working. 
 
 ![Hoa dao](/img/tet_holiday_01.min.jpg)
 
