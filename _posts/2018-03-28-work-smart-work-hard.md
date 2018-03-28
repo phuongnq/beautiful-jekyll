@@ -26,6 +26,17 @@ Other chapters talk about how we should eat, sleep, working without fatigue so k
 
 So I realised that instead of managing my time (of course, still, we should do that^^!), it is more important to manage my concentration. In fact, if we are more concentrated, we can complete a task with more accuracy and in less time. I've tested with my daily work and very happy with what I could archive: I spend morning time to implement most difficult tasks, afternoon to just checking, adding document or taking part in meetings, discussion with teammates. Until now, everything is going great: no or little bugs fix, highly evaluated by teammates about schedules and I'm feeling that I could see the overall picture of the project, confident about deadline, etc.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 # Working smart vs working hard
 
 So back to the main subject about **working smart** vs **working hard**!
@@ -56,3 +67,13 @@ In my opinion, they work smart like that because they can effectively manage the
 
 The story may be different if you want to start your own business: you may have to work smart first, then work hard base on that smart!
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
