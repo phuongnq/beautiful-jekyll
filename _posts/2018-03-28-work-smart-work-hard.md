@@ -45,7 +45,7 @@ As a background, I studied in Japan for half of my 4 years university in Japan a
 
 At the same time, there are many people advise you to work harder and harder. If you are not deeply thinking about it, just work like crazy, you may fall in the trap of working more but archive less. In my software engineering industry, there are many examples for this opinion:
 
-* You work hard in **many trivial tasks** but not well evaluated from your managers. They evaluated someone else who could solve **a difficult problem**.
+* You work hard in **many trivial tasks** but were not well evaluated by your managers. They evaluated someone else who could solve **a difficult problem**.
 
 * You work hard on writing/doing more test cases but you could create an automation test which implemented one time but use for many times.
 
