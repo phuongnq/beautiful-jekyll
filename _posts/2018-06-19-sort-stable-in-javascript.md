@@ -18,6 +18,8 @@ const arr = [
 arr.sort((a, b) => 0);
 ```
 
+![](/img/javascript.jpg)
+
 # Answer
 
 JavaScript has a build in function `sort`, as described in [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
