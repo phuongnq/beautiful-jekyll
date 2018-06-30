@@ -4,7 +4,7 @@ title: Categories
 subtitle: Posts by categories
 ---
 
-**Browse post by following categories:**
+**Browse posts by following categories:**
 
 <ul>
     {% for category in site.categories %}
