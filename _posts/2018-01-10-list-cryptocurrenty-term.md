@@ -1,6 +1,7 @@
 ---
 title: "Danh sách cách thuật ngữ trong cryptocurrency"
 tags: [investment, cryptocurrency, vietnamese, bitcoin]
+categories: [vietnamese]
 share-img: /img/depth_chart.png
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Understand Linux system file permission"
 tags: [tech, english, linux]
+categories: [english, programming]
 share-img: /img/linux_file_permission.png
 ---
 

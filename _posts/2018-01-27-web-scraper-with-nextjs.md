@@ -1,6 +1,7 @@
 ---
 title: "Create a website scraper with NextJS"
 tags: [tech, english, nodejs, reactjs, nextjs]
+categories: [english, programming]
 ---
 
 # Introduction

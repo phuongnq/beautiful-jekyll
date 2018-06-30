@@ -2,6 +2,7 @@
 title: Technical review - Try using Symfony 4
 date: 2017-12-10 22:38:20
 tags: [tech, english, programming, symfony, framework]
+categories: [english, programming]
 ---
 As we may have known, Symfony 4 was released on November 30th. We can check the release detail from [here](https://symfony.com/blog/hello-symfony-4). This post means to provide some summary for the new release as well as a memo for how to do some simple demos using *Symfony 4*. To whom who is not familiar with the framework, *Symfony* is a set of reusable PHP components, and a PHP framework for web projects. Refer to [Symfony homepage](https://symfony.com/) for more detail.
 # New features & Improvement

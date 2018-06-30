@@ -1,6 +1,7 @@
 ---
 title: "How to get a driver's license in Japan"
 tags: [life, japan, english, car, driving]
+categories: [english, driving]
 share-img: /img/driving_japan.jpg
 ---
 

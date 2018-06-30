@@ -1,6 +1,7 @@
 ---
 title: "How to use node with nodebrew under proxy"
 tags: [tech, english, node, nodebrew, proxy]
+categories: [english, programming]
 ---
 
 Normally we can use just install and use `node`, `npm` packages directly from the Internet. But under some special circumstances, we may need to install via proxy or use different node version. We can do that with `nodebrew` and here is the manual.

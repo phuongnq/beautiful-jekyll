@@ -1,6 +1,7 @@
 ---
 title: "Note about sort stable in JavaScript"
 tags: [tech, english, javascript]
+categories: [english, programming]
 share-img: /img/javascript.jpg
 ---
 

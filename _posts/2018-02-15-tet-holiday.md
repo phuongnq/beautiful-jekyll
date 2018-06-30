@@ -1,6 +1,7 @@
 ---
 title: "Vietnam traditional new year & my thought"
 tags: [vietnam, english, tradition, tet, holiday]
+categories: [english]
 share-img: /img/tet_holiday_01.min.jpg
 ---
 

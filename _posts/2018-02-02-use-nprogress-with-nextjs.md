@@ -1,6 +1,7 @@
 ---
 title: "Use Nprogress module with NextJS"
 tags: [tech, english, nodejs, reactjs, nextjs]
+categories: [english, programming]
 ---
 
 # Introduction

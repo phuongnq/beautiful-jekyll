@@ -2,6 +2,7 @@
 title: Meetup note - Eureka meetup for front-end engineer
 date: 2017-12-17 16:35:22
 tags: [meetup, eureka, tech, english]
+categories: [english, programming]
 ---
 
 [Eureka](https://eure.jp/) inc is a venture company with around 130 employees. They provide services about dating in both web and native applications (iOS/Android). The major service is [Pairs](https://www.pairs.lv/) which is a matching service for people who is looking for relationship parter. **Pairs** has more than *6,000,000* users from Japan and Taiwan. They also have  plan to expand the business to Korea. I also have a chance to use this service and experience excellent UI/UX. The app for iOS works smoothly and I has an impression of in fashion which is absolutely neccessary for dating application.

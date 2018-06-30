@@ -1,6 +1,7 @@
 ---
 title: "Danh sách các loại tiền cryptocurrency có thể giao dịch được tại Nhật Bản"
 tags: [investment, cryptocurrency, vietnamese, japan]
+categories: [vietnamese]
 share-img: /img/cryptocurrency.jpeg
 ---
 

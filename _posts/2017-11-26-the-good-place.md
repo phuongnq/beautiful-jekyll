@@ -2,6 +2,7 @@
 layout: post
 title: Giới thiệu phim - The Good Place
 tags: [drama, netflix, review, vietnamese]
+categories: [vietnamese]
 ---
 
 Hôm nay nhân dịp xem hết Season 1 bộ phim [The Good Place](https://www.netflix.com/jp-en/title/80113701), thấy khá hấp dẫn, đồng thời qua tìm hiểu trên mạng có một số bài viết khá hay về phim, mình tổng hợp lại  vào bài viết blog này.  Nội dung về việc  học được gì về vấn đề  thế nào là tốt, thế nào là xấu qua bộ phim.

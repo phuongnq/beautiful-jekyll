@@ -2,6 +2,7 @@
 title: How to open EUC-JP or SHIFT-JIS enconded Japanese files with Sublime Text 3
 date: 2017-12-21 21:05:34
 tags: [tech, manual, sublime3, english, encoding]
+categories: [english, programming]
 ---
 
 In Japanese, besides *UTF-8*, there are other encodings such as *EUC-JP* or *SHIFT-JIS*.

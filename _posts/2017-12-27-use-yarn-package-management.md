@@ -2,6 +2,7 @@
 title: Dùng yarn thay thế cho npm
 date: 2017-12-27 22:09:09
 tags: [vietnamese, manual, npm, yarn, nodejs]
+categories: [english, programming]
 share-img: https://yarnpkg.com/assets/og_image.png
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Từ hôm nay đã có thể đăng ký sàn DMM Bitcoin cho các bạn ở Nhật Bản"
 tags: [investment, cryptocurrency, vietnamese, bitcoin, japan, dmm]
+categories: [vietnamese]
 share-img: /img/DMMbitcoin.jpg
 ---
 

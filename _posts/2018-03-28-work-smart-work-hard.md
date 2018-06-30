@@ -1,6 +1,7 @@
 ---
 title: "Thought about working smart vs working hard"
 tags: [tech, english, working]
+categories: [english, programming]
 share-img: /img/working.jpg
 ---
 

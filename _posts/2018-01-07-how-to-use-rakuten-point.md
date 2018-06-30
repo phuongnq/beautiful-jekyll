@@ -1,6 +1,7 @@
 ---
 title: "Dùng point của trang mua đồ online Rakuten như thế nào"
 tags: [japan, vietnamese, introduction, life]
+categories: [vietnamese]
 share-img: /img/rakuten_panda.jpg
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Convert Image files to PDF in Ubuntu"
 tags: [tech, english, ubuntu, imagemagick, convert]
+categories: [english, programming]
 ---
 
 # Introduction

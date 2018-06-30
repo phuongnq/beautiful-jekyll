@@ -2,6 +2,7 @@
 title: How to create technical blog with Hexo and deploy to EC2
 date: 2017-12-20 22:22:46
 tags: [tech, english, hexo, nodejs, ec2, manual]
+categories: [english, programming]
 ---
 
 Recently I was starting to write my technical, life hacking blog [www.phuongnq.me](http://www.phuongnq.me). As an engineer, I find writing blog is a great way to create output. And it also yields huge return in long term for the writing investment. Some benifits I could think of are:

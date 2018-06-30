@@ -1,6 +1,7 @@
 ---
 title: "Distributed test with JMeter"
 tags: [tech, performance test, stress test, english, jmeter]
+categories: [english, programming]
 share-img: /img/jmeter_logo.svg
 ---
 

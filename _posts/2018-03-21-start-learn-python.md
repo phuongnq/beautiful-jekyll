@@ -1,6 +1,7 @@
 ---
 title: "Learn Python - Start introduction"
 tags: [tech, english, python]
+categories: [english]
 share-img: /img/python-logo.png
 ---
 

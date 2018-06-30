@@ -2,6 +2,7 @@
 title: Giới thiệu sách – The power of habit
 date: 2017-12-03 21:59:44
 tags: [book, review, vietnamese]
+categories: [vietnamese]
 ---
 
 Lần đầu mình có dịp đọc cuốn này là khi về Việt Nam chơi, thấy tiêu đề hấp dẫn nên mua đọc thử bản tiếng Việt (*Sức mạnh của thói quen*). Năm ngoái khi đi du lịch Mỹ từ California đến Boston, ở sân bay thấy có bán bản tiếng Anh nên mình mua đọc lại. Sách đọc đã lâu nhưng gần đây bản thân mới thực sự thực hành một số thói quen nên hôm nay viết review cho cuốn này.

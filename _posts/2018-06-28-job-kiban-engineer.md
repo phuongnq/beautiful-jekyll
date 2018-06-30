@@ -1,6 +1,7 @@
 ---
 title: "Job: Server Side Engineer - Kiban System"
 tags: [hr, job, japan]
+categories: [job]
 share-img: /img/career_up.jpg
 ---
 

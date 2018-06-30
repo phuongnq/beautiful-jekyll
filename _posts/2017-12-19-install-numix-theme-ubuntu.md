@@ -2,6 +2,7 @@
 title: Install Numix theme and icon for Ubuntu 17.10
 date: 2017-12-19 22:07:11
 tags: [ubuntu, manual, english]
+categories: [english, programming]
 ---
 
 **Ubuntu** is my favorite OS of all time. It's newest [release](https://www.ubuntu.com/desktop/1710) is *17.10*. The Ubuntu Desktop now uses GNOME instead of Unity which is great news. An other thing I like about *Ubuntu* or *Linux* operating system in general is the posibility to customize GUI. If you want, you can make your Ubuntu destop similar to an MacOS!

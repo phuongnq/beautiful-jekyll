@@ -1,6 +1,7 @@
 ---
 title: "Boilerplate for NextJS with Material Design included"
 tags: [tech, english, nodejs, reactjs, nextjs]
+categories: [english, programming]
 share-img: /img/material_design_logo.png
 ---
 

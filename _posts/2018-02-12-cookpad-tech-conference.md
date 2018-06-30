@@ -1,6 +1,7 @@
 ---
 title: "I took part in Cookpad Tech conference 2018"
 tags: [tech, english, conference, cookpad]
+categories: [english, programming]
 share-img: /img/cookpad_wall.min.jpg
 ---
 

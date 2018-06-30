@@ -1,6 +1,7 @@
 ---
 title: "What is optimize images for web and why we should care about it"
 tags: [tech, english, web, optimize]
+categories: [english, programming]
 share-img: /img/web_optimize.jpg
 ---
 
