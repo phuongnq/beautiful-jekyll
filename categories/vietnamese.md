@@ -2,7 +2,7 @@
 layout: page
 title: Bài viết
 subtitle: Danh sách bài viết tiếng Việt
-permalink: category/vietnamese
+permalink: category/vietnamese/index.html
 ---
 
 <ul>

@@ -2,7 +2,7 @@
 layout: page
 title: 記事
 subtitle: 日本語記事一覧
-permalink: category/japanese
+permalink: category/japanese/index.html
 ---
 
 <ul>

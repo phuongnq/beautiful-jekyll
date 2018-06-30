@@ -2,7 +2,7 @@
 layout: page
 title: Posts
 subtitle: List of post in English
-permalink: category/english
+permalink: category/english/index.html
 ---
 
 <ul>

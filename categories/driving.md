@@ -2,7 +2,7 @@
 layout: page
 title: Driving
 subtitle: Everything about driving
-permalink: category/driving
+permalink: category/driving/index.html
 ---
 
 <ul>

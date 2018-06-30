@@ -2,7 +2,7 @@
 layout: page
 title: Job Information
 subtitle: List of jobs
-permalink: category/job
+permalink: category/job/index.html
 ---
 
 

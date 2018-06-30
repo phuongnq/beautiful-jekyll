@@ -2,7 +2,7 @@
 layout: page
 title: Programming
 subtitle: List of posts about programming
-permalink: category/programming
+permalink: category/programming/index.html
 ---
 
 <ul>
