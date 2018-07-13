@@ -7,7 +7,7 @@ share-img: /img/transferwise_screenshot.png
 
 # Giới thiệu
 
-Gần đây do có nhu cầu làm thủ tục người phụ thuộc (bố mẹ ở Việt Nam), mình có dùng dịch vụ TransferWise. Bình thường để gửi tiền từ Nhật Bản về Việt Nam chắc hẳn nhiều người hay chọn theo kiểu chuyển tay ba: người cần chuyển ở Nhật, hỏi bạn bè xem ai cần tiền Yên ở Nhật không, rồi đổi tiền VNĐ sang Yên và ngược lại. Làm như vậy thực ra là không đúng pháp luật, có một số risk nếu chuyển nhiều bị phát hiện có thể quy tội chuyển tiền tay ba (tiếng Nhật gọi là **地下銀行**, trước có một số vụ người Việt chuyển tiền tay ba bị bắt, [link trên Sankei](https://www.sankei.com/affairs/news/180222/afr1802220020-n1.html).
+Gần đây do có nhu cầu làm thủ tục người phụ thuộc (bố mẹ ở Việt Nam), mình có dùng dịch vụ **TransferWise**. Bình thường để gửi tiền từ Nhật Bản về Việt Nam chắc hẳn nhiều người hay chọn theo kiểu chuyển tay ba: người cần chuyển ở Nhật, hỏi bạn bè xem ai cần tiền Yên ở Nhật không, rồi đổi tiền VNĐ sang Yên và ngược lại. Làm như vậy thực ra là không đúng pháp luật, có một số risk nếu chuyển nhiều bị phát hiện có thể quy tội chuyển tiền tay ba (tiếng Nhật gọi là **地下銀行**, trước có một số vụ người Việt chuyển tiền tay ba bị bắt, [link trên Sankei](https://www.sankei.com/affairs/news/180222/afr1802220020-n1.html).
 
 Ngoài ra, để làm giấy tờ người phụ thuộc thì cần có bằng chứng của việc chuyển tiền, nên cần qua một dịch vụ chính thống: chuyển từ tài khoản người gửi sang tài khoản đứng tên bố/mẹ ở Việt Nam. Để thực hiện việc này mình đã dùng **TransferWise**, hôm nay xin được giới thiệu về dịch vụ.
 
@@ -15,7 +15,7 @@ Ngoài ra, để làm giấy tờ người phụ thuộc thì cần có bằng c
 
 # Đặc điểm dịch vụ TransferWise
 
-Link trang web transferwise: [https://transferwise.com/](https://transferwise.com/u/nguyenq1)
+Link trang web **TransferWise**: [https://transferwise.com/](https://transferwise.com/u/nguyenq1)
 
 > TransferWise là gì?
 
@@ -34,7 +34,7 @@ Link trang web transferwise: [https://transferwise.com/](https://transferwise.co
 
 Dịch vụ này bắt nguồn từ câu chuyện của hai nhà sáng lập Taavet Hinrikus và Kristo Käärmann:
 
-Taavet làm việc phát triển ứng dụng *Skype* tại Estonia, một đất nước ở Châu Âu nên được trả bằng đồng euro, nhưng lại đang sống tại London. Kristo làm việc tại London nhưng lại có một khoản chi trả mua nhà tại Estonia bằng đồng euro. Họ đã nghĩ ra một mô hình để đổi tiền từ đồng bảng Anh sang đồng euro như sau: Hàng tháng hai người kiểm tra tỉ giá qua trang *Reuters* và quyết định một tỷ giá phù hợp. Kristo chuyển tiền bảng Anh vào tài khoản UK của Taavet, và Taavet chuyển euro sang tài khoản euro của Kristo tại Estonia. Cả hai đều có khoản tiền mình cần mà không cần mất phí ngân hàng. (Câu chuyện tương tự như việc chuyển tiền tay ba :)). Từ đó họ suy nghĩ rằng có nhiều người cũng có nhu cầu như vậy, và dịch vụ TransferWise ra đời.
+Taavet làm việc phát triển ứng dụng *Skype* tại Estonia, một đất nước ở Châu Âu nên được trả bằng đồng euro, nhưng lại đang sống tại London. Kristo làm việc tại London nhưng lại có một khoản chi trả mua nhà tại Estonia bằng đồng euro. Họ đã nghĩ ra một mô hình để đổi tiền từ đồng bảng Anh sang đồng euro như sau: Hàng tháng hai người kiểm tra tỉ giá qua trang *Reuters* và quyết định một tỷ giá phù hợp. Kristo chuyển tiền bảng Anh vào tài khoản UK của Taavet, và Taavet chuyển euro sang tài khoản euro của Kristo tại Estonia. Cả hai đều có khoản tiền mình cần mà không cần mất phí ngân hàng. (Câu chuyện tương tự như việc chuyển tiền tay ba :)). Từ đó họ suy nghĩ rằng có nhiều người cũng có nhu cầu như vậy, và dịch vụ **TransferWise** ra đời.
 
 Về cơ bản, **TransferWise** là dịch vụ matching giữa tài khoản bên gửi A và tài khoản bên nhận B ở hai nước dùng hai đồng tiền khác nhau. Ví dụ mình gửi 10 vạn yên từ tài khoản tại Nhật Bản về tài khoản cá nhân khác tại Việt Nam. Khi đó nếu có một người khác cũng muốn gửi ~20 triệu VNĐ sang Yên thì hai giao dịch sẽ match, hai bên đều nhận được Yên/VNĐ tương ứng mà không cần mất thêm khoản phí giao dịch. Từ phía người dùng sẽ không thấy sự matching này nhưng dịch vụ hoạt động tương tự như vậy.
 
@@ -95,7 +95,7 @@ Mình cũng đã thử so sánh dịch vụ này với các cách chuyển tiề
 
 Dịch vụ có giao diện hiện đại, có ứng dụng *iOS*, *Android* và có đội support rất tốt. Có lần mình cần thay địa chỉ, gửi inquery thì được support rất tốt và nhanh chóng. Dịch vụ còn có chức năng gửi lại **Repeat** để gửi đúng số tiền vào đúng tài khoản của lần giao dịch trước, rất thuận tiện để hàng tháng gửi vào một tài khoản tiết kiệm.
 
-Có thể nói **TransferWise** là một dịch vụ dành cho người làm việc tại nước ngoài như Nhật Bản. Qua dùng dịch vụ chúng ta có thể cảm nhận được ứng dụng fintech trong việc dùng hạ tầng ngân hàng hiện tại tại ứng dụng trên internet. Nếu có cơ hội chuyển tiền quốc tế, mọi người hãy thử dùng dịch vụ TransferWise. Dùng link sau để được nhận được một lần chuyển tiền miễn phí (nếu giao dịch không quá 500 bảng Anh):
+Có thể nói **TransferWise** là một dịch vụ dành cho người làm việc tại nước ngoài như Nhật Bản. Qua dùng dịch vụ chúng ta có thể cảm nhận được ứng dụng fintech trong việc dùng hạ tầng ngân hàng hiện tại tại ứng dụng trên internet. Nếu có cơ hội chuyển tiền quốc tế, mọi người hãy thử dùng dịch vụ **TransferWise**. Dùng link sau để được nhận được một lần chuyển tiền miễn phí (nếu giao dịch không quá 500 bảng Anh):
 
 [https://transferwise.com/u/nguyenq1](https://transferwise.com/u/nguyenq1)
 
