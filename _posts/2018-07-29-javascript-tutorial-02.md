@@ -100,3 +100,5 @@ Danh sách tutorial JavaScript:
 * [Cẩn thận với dấu ngắt dòng;](https://phuongnq.me/2018-07-27-javascript-tutorial-01/)
 
 * [Dùng === thay cho ==](https://phuongnq.me/2018-07-29-javascript-tutorial-02/)
+
+* [Khai báo trước khi dùng](https://phuongnq.me/2018-07-30-javascript-tutorial-03/)
