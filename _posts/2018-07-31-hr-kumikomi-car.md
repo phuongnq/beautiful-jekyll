@@ -53,7 +53,7 @@ share-img: /img/career_up.jpg
 
 # 勤務先
 
-東京
+神奈川県　鴨居駅
 
 Please email me for more information about this job: nquangphuong@gmail.com
 
