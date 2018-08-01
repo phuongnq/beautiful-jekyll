@@ -5,6 +5,8 @@ categories: [job]
 share-img: /img/career_up.jpg
 ---
 
+**Status**: `Open`
+
 # 業務内容
 
 国内オンサイト常駐開発要員

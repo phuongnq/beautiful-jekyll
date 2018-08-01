@@ -5,6 +5,8 @@ categories: [job]
 share-img: /img/career_up.jpg
 ---
 
+**Status**: `Open`
+
 ### Job Function / Position
 
 サーバサイドエンジニア・コンテンツマネジメントシス テム(中途)
