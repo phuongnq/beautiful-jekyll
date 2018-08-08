@@ -57,9 +57,9 @@ const a = '1';
 const b = 1;
 const c = '1.0';
 
-console.log(a == b);
-console.log(b == c);
-console.log(a == c);
+console.log(a === b);
+console.log(b === c);
+console.log(a === c);
 ```
 
 ```bash
@@ -100,3 +100,5 @@ Danh sách tutorial JavaScript:
 * [Cẩn thận với dấu ngắt dòng;](https://phuongnq.me/2018-07-27-javascript-tutorial-01/)
 
 * [Dùng === thay cho ==](https://phuongnq.me/2018-07-29-javascript-tutorial-02/)
+
+* [Khai báo trước khi dùng](https://phuongnq.me/2018-07-30-javascript-tutorial-03/)
