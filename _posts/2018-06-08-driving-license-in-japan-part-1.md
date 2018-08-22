@@ -11,7 +11,7 @@ After 2 months of hard working, finally I got my driver's license in Japan. In t
 
 # Introduction
 
-In Japan, and especially in Tokyo, we are living in an extremely convenient environment. There are many trains running from early morning to midnight. And bus stations system is pretty good as well. For that reason, it is not that surprised if you can live here without a car. This is so different from some other countries, for example America. Actually, I had been living in Japan for 7 years without a license but didn't get any problem at all. 
+In Japan, and especially in Tokyo, we are living in an extremely convenient environment. There are many trains running from early morning to midnight. And bus stations system is pretty good as well. For that reason, it is not that surprised if you can live here without a car. This is so different from some other countries, for example America. Actually, I had been living in Japan for 7 years without a license but didn't get any problem at all.
 
 At first, my motivation to take driver's license was that most of my friends had taken it, so I thought it may be a good time to check it out. But after a few weeks practicing, I realized that driving is actually interesting! It's a combination of recognizing around environment, choosing the right decision and taking action quickly. And the world while driving is so different compare to the world of walking people. This is a new thing that I had learned during the course.
 
@@ -60,7 +60,7 @@ Even choosing to go to driving school, there are many ways to do that. You can t
 
 I have a daily job so unfortunately could not take a camp course. I chose a standard school which is near my working place and learned in the evening after finished work. For some lessons, I also use weekends to go to school as well. Depends on one's condition, we can choose school near work office, near home or any convenient places. Most of school provides with similar courses, but with some minor difference about extra benefits. For example, normal lesson takes 50 minutes but some schools also provide 100 minutes driving lessons. We can learn more driving techniques or drive to far places with 100 minutes lessons. An other example is that some schools take you to highway road as a part of the course while some don't. So make sure to check their websites, ask friends, or go directly to driving school to confirm about the courses.
 
-I will introduce a little more about the school I went. Around Tokyo, I think they provide pretty good courses with easy to understand instructions. I took a course at Koyama Driving School near Futakotamagawa station. Here is their websites: 
+I will introduce a little more about the school I went. Around Tokyo, I think they provide pretty good courses with easy to understand instructions. I took a course at Koyama Driving School near Futakotamagawa station. Here is their websites:
 
 Japanese: [http://www.koyama.co.jp/](http://www.koyama.co.jp/)
 
@@ -74,7 +74,7 @@ This school is good because it is:
 
 * You can drive Audi A3/BMW here (yes, you can!, but depends on the courses, you could drive it 1 or more times. In my case, I only drive Audi for 1 time, when going to highway road). This is also first time in Japan you can drive Audi A3 in a driving school.
 
-* Provide on line account so that you can practice on line after each lesson. There are also sample tests. If you pass all sample tests here, I believe it would be 90% you could pass actual paper test in police station testing center afterward. 
+* Provide on line account so that you can practice on line after each lesson. There are also sample tests. If you pass all sample tests here, I believe it would be 90% you could pass actual paper test in police station testing center afterward.
 
 Sample of course's fee in Koyama driving school:
 
@@ -182,7 +182,7 @@ If passing this test, you are considered to have enough skills for driving and w
 
 # Examination in police station testing center (運転免許試験所)
 
-This is last step before actually get driver's license. 
+This is last step before actually get driver's license.
 
 You have to go to police station testing center (**運転免許試験所**) to take paper test. If you pass the test, police would issue driver's license right away in that day. The place is different for each prefecture and you have to go to police station of your living address. The test is from Monday to Friday (in Kanagawa-ken, it is possible on Sunday as well but may take time to register). If you take the test on work day, make sure to take a day off from work/school because the procedue may take time. Make sure to go to police stations early because there is some form you have to filled to register.
 
