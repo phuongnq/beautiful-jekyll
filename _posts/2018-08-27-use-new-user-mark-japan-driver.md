@@ -42,6 +42,8 @@ Nhân dịp này mình tổng hợp những chỗ có thể mua được 初心�
 
 * [Mua qua mạng thông qua các trang bán hàng online như là Rakuten](https://a.r10.to/hyHfk2)
 
+* [Mua trên các dịch vụ C2C như Rakuma](https://fril.jp/search/%E5%88%9D%E5%BF%83%E8%80%85%E3%83%9E%E3%83%BC%E3%82%AF%20)
+
 Nếu không vội thì bạn có thể đặt mua qua Rakuten, hoặc tùy người có thể thích đến cửa hàng để xem trực tiếp rồi mua. Như mình cần mua gấp nên đã qua cả Daiso và Cainz để xem đồ (bên Daiso gần nhà hết hàng nên mình vòng qua Cainz).
 
 Mua offline có một cái hay nữa là có thời gian ngắm nghía các mặt hàng khác dùng cho ô tô. Có một số mặt hàng khá thú vị như là túi đi vệ sinh khi lái xe mà không có trạm dừng gần đó, hoặc dụng cụ gắn điện thoại vào xe. Các loại mark cũng đa dạng, có cả mark thông báo xe có chở em bé :).
