@@ -144,3 +144,5 @@ Các bài viết liên quan đến lái xe tại Nhật Bản:
 * [Vấn đề đổ xăng](https://phuongnq.me/2018-09-02-driving-in-japan-gasoline/)
 
 * [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)
+
+Bài viết có tham khảo từ nguồn https://allabout.co.jp/gm/gc/12701/2/
