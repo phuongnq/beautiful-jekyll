@@ -44,7 +44,7 @@ Cũng có khi có nhân viên ở trạm tự phục vụ, nếu không biết c
 
 2. Dừng xe, xuống xe và thao tác ở bảng điều khiển. Khi bắt đầu sẽ phải chọn loại xăng và lượng đổ. Thông thường thì sẽ là レギュラー( loại xăng thông thường - regular) và đổ đầy bình (満タン). Nếu biết tiếng Nhật thì trong khi thao tác sẽ có hướng dẫn audio nên cũng không có gì khó khăn.
 
-3. Đưa tiền/thẻ tín dụng vào. Với trạm tự phục vụ thì phải đưa tiền vào trước. Thông thường muốn đầy bình thì tính toán tùy từng xe, muốn chắc chắn thì đưa tờ 5,000 yên hoặc 10,000 yên vào. 
+3. Đưa tiền/thẻ tín dụng vào. Với trạm tự phục vụ thì phải đưa tiền vào trước. Thông thường muốn đầy bình thì tính toán tùy từng xe, muốn chắc chắn thì đưa tờ 5,000 yên hoặc 10,000 yên vào.
 
 4. Sau khi đưa tiền vào rồi thì bạn sẽ phải chạm vào tấm khử tĩnh điện (静電気除去シート) để xác nhận bắt đầu đổ. Sau đó thì lấy đúng cần bơm loại xăng đã chọn, nhét vào cửa đổ xăng của xe rồi mới bắt đầu bấm cần để bơm. Nếu chọn theo số lít hoặc số tiền thì việc bơm xăng sẽ tự động dừng khi đến giá trị đó. Hoặc nếu chọn đầy bình thì xăng sẽ dừng lại khi bình đã đầy. Nên có thể yên tâm bơm đến khi xăng dừng mà ko sợ bị tràn bình. Sau khi đầy rồi thì không bơm nữa.
 
@@ -109,7 +109,7 @@ Nhìn vào công tơ xăng sẽ thấy có hình tam giác. Phía mũi tên ch�
 
 Khi đi thuê xe không phải của mình có thể hữu ích nếu có lỡ không biết vị trí cửa đổ xăng ở đâu
 
-## Cách mở cửa đổ xăng 
+## Cách mở cửa đổ xăng
 
 ![](/img/car_open_gas_mouth.jpg)
 
@@ -120,6 +120,8 @@ Khi đi thuê xe không phải của mình có thể hữu ích nếu có lỡ k
 ![](/img/car_gasoline_type.jpg)
 
 Như trên hình có 3 loại xăng là 軽油, ハイオク, レギュラー. Khi đổ cần chọn đúng loại xăng. Đổ sai loại có thể dẫn đến hỏng hóc, xe chạy không đúng. Thậm chí nếu xe chạy ハイオク mà đổ レギュラー có thể xe sẽ không chạy!
+
+Các bài viết liên quan đến lái xe tại Nhật Bản:
 
 Các bài viết liên quan đến lái xe tại Nhật Bản:
 
@@ -141,3 +143,7 @@ Các bài viết liên quan đến lái xe tại Nhật Bản:
 * [Đổi bằng lái từ bằng Nhật sang bằng Việt Nam](https://phuongnq.me/2018-08-22-doi-bang-nhat-sang-bang-viet/)
 
 * [Mua 初心者マーク ở đâu](https://phuongnq.me/2018-08-27-use-new-user-mark-japan-driver/)
+
+* [Vấn đề đổ xăng](https://phuongnq.me/2018-09-02-driving-in-japan-gasoline/)
+
+* [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)

@@ -133,6 +133,8 @@ phuong0322
 
 Khi dùng mã 友達招待コードnày thì bạn sẽ được 2,500￥ dùng để thuê xe.
 
+Các bài viết liên quan đến lái xe tại Nhật Bản:
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -144,10 +146,14 @@ Khi dùng mã 友達招待コードnày thì bạn sẽ được 2,500￥ dùng 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-**Bài viết cùng chủ đề:**
+* [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
 
-- [Lấy bằng lái xe bên Nhật](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
+* [Thuê xe ô tô ở Nhật Bản với dịch vụ Anyca](https://phuongnq.me/2018-06-30-thue-xe-qua-dich-vu-anyca/)
 
-**Danh sách bài viết liên quan đến ô tô:**
+* [Đổi bằng lái từ bằng Nhật sang bằng Việt Nam](https://phuongnq.me/2018-08-22-doi-bang-nhat-sang-bang-viet/)
 
-[Các bài viết về ô tô](https://phuongnq.me/category/driving/)
+* [Mua 初心者マーク ở đâu](https://phuongnq.me/2018-08-27-use-new-user-mark-japan-driver/)
+
+* [Vấn đề đổ xăng](https://phuongnq.me/2018-09-02-driving-in-japan-gasoline/)
+
+* [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)

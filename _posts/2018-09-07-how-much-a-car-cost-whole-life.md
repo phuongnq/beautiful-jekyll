@@ -74,7 +74,7 @@ Như người Nhật có khi họ đổi xe trung bình 7 năm, lại mua một 
 
 Dựa theo công thức tính toán ở trên, giả sử người dùng đi xe từ lúc 20 tuổi cho đến khi 70 tuổi, tức là trong 50 năm. Thì chi phí sẽ là:
 
-** Chi phí mua/thay xe**
+**Chi phí mua/thay xe**
 
 ```
 210万円 : 7 năm x 50năm＝1500万円
