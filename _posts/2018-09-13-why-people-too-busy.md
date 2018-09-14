@@ -1,5 +1,5 @@
 ---
-title: "[Lái xe bên Nhật] - Sở hữu ô tô tốn bao nhiêu tiền?"
+title: "[Buôn chuyện] - Tại sao người ta quá bận rộn?"
 tags: [thinking]
 categories: [thinking]
 share-img: /img/
@@ -26,6 +26,20 @@ Khi người ta nhìn thời gian của mình như là tiền bạc, họ thư�
 Mối quan hệ giữa thời gian, tiền bạc và sự lo lắng được Gary S.Becker đưa ra vào những năm sau chiến tranh Mỹ. Mặc dù tiến bộ về kinh tế và thu nhập cao đã đẩy tiêu chuẩn sống lên cao, số giờ thực sự "free" của người Mỹ là con số 0. Ông nhận xét vào năm 1965: *Hơn hết mọi thứ, thời gian được sử dụng cẩn thận hơn so với thế kỷ trước*. Ông nhận thấy khi người ta được trả cao hơn để làm việc, họ có xu hướng làm việc nhiều giờ hơn, bởi khi đó làm việc sinh lời nhiều hơn. Việc tăng giá trị của thời gian lao động đưa đến sức ép cho thời gian nói chung. Việc nghỉ ngơi trở thành việc gây ra stress, do con người nghĩ rằng mình đang không dùng thời gian một cách thông minh.
 
 # Tầng lớp giải lao vội vã
+
+Có một câu đố hóc búa về sự giàu có: Mặc dù con người có thể kiếm ra nhiều tiền hơn, nhưng họ không thể đồng thời kiếm ra nhiều thời gian hơn để tiêu xài. Điều này khiến cho thời giản trở lên đặc biệt hữu hạn, và là tài nguyên không thể gia hạn được.
+
+> Bận rộn có thể giúp bạn trở lên giàu có, tuy nhiên giàu có vẫn khiến bạn bận rộn.
+
+Daniel Hamermesh của đại học Texas ở Austin gọi điều này là "yuppie kvetch" (yuppie: một người trẻ có thu nhập ổn định và cuộc sống đầy đủ; kvetch: người thường xuyên than phiền). Trong một phân tích về dữ liệu time-stress quốc tế, Jungmin Lee, nay thuộc đại học Sogang Seoul, đã chỉ ra rằng việc than phiền về thiếu thời gian lại thường diễn ra ở những gia đình giàu có. Mặc dù đã dành khá nhiều giờ làm ở công ty hay tại nhà, những người với thu nhập cao này vẫn có cảm giác lo lắng về thời gian. Theo như báo cáo từ Gallup, một công ty điều tra vào 2011 thì "Đối với dân Mỹ, càng nhiều tiền kiếm ra càng khiến họ cảm thấy nghèo nàn về thời gian".
+
+Bởi vậy, việc bận rộn có thể giúp bạn trở lên giàu có, tuy nhiên giàu có rồi vẫn khiến bạn cảm thấy bận rộn. Staffan Linder, một nhà kinh tế học Thuỵ Điển đã chẩn đoán ra căn bệnh này vào năm 1970. Cũng giống như Becker, ông thấy rằng việc tăng hiệu quả của thời gian làm việc càng khiến cho con người phải tìm cách sử dụng thời gian rảnh rỗi hiệu quả hơn. Một trong những cách trực tiếp để làm điều này là tiêu thụ nhiều hàng hoá hơn trong cùng một đơn vị thời gian. Để nuông chiều việc "tiêu thụ đồng thời" đó, ông viết, một tên đàn ông "cùng một lúc có thể bắt gặp đang uống cà phê Brazil, hút thuốc lá Hà Lan, làm hớp rượu cô-nhắc, đọc báo New York Times, nghe nhạc Brandenburg Concerto đồng thời giải trí với cô vợ Thuỵ Điển, với những level thành công khác nhau." Điều này khiến cho thời gian thư giãn trở lên ít thư giãn hơn. Theo ông, sản phẩm của nền kinh tế phát triểu là một "tầng lớp giảo lao vội vã".
+
+The explosion of available goods has only made time feel more crunched, as the struggle to choose what to buy or watch or eat or do raises the opportunity cost of leisure (ie, choosing one thing comes at the expense of choosing another) and contributes to feelings of stress. The endless possibilities afforded by a simple internet connection boggle the mind. When there are so many ways to fill one’s time, it is only natural to crave more of it. And pleasures always feel fleeting. Such things are relative, as Albert Einstein noted: “An hour sitting with a pretty girl on a park bench passes like a minute, but a minute sitting on a hot stove seems like an hour.”
+
+
+
+
 
 
 
