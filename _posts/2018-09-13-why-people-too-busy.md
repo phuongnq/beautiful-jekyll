@@ -45,6 +45,45 @@ Việc thiếu thời gian không phải đơn thuần chỉ là vấn đề nh�
 
 # Cuộc đua tới vị trí dẫn đầu
 
+Viết vào năm 1962, nhà khoa học xã hội Sebastian de Grazia đã kiểm nghiệm các vùng đất của Mỹ và cực kỳ thất vọng về sự đối nghịch giữa công nghiệp và tiêu dùng. "Nếu tầng lớp lãnh đạo quá nhiều quyền năng trên nước Mỹ như vậy, tại sao họ lại không có nhiều thời gian rảnh hơn, thứ mà dường như tất cả mọi người đều coi như là vô cùng quý giá?" Có lẽ là de Grazia đã rất may mắn vì không phải sống đến ngày mà giới lãnh đạo không còn nghỉ ăn trưa như hiện nay.
+
+Ba mươi năm về trước, tầng lớp áo xanh công nhân phải làm việc cực nhọc hơn so với giới chuyên gia. Một trong những khoản thù lao co việc là một nhân viên nhận lương là việc lao động hàng tuần thẹo một lịch có thể quản lý và dự đoán được. Những bữa trưa đủ dài và thi thoảng là một ván chơi gôn. Buổi tối họ có thể thưởng thức tạp chí Sharpe Image bên bếp lửa.
+
+Tuy nhiên ngày nay thì giới chuyên gia bất kỳ nơi đâu làm việc nhiều gấp đôi số giờ so với tầng lớp ít học thức. Không nhiều người còn nghĩ đến thời gian cho những ván gôn 9 lỗ. Và bữa trưa có xu hướng tinh gọn hoá, thường là tại bàn làm việc, trong khi đang kiểm tra email. Tại một lúc nào đó, những người lao động này cũng rời khỏi văn phòng, tuy nhiên việc thường xuyên kiểm tra smartphone tạo họ có cảm giác là công việc không bao giờ hết.
+
+Một bản điều tra được thực hiện bởi trường kinh doanh Harvard trên 1000 chuyên gia. Kết quả cho thấy 94% làm việc ít nhất 50 giờ một tuần, và hơn một nửa làm việc nhiều hơn 65 giờ. Một nghiên cứu khác cũng cho thấy rằng phần trăm của người Mỹ đã qua học đại học, mà làm việc nhiều hơn 50 giờ một tuần tăng từ 24% vào năm 1979 tới 28% vào năm 2006. Và theo một điều tra gần đây thì 60% những người dùng smartphone kết nối đến công việc từ 13.5 giờ hoặc nhiều hơn. Tại châu Âu, luật lao động kiềm chế việc làm thêm giờ. Tuy nhiên tại Anh thì trên mỗi 10 nhà quản lý thì có 4 người, là nạn nhân của "căn bệnh Hoa Kỳ", nói rằng họ làm nhiều hơn 60 giờ một tuần. Việc làm quá tải không còn là thứ gì đó đáng xấu hổ.
+
+Tất cả công việc đã làm giảm thơi gian vui chơi. Mặc dù về cơ bản thời gian giải trí đã tăng lên, nhưng phần tăng đó hầu như diễn ra trong khoảng từ 1960 đến những năm 1980. Kể từ đó các nhà kinh tế học đã nhận ra sự tăng của "nghịch lý giải lao", người ít học thức lại nghỉ ngơi nhiều hơn.
+
+Tại Mỹ, những người không kết thúc được giáo dục cấp 3 tăng gần 8 giờ mỗi tuần cho việc giải trí từ 1985 đến 2005. Nam giới với bằng đại học thì ngược lại, thời gian rảnh ỗi của họ giảm 6 giờ trong cùng thời kỳ. Điều này có nghĩa họ nghỉ ngơi ít hơn chính họ vào năm 1965. Nghiên cứu được đưa ra bởi Mark Aguiar đại học Princeton và Erik Hurst đại học Chicago. Điều tương tự xảy ra với nữ giới người Mỹ, những người được hưởng đầy đủ giáo dục. Họ không những có ít thời gian vui chơi so với năm 1965, mà còn ít hơn tới 11 giờ hàng tuần, nếu so sánh với những người phụ nữ không tốt nghiệp cấp 3.
+
+Nhân tố nào là nguyên nhân cho sự chênh lệch giữa giới nghèo-thời-gian và giới giàu-thời-gian như vậy? Một phần là do việc thay đổi cấu trúc thị trường lao động. Cơ hội việc làm đã giảm đáng kể cho những người không có bằng cấp. Việc làm tại xưởng hoặc những công việc chân tay đã co rút lại trọng thế giới nhà giàu. Những việc còn lại thường là trong phân vùng dịch vụ. Chúng thường là những việc được trả thấp và không đủ thoả mãn. Do vậy mà số giờ làm của giới học thức thấp giảm đi, đồng nghĩa với việc thời gian "rảnh" tăng lên. Tuy nhiên, tăng thời gian "rảnh" như vậy cũng không có gì là đáng thèm muốn.
+
+Mặc dù vậy, chênh lệch thời-gian-rảnh giữa lao động học thức cao và học thức thấp không hoàn toàn là sản phẩm của việc thay đổi thị trường lao động. Những người ít học thức cũng dành ít thời gian để tìm việc, làm thêm việc để kiếm tiền hoặc học tập trao dồi thêm kỹ năng, nếu so sánh với những người thất nghiệp nhưng có học thức cao. Và họ cũng dành ít thời gian làm việc nhà cũng như chơi với con cái.
+
+Nhưng điều này không giải thích tại sao lại có nhiều người học vấn đầy đủ, được trả lương cao lại có ít thời gian rảnh rỗi như họ đã từng vào những năm 1960. Nhiều khía cạnh có thể là nguyên cho hiện tượng này. Một trong những lý do là lao động có bằng cấp thì thường thích làm việc mà họ đang làm để kiếm sống, và nó định hình gần với sự nghiệp của họ. Cho nên họ làm nhiều giờ một cách tự nguyện. Đặc biệt là ở những vị trí hàng đầu, công việc có thể coi như là nguồn gốc của thanh thế, vì vậy phần thưởng cho việc làm nhiều giờ là tài chính ổn định.
+
+Một trong những lý do khác là tất cả lao động ngày nay cảm nhận được sự bấp bênh của công việc.
+
+Another reason is that all workers today report greater feelings of job insecurity. Slow economic growth and serious disruptions in any number of industries, from media to architecture to advertising, along with increasing income inequality, have created ever more competition for interesting, well-paid jobs. Meanwhile in much of the rich world, the cost of housing and private education has soared. They can also expect to live longer, and so need to ensure that their pension pots are stocked with ample cash for retirement. Faced with sharper competition, higher costs and a greater need for savings, even elite professionals are more nervous about their prospects than they used to be. This can keep people working in their offices at all hours, especially in America, where there are few legal limits on the working hours of salaried employees.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
