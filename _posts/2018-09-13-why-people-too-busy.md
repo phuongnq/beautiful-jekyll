@@ -2,7 +2,7 @@
 title: "[Buôn chuyện] - Tại sao người ta quá bận rộn?"
 tags: [thinking]
 categories: [thinking]
-share-img: /img/
+share-img: /img/why_people_busy_01.jpg
 ---
 
 > Thiếu thời gian là vấn đề một phần do nhận thức và một phần do cách phân bố thời gian
@@ -10,6 +10,8 @@ share-img: /img/
 Lời tiên tri nghe qua có vẻ đầy hứa hẹn: Trong tương lai thời gian làm việc sẽ ngắn đi và thời gian vui chơi sẽ dài ra. John Maynard Keynes vào năm 1930 đã tiên đoán rằng `con cháu chúng ta sẽ làm việc khoảng 3 giờ mỗi ngày, và nhiều khả năng là do thích`. Sự tiến bộ về kinh tế và khoa học kỹ thuật đã góp phần không nhỏ giảm thời gian lao động trong thời đại của ông. Do vậy không có lý do gì để nghĩ rằng trend này sẽ không còn tiếp diễn nữa. Những chiếc ô tô tân tiến và những công cụ tiết kiệm thời gian khác giúp chúng ta có thêm được tốc độ và giảm thiểu sự vất vả trong mọi khía cạnh của cuộc sống. Các nhà tâm lý học xã hội đã bắt đầu băn khoăn: `Chúng ta sẽ làm gì với tất cả thời gian rảnh rỗi?`
 
 Điều này, trên thực tế hiện tại đã không xảy ra. Ngày nay, tất cả mọi người tại mọi nơi đều rất bận rộn. Trong giới doanh nghiệp, *căn bệnh mãn tính thiếu thời gian* lây nhiễm tới tất cả cán bộ cấp cao trên toàn cầu. Và theo như một nhà phân tích từ McKinsey, căn bệnh này ngày một lan nhanh hơn trong những năm gần đây. Cảm giác này đặc biệt sâu sắc đối với những ông bố bà mẹ đi làm. Mặc cho ta có tất cả những công cụ có vẻ như giúp tiết kiệm thời gian, người ta càu nhàu chúng thực ra tiêu tốn quá nhiều thời gian trong ngày. Như là phải vật lộn trong các phương tiện giao thông, dùng thiết bị robot âm thanh hay là xử lý email cùng một lúc.
+
+![](/img/why_people_busy_01.jpg)
 
 # Tick, tock
 
@@ -30,6 +32,8 @@ Mối quan hệ giữa thời gian, tiền bạc và sự lo lắng được Gar
 Có một câu đố hóc búa về sự giàu có: Mặc dù con người có thể kiếm ra nhiều tiền hơn, nhưng họ không thể đồng thời kiếm ra nhiều thời gian hơn để tiêu xài. Điều này khiến cho thời giản trở lên đặc biệt hữu hạn, và là tài nguyên không thể gia hạn được.
 
 > Bận rộn có thể giúp bạn trở lên giàu có, tuy nhiên giàu có vẫn khiến bạn bận rộn.
+
+![](/img/why_people_busy_02.jpg)
 
 Daniel Hamermesh của đại học Texas ở Austin gọi điều này là "yuppie kvetch" (yuppie: một người trẻ có thu nhập ổn định và cuộc sống đầy đủ; kvetch: người thường xuyên than phiền). Trong một phân tích về dữ liệu time-stress quốc tế, Jungmin Lee, nay thuộc đại học Sogang Seoul, đã chỉ ra rằng việc than phiền về thiếu thời gian lại thường diễn ra ở những gia đình giàu có. Mặc dù đã dành khá nhiều giờ làm ở công ty hay tại nhà, những người với thu nhập cao này vẫn có cảm giác lo lắng về thời gian. Theo như báo cáo từ Gallup, một công ty điều tra vào 2011 thì "Đối với dân Mỹ, càng nhiều tiền kiếm ra càng khiến họ cảm thấy nghèo nàn về thời gian".
 
@@ -93,6 +97,8 @@ Sự gia tăng của lao động nữ giới dường như cũng diễn ra đồ
 
 > Mặc dù phụ nữ làm ít việc nhà hơn trước kia, những việc họ phải làm dường như là bất tận.
 
+![](/img/why_people_busy_03.jpg)
+
 Sự đấu tranh để "có được tất cả" là một thử thách đặc biệt của xã hội hiện đại. Ngay cả trong những gia đình có thu nhập kép, người mẹ vẫn phải làm một phần lớn việc chăm sóc con cái. Các công việc hằng ngày này dường như là bất tận. Người cha thường đảm đương những việc thú vị hơn: như là đưa trẻ đến trung tâm thể thao. Trong khi đó các bà mẹ thường quẩn quanh với những việc như cho ăn, lau rọn, rầy la. Mặc dù phụ nữ làm ít việc nhà hơn, những công việc này là bất tận, như là lau chùi, nấu lướng, giặt giũ. Đàn ông có học thức cao thường giúp nhiều hơn so với chính những ông bố của họ, hoặc những ông bố có ít học vấn hơn. Tuy nhiên phần đó cũng chỉ bằng một nửa so với gì phụ nữ phải làm. Và đàn ông thường có xu hướng làm những việc rời rạc không lặp lại, như là sửa chữa nhà. Tất cả những điều này giải thích cho việc tại sao những bà mẹ, đặc biệt là những bà mẹ đi làm luôn cảm thấy thiếu thời gian. "Theo như Geoffrey Bodbey, một chuyên gia nghiên cứ sử dụng thời gian tại đại học Penn State thì "những bà mẹ đi làm có con nhỏ la fbooj phận khan hiếm thời gian nhất xã hội".
 
 
@@ -101,6 +107,8 @@ Những ông bố bà mẹ hiện tại can thiệp nhiều vào việc nuôi d�
 # No time to lose
 
 Thời gian nghỉ ngơi giờ như một thứ gì đó huyền bí. Nhiều người nghĩ nó bị nguyền rủa. Số khác thì thấy quá đắt đỏ cho việc vui chơi. Nhiều người dành thời gian chăm chú vào màn hình điện thoại ngay cả khi họ thăm bạn bè, tham gia hoạt động tình nguyện. Điều này có xu hướng làm cho người ta hạnh phúc hơn. Không ít người thừa nhận họ sẽ dùng tiền tích lũy được để nghỉ ngơi khi đã về hưu, ngay khi họ có thể. Bận rộn có phần thưởng của nó. Nếu không thì sao người ta lại như vậy?
+
+![](/img/why_people_busy_04.jpg)
 
 Thời gian, là một tài nguyên trơn tuột lạ kỳ, thứ dễ dàng bán đổi, chỉ hữu hình như nó trôi đi và có giá trị nhất khi nó đã đi mất. Không ai than phiền mình có quá nhiều thời gian. Trái lại, con người lo lắng nó trôi đi như thế nào. Thời gian trôi đi càng nhanh khi người ta càng già, khi mà tích lũy hàng năm tăng chậm hơn, ít hào nhoáng hơn. Kinh nghiệm trở nên ít văn thơ và trở thành thói quen nhiều hơn. Năm tháng trôi đi vội vã với những kỷ niệm rõ ràng nhất là vào những năm đầu đời. Và tất nhiên, thứ chúng ta càng cố gắng nắm giữ thì nó trôi đi càng nhanh.
 
