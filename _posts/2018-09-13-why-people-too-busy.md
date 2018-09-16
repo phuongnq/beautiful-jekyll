@@ -15,7 +15,9 @@ Mấy hôm trước có đọc một bài khá hay về thời gian trên tạp 
 
 * Mối liên hệ giữa trình độ lao động và số giờ lao động
 
-* Thời gian làm việc của các bà mẹ có con nhỏ
+* Thời gian làm việc của các bà mẹ có con nhỏ cũng như vấn đề về việc dành thời gian cho con cái
+
+* Suy nghĩ về thời gian
 
 Bài viết dựa trên nhiều nghiên cứu, chủ yếu cho môi trường nước Mỹ. Tuy nhiên nhiều luận điểm thú vị, có thể tham khảo cho chúng ta.
 
