@@ -15,7 +15,7 @@ share-img: /img/nodame_piano.jpg
 
 # Ngoài lề
 
-Xin được giới thiệu bản piano cho bài *Jingle Bells* được phối lại. Với một bài hát cho trẻ em mà với Piano chúng ta có thể chuyển đổi giai điệu trở thành một bài đệm nghe rất tinh tế. Đây là một trong những điều thú vị của Piano nói riêng và âm nhạc nói chung.
+Xin được giới thiệu bản Piano cho bài *Jingle Bells* được phối lại. Với một bài hát cho trẻ em mà với Piano chúng ta có thể chuyển đổi giai điệu trở thành một bài đệm nghe rất tinh tế. Đây là một trong những điều thú vị của Piano nói riêng và âm nhạc nói chung.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8OmYxFWN5wU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
