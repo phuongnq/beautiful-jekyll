@@ -19,3 +19,8 @@ Xin được giới thiệu bản Piano cho bài *Jingle Bells* được phối 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8OmYxFWN5wU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+Các bài viết về học piano:
+
+* [Ký hiệu nốt nhạc](https://phuongnq.me/2018-09-16-piano-tutorial-note-name/)
+
+* [Hợp âm](https://phuongnq.me/2018-09-24-learn-piano-chord/)
