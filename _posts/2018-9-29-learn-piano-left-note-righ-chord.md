@@ -1,5 +1,5 @@
 ---
-title: "[Học Piano] - Khái niệm hợp âm"
+title: "[Học Piano] - Giai điệu: tay trái nốt, tay phải hợp âm"
 tags: [piano]
 categories: [piano]
 share-img: /img/nodame_piano.jpg
@@ -7,17 +7,13 @@ share-img: /img/nodame_piano.jpg
 
 ![](/img/nodame_piano.jpg)
 
-# Làm quen với khái niệm hợp âm
+# Hướng dẫn
 
-![](/img/piano_chord.png)
+![](/img/rthyme_left_note_righ_chord.png)
 
-Danh sách các hợp âm và cách chơi:
+Video chơi mẫu trên Youtube:
 
-![](/img/piano_all_chord.png)
-
-Video hướng dẫn hợp âm trên Youtube (tiếng Anh):
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cepQVdpZB5U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z43kW8D6dO0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Các bài viết về học piano:
 

@@ -24,3 +24,5 @@ Các bài viết về học piano:
 * [Ký hiệu nốt nhạc](https://phuongnq.me/2018-09-16-piano-tutorial-note-name/)
 
 * [Hợp âm](https://phuongnq.me/2018-09-24-learn-piano-chord/)
+
+* [Giai điệu: tay trái nốt, tay phải hợp âm](https://phuongnq.me/2018-09-29-learn-piano-left-note-right-chord/)
