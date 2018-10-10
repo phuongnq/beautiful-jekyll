@@ -39,7 +39,7 @@ Tùy xe khác nhau thì lượng xăng tiêu tốn khác nhau, của mình đi h
 
 # Thăm quan
 
-## Hồ Towako (十和田湖)
+## Hồ Towada (十和田湖)
 
 Đây là hồ lớn nhất khu đảo chính Honshu ở Nhật Bản. Hồ này nối liền 3 tỉnh là Aomori, Akita và Iwate. Tìm hiểu trên mạng thì thấy khu quanh hồ đẹp nổi tiếng vào mùa thu, khi có momiji (lá đỏ). Tham khảo thêm: [https://www.japan-guide.com/e/e3778.html](https://www.japan-guide.com/e/e3778.html).
 
