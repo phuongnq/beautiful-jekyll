@@ -72,12 +72,12 @@ module.exports = ModelTest;
 
 この`ModelTest`で二つのことをやりました
 
-* `test_tb1`というテーブルからデータを集計する
+* `test_tb1`というテーブルからデータを集計する
 
-* 上の結果を`Promise.all`で、別テーブルの`COUNT(*)`でデータのカウントを習得する
+* 上の結果を`Promise.all`で、別テーブルの`COUNT(*)`でデータのカウントを習得する
 
-* クエリの中、`prepare`を使って、変数パラメーターをクエリ文字列の外に管理できる
+* クエリの中、`prepare`を使って、変数パラメーターをクエリ文字列の外に管理できる
 
-`Promise.all`を使うことで、`for`ループ中の`await`使用問題を回避できます。また、同時にクエリするので、クエリスピードが上がります。
+`Promise.all`を使うことで、`for`ループ中の`await`使用問題を回避できます。また、同時にクエリするので、クエリスピードが上がります。
 
-詳細の`mysql2`パッケージの使い方はGithubで参照する:　[https://github.com/sidorares/node-mysql2](https://github.com/sidorares/node-mysql2)
+詳細の`mysql2`パッケージの使い方はGithubで参照する:　[https://github.com/sidorares/node-mysql2](https://github.com/sidorares/node-mysql2)
