@@ -83,12 +83,12 @@ module.exports = ModelTest;
 
 トランザクションを使う場合は
 
-`await conn.beginTransaction()`と`await conn.commit()`の中、理由にクエリ追加することができます。
+`await conn.beginTransaction()`と`await conn.commit()`の中、自由にクエリ追加することができます。
 
-注意しないといけないことは
+注意しないといけないことは下記です。
 
 * 最後にconnectionオブジェクトをリリースこと `conn.release()`。そうしないと、メモリリーク原因になります。
 
-* `try` `catch`で例外を処理します。その時は、トランザクションをロールバックしないといけません。`await conn.rollback()`で実行します。
+* `try/catch`で例外を処理します。その時は、トランザクションをロールバックしないといけません。`await conn.rollback()`で実行します。
 
 * `await/async`を使うことで、簡潔かつコールバックなく、わかりやすいソースコードがかけます。
