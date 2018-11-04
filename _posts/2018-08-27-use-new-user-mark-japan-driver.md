@@ -120,13 +120,21 @@ Trong năm đầu đi xe, việc gắn thẻ 初心者マークlà bắt buộc,
 
 Để đảm bảo lái xe an toàn cho mình và mọi người xung quanh, chú ý tuân thủ đúng pháp luật và gắn 初心者マーク mỗi khi đi xe.
 
-Các bài viết liên quan đến lái xe tại Nhật Bản:
+**Xem thêm các bài viết liên quan đến ô tô:**
 
 * [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
 
 * [Thuê xe ô tô ở Nhật Bản với dịch vụ Anyca](https://phuongnq.me/2018-06-30-thue-xe-qua-dich-vu-anyca/)
 
 * [Đổi bằng lái từ bằng Nhật sang bằng Việt Nam](https://phuongnq.me/2018-08-22-doi-bang-nhat-sang-bang-viet/)
+
+* [Mua 初心者マーク ở đâu](https://phuongnq.me/2018-08-27-use-new-user-mark-japan-driver/)
+
+* [Vấn đề đổ xăng](https://phuongnq.me/2018-09-02-driving-in-japan-gasoline/)
+
+* [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)
+
+* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"

@@ -5,33 +5,35 @@ categories: [driving]
 share-img: /img/car_meigihenko.jpg
 ---
 
-Bên Nhật ngoài việc mua xe mới để đi thì chúng ta có thể mua lại xe cũ trên các trang bán xe online, qua cửa hàng (中古車), hoặc mua, xin lại từ bạn bè người quen muốn đổi xe. Nhất là đối với người mới tập lái xe thì tốt nhất mua một chiếc xe cũ, tập đi xe cho thành thạo rồi mới mua xe mới. Trong trường hợp mua xe cũ, sẽ có thủ tục đổi tên từ chủ cũ sang chủ mới. Nếu mua qua các cửa hàng bán xe cũ thì họ sẽ giúp mình làm thủ tục này (có mất phí). Nếu mua hoặc xin lại xe qua bạn bè thì tự mình phải đi làm thủ tục đổi tên. Tự mình đi làm có lợi giảm chi phí so với việc thuê một bên thứ 3 làm giúp. (Thuê bên thứ 3 làm thường mất khoảng 3-4 man hoặc hơn, tự làm thì khoảng dưới 1man tất cả các thủ tục).
+Bên Nhật ngoài việc mua xe mới để đi thì chúng ta có thể mua lại xe cũ trên các trang bán xe online, qua cửa hàng (**中古車**), hoặc mua, xin lại từ bạn bè người quen muốn đổi xe. Nhất là đối với người mới tập lái xe thì tốt nhất mua một chiếc xe cũ, tập đi xe cho thành thạo rồi mới mua xe mới. Trong trường hợp mua xe cũ, sẽ có thủ tục đổi tên từ chủ cũ sang chủ mới; tiếng Nhật gọi là **名義変更**. Nếu mua qua các cửa hàng bán xe cũ thì họ sẽ giúp mình làm thủ tục này (có mất phí). Nếu mua hoặc xin lại xe qua bạn bè thì tự mình phải đi làm thủ tục đổi tên. Tự mình đi làm có lợi giảm chi phí so với việc thuê một bên thứ 3 làm giúp. (Thuê bên thứ 3 làm thường mất đến gần 100,000円, tự làm thì chỉ mất khoảng 5,000円 tất cả các thủ tục).
 
-Bài viết này note lại quá trình làm thủ tục, các thủ tục cần thiết từ lúc nhận xe từ chủ cũ cho tới khi hoàn tất thủ tục chuyển giao cho chủ mới.
+Bài viết này note lại quá trình làm thủ tục, các giấy tờ cần thiết từ lúc nhận xe từ chủ cũ cho tới khi chuyển giao cho chủ mới.
 
 ![](/img/car_meigihenko.jpg)
 
 Sau khi đã đàm phán xong giá, bên mua bến bán ok rồi thì sẽ cần phải làm thủ tục 名義変更 để chuyển chủ xe sang chủ mới. Thủ tục này cũng có ý nghĩa là cơ quan hành chính và cảnh sát biết được xe đã có chủ mới, để thanh toán thuế cho xe đó từ lúc chuyển giao. Về nguyên tắc thì chủ mới sẽ phải làm những thủ tục này, giấy tờ cần thiết thì xin từ chủ cũ.
 
+Ngoài ra có thể nhận xe trước rồi làm thủ tục này vào thời gian rảnh của của chủ mới.
+
 # Các giấy tờ cần thiết
 
 Giấy tờ cần thiết sẽ khác nhau giữa tự mình đi làm và nhờ bên thứ 3 làm giúp. Về cơ bản tự mình đi làm thì cần nhiều giấy tờ hơn một chút, tuy nhiên cũng không hề phức tạp. Dưới đây là danh sách giấy tờ nếu tự đi làm:
 
-* 譲渡証明書
+* **譲渡証明書**
 
 Đây là giấy nhượng quyền sở hữu xe từ chủ cũ sang chủ mới. Cần xin con dấu của chủ cũ.
 
 Link download giấy: [Download 譲渡証明書](https://annai-center.com/pdf/jotosyomei.pdf)
 
-* 印鑑証明書 của chủ cũ (旧所有者の印鑑証明書)
+* **印鑑証明書 của chủ cũ (旧所有者の印鑑証明書)**
 
 Xin giấy chứng nhận con dấu của chủ cũ. Có thể lấy tại combini nếu chủ cũ đã đăng ký con dấu với cơ quan hành chính (区役所・市役所). Hoặc có thể lên 役所 để xin.
 
-* 印鑑証明書 của chủ mới (新所有者の印鑑証明書)
+* **印鑑証明書 của chủ mới (新所有者の印鑑証明書)**
 
-Xin giấy chứng nhận con dấu của chủ mới. Có thể lấy tại combini nếu chủ cũ đã đăng ký con dấu với cơ quan hành chính (区役所・市役所). Hoặc có thể lên 役所 để xin.
+Xin giấy chứng nhận con dấu của chủ mới. Có thể lấy tại combini nếu chủ mới đã đăng ký con dấu với cơ quan hành chính (区役所・市役所). Hoặc có thể lên 役所 để xin.
 
-* 委任状
+* **委任状**
 
 Đây là giấy ủy thác cần thiết nếu chủ mới hoặc chủ cũ không tự đi làm giấy tờ được. Trong giấy ghi rõ tên/địa chỉ người đi làm thủ tục, lý do ủy thác là 移転登録, số  đăng ký xe và tên/địa chỉ/con dấu của chủ cũ và chủ mới.
 
@@ -39,15 +41,15 @@ Như trường hợp mình là chủ mới tự đi làm vẫn xin giấy này m
 
 Link download giấy: [Download 委任状](https://annai-center.com/pdf/ininjo.pdf)
 
-* 車検証
+* **車検証**
 
 Giấy chứng nhận kiểm tra xe chưa hết hạn. Giấy này có từ chủ cũ. Khi mua xe chú ý phải có giấy này, nếu hết hạn rồi thì phải nhờ chủ cũ đi làm 車検 trước.
 
-* 車庫証明書 của chủ mới (新使用者の車庫証明書)
+* **車庫証明書 của chủ mới (新使用者の車庫証明書)**
 
 Đây là giấy tờ chứng minh chủ mới có chỗ đậu xe. Giấy tờ này mất thời gian nhất và thường phải làm đầu tiên. Đăng ký tại sở cảnh sát nơi có thẩm quyền đăng ký (thường sẽ là sở cảnh sát gần nhà, nhưng cần đối chiếu để biết chính xác). Bên dưới sẽ nói rõ hơn cách đăng ký giấy này.
 
-* 申請書（第1号様式)
+* **申請書（第1号様式)**
 
 Giấy đăng ký chuyển tên. Có thể làm tại trung tâm hành chính (trong giấy có cần con dấu của chủ cũ nhưng nếu đã có 印鑑証明書 rồi thì không cần)
 
@@ -84,7 +86,7 @@ Trường hợp nhà thuê:
 
 ![](/img/car_meigihenko_place_map.jpg)
 
-* Nếu nhà không có chỗ để xe -> Thuê chỗ để xe từ một bãi gần nhà (cần cách nhà không quá 2km). Tiếng Nhật gọi là 月極 駐車場. Tra Google với từ khóa này thường sẽ cho ra nhũng chỗ gần nhà. Như mình thử quan sát thì quanh nhà cũng có mấy bãi đậu xe, họ có số điện thoại. Có thể trực tiếp gọi điện hỏi xem có chỗ trống không. Trường hợp thuê chỗ đậu xe này mình chưa làm thử, nhưng khả năng cao là cũng sẽ có được giấy chứng nhận chỗ để xe và sơ đồ như trên.
+* Nếu nhà không có chỗ để xe -> Thuê chỗ để xe từ một bãi gần nhà (cần cách nhà không quá 2km). Tiếng Nhật gọi là 月極 駐車場. Tra Google với từ khóa này thường sẽ cho ra những chỗ gần nhà. Như mình thử quan sát thì quanh nhà cũng có mấy bãi đậu xe, họ có số điện thoại. Có thể trực tiếp gọi điện hỏi xem có chỗ trống không. Trường hợp thuê chỗ đậu xe này mình chưa làm thử, nhưng khả năng cao là cũng sẽ có được giấy chứng nhận chỗ để xe và sơ đồ như trên.
 
 ## 2. Đăng ký 車庫証明書 với sở cảnh sát
 
@@ -144,13 +146,13 @@ Giấy tờ như đã trình bày ở trên, gồm có:
 
 Ngoài ra có thêm một số giấy tờ sau sẽ làm tại 運輸局
 
-* 手数料納付書 (tổng chi phí khoảng hơn 2000円 một chút)
+* 手数料納付書 (tổng chi phí khoảng hơn 2,000円 một chút)
 
 * 自動車税・自動車取得税申告書 (đăng ký thông tin xe để nộp thuế năm tiếp theo)
 
 * 申請書（第1号様式） (giấy đăng ký 名義変更, có thể tự in và điền trước nhưng cần chú ý in giấy phù hợp để máy của họ đọc được - Phần ô vuông điền thông tin phải viết bằng bút chì, phần ký tên đóng dấu thì viết bằng bút bi đen không xóa được). Theo như kinh nghiệm cá nhân thì một số thông tin phải xem tờ mẫu mới điền được nên chỉ cần ký tên đóng dấu trước, phần còn lại khi đến cơ quan viết cũng được.
 
-Tại trung tâm sẽ làm thủ tục mất khoảng 45 phút - 1 tiếng tùy đông hay vắng. Nhân viên họ rất nhiệt tình và quá trình làm việc khá smooth nên có thể yên tâm không lo lắng lắm nếu đã đủ giấy tờ ở trên. 
+Tại trung tâm sẽ làm thủ tục mất khoảng 45 phút - 1 tiếng tùy đông hay vắng. Nhân viên họ rất nhiệt tình và quá trình làm việc khá suôn sẻ nên có thể yên tâm không lo lắng lắm nếu đã đủ giấy tờ ở trên. 
 
 Hoàn tất thủ tục, họ sẽ giao biển xe mới, tự mình lắp vào xe. Lắp biển mới xong họ sẽ kiểm tra lại một lần nữa, đóng dấu vào biển và hoàn tất thủ tục. Họ sẽ bảo mọi thứ ok, bạn có thể lái xe về.
 
@@ -160,11 +162,11 @@ Hoàn tất thủ tục, họ sẽ giao biển xe mới, tự mình lắp vào x
 
 # Kết luận
 
-Nếu hoàn tất thủ tục như trên, chúc mừng bạn đã hoàn tất thủ tục 名義変更. Thủ tục có vẻ nhiều giấy tờ nhưng thực ra không phức tạp, làm đúng theo hướng dẫn thì mọi thứ sẽ thuận lợi, không có tình trạng gây khó khăn như ở Việt Nam. So với thuê bên thứ 3 làm giúp (chi phí có khi lên tới 10man tổng cộng), thì tự mình đi chi phí rẻ đi rất nhiều. Chỉ khoảng hơn 5,000円. 
+Nếu hoàn tất thủ tục như trên, chúc mừng bạn đã hoàn tất thủ tục 名義変更. Thủ tục có vẻ nhiều giấy tờ nhưng thực ra không phức tạp, làm đúng theo hướng dẫn thì mọi thứ sẽ thuận lợi, không có tình trạng gây khó khăn. So với thuê bên thứ 3 làm giúp (chi phí có khi lên tới 10man tổng cộng), thì tự mình đi chi phí rẻ đi rất nhiều. Chỉ khoảng hơn 5,000円. 
 
 Ngoài ra tự đi mình cũng biết thêm kiến thức mới như là việc họ đóng seal vào biển xe mới, chứng nhận xe đã có chủ mới.
 
-Xem thêm các bài viết liên quan đến ô tô:
+**Xem thêm các bài viết liên quan đến ô tô:**
 
 * [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
 
@@ -180,7 +182,7 @@ Xem thêm các bài viết liên quan đến ô tô:
 
 * [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto)
 
-Bài viết có tham khảo một số nguồn:
+**Bài viết có tham khảo một số nguồn:**
 
 https://annai-center.com/meigi/
 

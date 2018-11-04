@@ -120,7 +120,7 @@ Ngoài ra, hiện có một số dịch vụ car sharing như là Anyca, nếu b
 
 Với mỗi người và nhu cầu khác nhau thì chi phí sở hữu hay chi chí dùng xe sẽ khác nhau. Bài viết hi vọng đã đưa ra được một công thức chung để ước tính chi phí dùng xe nếu dùng cả đời. Tuỳ vào hoàn cảnh và cách dùng của mình, bạn có thể thay đổi con số, để tính ra chi phí dự kiến sẽ mất và tính xem liệu mình có nên sở hữu xe ô tô hay không.
 
-Các bài viết liên quan đến lái xe tại Nhật Bản:
+**Xem thêm các bài viết liên quan đến ô tô:**
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -133,6 +133,7 @@ Các bài viết liên quan đến lái xe tại Nhật Bản:
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
 * [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
 
 * [Thuê xe ô tô ở Nhật Bản với dịch vụ Anyca](https://phuongnq.me/2018-06-30-thue-xe-qua-dich-vu-anyca/)
@@ -144,5 +145,7 @@ Các bài viết liên quan đến lái xe tại Nhật Bản:
 * [Vấn đề đổ xăng](https://phuongnq.me/2018-09-02-driving-in-japan-gasoline/)
 
 * [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)
+
+* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto
 
 Bài viết có tham khảo từ nguồn https://allabout.co.jp/gm/gc/12701/2/

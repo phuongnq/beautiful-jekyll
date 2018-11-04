@@ -194,18 +194,7 @@ In my case, I studied about 1 week before actual test and score 94 points. Passe
 
 Take driver's license is only the very first step. We have to practice many times before getting familiar with real traffic situations. And make sure to drive safely! Driving may be fun, but with careless, a car may become dangerous weapon, could take people lives!
 
-Các bài viết liên quan đến lái xe tại Nhật Bản:
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2750437710821247"
-     data-ad-slot="8905029259"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+**Xem thêm các bài viết liên quan đến ô tô:**
 
 * [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
 
@@ -218,3 +207,5 @@ Các bài viết liên quan đến lái xe tại Nhật Bản:
 * [Vấn đề đổ xăng](https://phuongnq.me/2018-09-02-driving-in-japan-gasoline/)
 
 * [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)
+
+* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto
