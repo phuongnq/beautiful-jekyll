@@ -17,6 +17,17 @@ Ngoài ra có thể nhận xe trước rồi làm thủ tục này vào thời g
 
 # Các giấy tờ cần thiết
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Giấy tờ cần thiết sẽ khác nhau giữa tự mình đi làm và nhờ bên thứ 3 làm giúp. Về cơ bản tự mình đi làm thì cần nhiều giấy tờ hơn một chút, tuy nhiên cũng không hề phức tạp. Dưới đây là danh sách giấy tờ nếu tự đi làm:
 
 * **譲渡証明書**
