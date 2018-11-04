@@ -57,12 +57,131 @@ Link download: [Download 申請書（第1号様式)](http://www.mlit.go.jp/commo
 
 # Thủ tục tại trung tâm hành chính
 
+Như trên đề cập thì cần làm thủ tục 車庫証明書 tại sở cảnh sát và làm thủ tục 名義変更 tại 運輸局. Thì quá trình làm thủ tục từ lúc mua xe theo trình tự sẽ như sau:
+
+* Đăng ký chỗ để xe
+
+* Đăng ký 車庫証明書 tại sở cảnh sát
+
+* Đăng ký 名義変更 tại 運輸局
+
+Cụ thể từng bước như bên dưới.
+
+## 1. Đăng ký chỗ để xe
+
+Nếu nhà riêng thì có sẵn chỗ để xe là nhà của mình sở hữu -> không cần làm thủ tục này.
+
+Trường hợp nhà thuê:
+
+* Nếu nhà có chỗ để xe -> Đăng ký với chủ nhà hoặc công ty quản lý. Họ sẽ cung cấp cho mình giấy chứng nhận chỗ để xe và sơ đồ chỗ để xe như hình bên dưới
+
+> Giấy chứng nhận chỗ để xe từ chủ nhà:
+
+![](/img/car_meigihenko_place_certification.jpg)
+
+> Bản vẽ sơ đồ chỗ để xe:
+> Note: Bản vẽ này không cần con dấu nên nếu không nhờ chủ nhà in giúp thì có thể tự làm
+
+![](/img/car_meigihenko_place_map.jpg)
+
+* Nếu nhà không có chỗ để xe -> Thuê chỗ để xe từ một bãi gần nhà (cần cách nhà không quá 2km). Tiếng Nhật gọi là 月極 駐車場. Tra Google với từ khóa này thường sẽ cho ra nhũng chỗ gần nhà. Như mình thử quan sát thì quanh nhà cũng có mấy bãi đậu xe, họ có số điện thoại. Có thể trực tiếp gọi điện hỏi xem có chỗ trống không. Trường hợp thuê chỗ đậu xe này mình chưa làm thử, nhưng khả năng cao là cũng sẽ có được giấy chứng nhận chỗ để xe và sơ đồ như trên.
+
+## 2. Đăng ký 車庫証明書 với sở cảnh sát
+
+Nên vào trang của tỉnh/thành phố để xem cụ thể giấy tờ cần thiết. Ví dụ như của tỉnh Kanagawa, giấy tờ họ yêu cầu theo link sau:
+
+Link [自動車の保管場所（車庫）証明等の手続き
+](https://www.police.pref.kanagawa.jp/mes/mesf4020.htm)
+
+Các giấy tờ cần thiết tóm tắt lại gồm có: (trường hợp chỗ để xe của nhà đi thuê)
+
+* 自動車保管場所証明申請書（２通）及び保管場所標章交付申請書（２通）[４枚組１セット] - Giấy đăng ký chỗ để xe. [Link download của cảnh sát tình Kanagawa](https://www.police.pref.kanagawa.jp/pdf/f4020_01.pdf)
+
+* 保管場所の所在図・配置図  (bản đồ chỗ để xe, như phần trên đã trình bày)
+
+* 保管場所使用権原疎明書面 (giấy chứng nhận quyền sử dụng chỗ để xe, như phần trên đã trình bày)
+
+Sau khi có đầy đủ giấy tờ như trên thì đem đến nộp tại sở cảnh sát, quầy làm thủ tục 車庫証明書.
+
+Chú ý địa chỉ sở cảnh sát khác nhau tùy khu vực nên cần lên trang chủ của sở cảnh sát tỉnh/thành phố để biết được địa chỉ cụ thể.
+
+Ví dụ với tỉnh Kanagawa, thành phố Yamato:
+
+Cụ thể tham khảo link: [車庫証明管轄区域・警察署所在地【神奈川県】](https://www.kurunavi.jp/syako/syako_kankatsu_kanagawa_02.html)
+
+-> thành phố 大和市 là ở địa chỉ: 
+
+〒242-0021
+神奈川県大和市中央5丁目15-4
+
+Vậy mang giấy tờ đến địa chỉ đó để làm thủ tục. Chi phí lúc mình làm là 2,600円. Nếu không đông thì nộp hồ sơ mất 15 phút. Không có vấn đề gì thì họ sẽ gửi một giấy hẹn khoảng 3 ngày sau đến lấy kết quả.
+
+Nếu không có vấn đề gì thì bạn sẽ có 車庫証明書 trong khoảng 3 ngày làm việc. (chú ý họ không làm cuối tuần, có nghỉ trưa nên thường tiện nhất là ghé qua sáng sớm trước khi đi làm).
+
+> Nhận 車庫証明書
+
+![](/img/car_meigihenko_shakoshomei.jpg)
+
+## 3. Đăng ký 名義変更 tại 運輸局
+
+Sau khi đã có 車庫証明書 thì lái xe muốn chuyển tên, mang kèm các giấy tờ cần thiết khác đến 運輸局 để hoàn tất thủ tục đổi tên. Đây là bước cuối cùng bạn cần làm thủ tục.
+
+Giấy tờ như đã trình bày ở trên, gồm có:
+
+* 譲渡証明書 (旧所有者の実印の押印があるもの)
+
+* 旧所有者の印鑑証明書 (発行日から3ヵ月以内のもの)
+
+* 新所有者の印鑑証明書 (発行日から3ヵ月以内のもの)
+
+* 旧所有者の委任状 (旧所有者の実印の押印があるもの)
+
+* 新所有者の委任状 (新所有者の実印の押印があるもの)
+
+* 車検証 (車検が切れていないこと)
+
+* 新使用者の車庫証明書 (発行日から1ヵ月以内のもの)
+
+Ngoài ra có thêm một số giấy tờ sau sẽ làm tại 運輸局
+
+* 手数料納付書 (tổng chi phí khoảng hơn 2000円 một chút)
+
+* 自動車税・自動車取得税申告書 (đăng ký thông tin xe để nộp thuế năm tiếp theo)
+
+* 申請書（第1号様式） (giấy đăng ký 名義変更, có thể tự in và điền trước nhưng cần chú ý in giấy phù hợp để máy của họ đọc được - Phần ô vuông điền thông tin phải viết bằng bút chì, phần ký tên đóng dấu thì viết bằng bút bi đen không xóa được). Theo như kinh nghiệm cá nhân thì một số thông tin phải xem tờ mẫu mới điền được nên chỉ cần ký tên đóng dấu trước, phần còn lại khi đến cơ quan viết cũng được.
+
+Tại trung tâm sẽ làm thủ tục mất khoảng 45 phút - 1 tiếng tùy đông hay vắng. Nhân viên họ rất nhiệt tình và quá trình làm việc khá smooth nên có thể yên tâm không lo lắng lắm nếu đã đủ giấy tờ ở trên. 
+
+Hoàn tất thủ tục, họ sẽ giao biển xe mới, tự mình lắp vào xe. Lắp biển mới xong họ sẽ kiểm tra lại một lần nữa, đóng dấu vào biển và hoàn tất thủ tục. Họ sẽ bảo mọi thứ ok, bạn có thể lái xe về.
+
+> Tháo biển cũ và lắp biển mới:
+
+![](/img/car_meigihonko_change_number.jpg)
+
 # Kết luận
+
+Nếu hoàn tất thủ tục như trên, chúc mừng bạn đã hoàn tất thủ tục 名義変更. Thủ tục có vẻ nhiều giấy tờ nhưng thực ra không phức tạp, làm đúng theo hướng dẫn thì mọi thứ sẽ thuận lợi, không có tình trạng gây khó khăn như ở Việt Nam. So với thuê bên thứ 3 làm giúp (chi phí có khi lên tới 10man tổng cộng), thì tự mình đi chi phí rẻ đi rất nhiều. Chỉ khoảng hơn 5,000円. 
+
+Ngoài ra tự đi mình cũng biết thêm kiến thức mới như là việc họ đóng seal vào biển xe mới, chứng nhận xe đã có chủ mới.
+
+Xem thêm các bài viết liên quan đến ô tô:
+
+* [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
+
+* [Thuê xe ô tô ở Nhật Bản với dịch vụ Anyca](https://phuongnq.me/2018-06-30-thue-xe-qua-dich-vu-anyca/)
+
+* [Đổi bằng lái từ bằng Nhật sang bằng Việt Nam](https://phuongnq.me/2018-08-22-doi-bang-nhat-sang-bang-viet/)
+
+* [Mua 初心者マーク ở đâu](https://phuongnq.me/2018-08-27-use-new-user-mark-japan-driver/)
+
+* [Vấn đề đổ xăng](https://phuongnq.me/2018-09-02-driving-in-japan-gasoline/)
+
+* [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)
+
+* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto)
 
 Bài viết có tham khảo một số nguồn:
 
 https://annai-center.com/meigi/
 
 https://annai-center.com/meigi/syorui.php
-
-http://www.kuruma-sitadori.com/car-change-of-name/change-of-name-cost-days.html
