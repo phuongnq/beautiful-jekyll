@@ -35,14 +35,14 @@ Reactのスースコード:
 ```javascript
 {showPreview && (
     <div>
-        <iframe title="preview" style={{ width: '100%', height: '500px' }} src={previewPath} />
+        <iframe title="preview" style={ { width: '100%', height: '500px' } } src={previewPath} />
     </div>
 )}
 ```
 
 この方法で、どんな複雑htmlファイルもプレビューできるので、便利です。
 
-NextJSは`<style dangerouslySetInnerHTML={{ __html: htmlContent }} />`のような使い道もあるようですが、`Server side rendering`の問題もあって、うまくいきませんでした。なので、色々試した結果、`<iframe>`を使うことにしました。
+NextJSは`<style dangerouslySetInnerHTML={ { __html: htmlContent } } />`のような使い道もあるようですが、`Server side rendering`の問題もあって、うまくいきませんでした。なので、色々試した結果、`<iframe>`を使うことにしました。
 
 最後に、生成されたプレビュー用のhtmlファイルはあとで削除しないと、サーバーの容量が無くなりますので、batchで毎日削除します。NodeJSだと、`cron`モジュールなどを使えば、batch実装できます。
 
