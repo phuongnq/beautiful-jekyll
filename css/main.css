@@ -2,7 +2,7 @@
 layout: null
 ---
 
-@import url("pygment_highlights.css");
+@import url("monokai.css");
 
 /* --- General --- */
 
@@ -674,15 +674,9 @@ pre {
 }
 pre code {
   white-space: pre;
+  color: #fff;
 }
-pre.highlight, .highlight > pre, td.code pre {
-  background: #FAFAFA;
-  background-image: linear-gradient(#F9F9F9 50%, #FDFDFD 50%);
-  background-repeat: repeat;
-  background-size: 3em 3em;
-  background-position: 0px 10px;
-  border-left: 7px solid #444;
-}
+
 code table, code table td, code table th, code table tbody, code table tr,
 td.gutter pre {
   padding: 0;
