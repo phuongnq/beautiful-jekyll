@@ -69,7 +69,7 @@ $ rm rmtrash_test
 
 ![](/img/rmtrash_folder.png)
 
-Tham khảo: https://qiita.com/nakamurau1@github/items/7fd6ee87787d0687c2e2
+Bài viết tham khảo: https://qiita.com/nakamurau1@github/items/7fd6ee87787d0687c2e2
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
