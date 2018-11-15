@@ -5,7 +5,7 @@ categories: [life]
 share-img: /img/roppongi_hill.jpg
 ---
 
-Tuần vừa rồi có thử lái xe đi xem phim ở 六本木TOHO. Dưới đây memo lại quá trình từ lúc mua vé đến lúc xem phim. Dịp cuối năm khu này khá đẹp để đi xem phim buổi tối.
+Đợt trước có thử lái xe đi xem phim ở 六本木TOHO. Dưới đây memo lại quá trình từ lúc mua vé đến lúc xem phim. Dịp cuối năm khu này khá đẹp để đi xem phim buổi tối.
 
 ![](/img/roppongi_hill.jpg)
 
