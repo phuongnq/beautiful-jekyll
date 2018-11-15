@@ -66,7 +66,11 @@ Tại trang chủ này mình sẽ tùy vào lịch chiếu mà chọn ngày, ch�
 
 Khi thanh toán trang web sẽ hỏi mã security. Nhập mã từ e-ticket mua qua movieticket.jp hoặc thẻ GIFT.
 
+Khi mua xong sẽ có email gửi mã số (gồm 4 chữ số) về. Đến rạp chỉ cần mang theo mã số này và nhớ tên, số điện thoại người đăng ký.
+
 * **Bước 3: Đến ngày chiếu thì tới rạp xem, chọn đúng chỗ ngồi đã đăng ký**
+
+Lúc vào rạp nhân viên sẽ hỏi mã số đăng ký, tên và số điện thoại.
 
 ![](/img/buy_mticket_step3.png)
 
