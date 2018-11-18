@@ -134,6 +134,8 @@ Với mỗi người và nhu cầu khác nhau thì chi phí sở hữu hay chi c
 </script>
 
 
+**Xem thêm các bài viết liên quan đến ô tô:**
+
 * [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
 
 * [Thuê xe ô tô ở Nhật Bản với dịch vụ Anyca](https://phuongnq.me/2018-06-30-thue-xe-qua-dich-vu-anyca/)
@@ -146,6 +148,8 @@ Với mỗi người và nhu cầu khác nhau thì chi phí sở hữu hay chi c
 
 * [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)
 
-* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto
+* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto)
+
+* [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)
 
 Bài viết có tham khảo từ nguồn https://allabout.co.jp/gm/gc/12701/2/

@@ -163,8 +163,6 @@ Gần đây có tìm hiểu một số loại ô tô tại Nhật Bản, thấy 
 
 <table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #000000;background-color:#FFFFFF;width:410px;margin:0px;padding-top:6px;text-align:center;overflow:auto;"><a href="https://hb.afl.rakuten.co.jp/hgc/16f662e0.694322d2.16f662e1.2aa18e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftaxnerima%2F10018822%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftaxnerima%2Fi%2F10019231%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoiZG93biIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjB9" target="_blank" rel="nofollow" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hgb/16f662e0.694322d2.16f662e1.2aa18e6d/?me_id=1208713&item_id=10019231&m=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftaxnerima%2Fcabinet%2Fshinsha%2Fhonda%2Fnvan2018.jpg%3F_ex%3D80x80&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftaxnerima%2Fcabinet%2Fshinsha%2Fhonda%2Fnvan2018.jpg%3F_ex%3D400x400&s=400x400&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/hgc/16f662e0.694322d2.16f662e1.2aa18e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftaxnerima%2F10018822%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftaxnerima%2Fi%2F10019231%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoiZG93biIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjB9" target="_blank" rel="nofollow" style="word-wrap:break-word;"  >新車 ホンダ N-VAN 660cc 2WD 6MT G Honda SENSING ★DVD・CD・USBプレーヤー/バックカメラ/フロアマット★　5年間の延長保証付き 特別色は別途費用</a><br><span >価格：1540000円（税込、送料別)</span> <span style="color:#BBB">(2018/8/22時点)</span></p></div><br><p style="font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
 
-**Xem thêm các bài viết liên quan đến ô tô:**
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -175,6 +173,8 @@ Gần đây có tìm hiểu một số loại ô tô tại Nhật Bản, thấy 
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+**Xem thêm các bài viết liên quan đến ô tô:**
 
 * [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
 
@@ -188,4 +188,6 @@ Gần đây có tìm hiểu một số loại ô tô tại Nhật Bản, thấy 
 
 * [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)
 
-* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto
+* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto)
+
+* [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)

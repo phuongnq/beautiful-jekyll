@@ -208,4 +208,6 @@ Take driver's license is only the very first step. We have to practice many time
 
 * [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)
 
-* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto
+* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto)
+
+* [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)

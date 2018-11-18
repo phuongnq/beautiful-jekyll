@@ -121,8 +121,6 @@ Khi đi thuê xe không phải của mình có thể hữu ích nếu có lỡ k
 
 Như trên hình có 3 loại xăng là 軽油, ハイオク, レギュラー. Khi đổ cần chọn đúng loại xăng. Đổ sai loại có thể dẫn đến hỏng hóc, xe chạy không đúng. Thậm chí nếu xe chạy ハイオク mà đổ レギュラー có thể xe sẽ không chạy!
 
-**Xem thêm các bài viết liên quan đến ô tô:**
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -133,6 +131,8 @@ Như trên hình có 3 loại xăng là 軽油, ハイオク, レギュラー. K
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+**Xem thêm các bài viết liên quan đến ô tô:**
 
 * [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
 
@@ -146,4 +146,6 @@ Như trên hình có 3 loại xăng là 軽油, ハイオク, レギュラー. K
 
 * [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)
 
-* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto
+* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto)
+
+* [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)

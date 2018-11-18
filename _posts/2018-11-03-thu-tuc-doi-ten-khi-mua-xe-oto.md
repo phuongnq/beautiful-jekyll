@@ -193,6 +193,8 @@ Ngoài ra tự đi mình cũng biết thêm kiến thức mới như là việc 
 
 * [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto)
 
+* [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)
+
 **Bài viết có tham khảo một số nguồn:**
 
 https://annai-center.com/meigi/
