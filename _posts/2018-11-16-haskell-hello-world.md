@@ -40,7 +40,6 @@ drwxr-xr-x   8 root  wheel   272 12 13  2017 ghc-8.2.2-x86_64
 drwxr-xr-x   8 root  wheel   272  6 11 09:07 ghc-8.4.3-x86_64
 ```
 
-
 * Editor dùng *vscode*
 
 * Cài thêm gói syntax cho Haskell: https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell
@@ -119,3 +118,9 @@ Linking hello ...
 $ ./hello
 "Hello, world!"
 ```
+
+Danh sách bài viết về Haskell:
+
+* [【Haskell】Hello world](/2018-11-16-haskell-hello-world/)
+
+* [【Haskell】Tương tác với ghci](/2018-11-21-haskell-ghci/)
