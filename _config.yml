@@ -208,6 +208,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-category-pages
+  - jekyll-seo-tag
 
 comment:
   site_url: https://phuongnq.me

@@ -248,6 +248,7 @@ DEPENDENCIES
   github-pages
   jekyll-category-pages
   jekyll-paginate
+  jekyll-seo-tag
 
 BUNDLED WITH
    1.17.1
