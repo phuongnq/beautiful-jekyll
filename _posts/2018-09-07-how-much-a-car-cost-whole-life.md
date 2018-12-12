@@ -152,4 +152,6 @@ Với mỗi người và nhu cầu khác nhau thì chi phí sở hữu hay chi c
 
 * [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)
 
+* [Làm shaken](/2018-12-12-first-time-shaken)
+
 Bài viết có tham khảo từ nguồn https://allabout.co.jp/gm/gc/12701/2/

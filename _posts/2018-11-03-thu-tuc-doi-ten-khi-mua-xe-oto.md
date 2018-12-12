@@ -195,6 +195,8 @@ Ngoài ra tự đi mình cũng biết thêm kiến thức mới như là việc 
 
 * [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)
 
+* [Làm shaken](/2018-12-12-first-time-shaken)
+
 **Bài viết có tham khảo một số nguồn:**
 
 https://annai-center.com/meigi/

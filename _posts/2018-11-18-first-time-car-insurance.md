@@ -102,3 +102,5 @@ Mặc dù có bảo hiểm cũng không có nghĩa là có thể đi xe bất ch
 * [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto)
 
 * [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)
+
+* [Làm shaken](/2018-12-12-first-time-shaken)
