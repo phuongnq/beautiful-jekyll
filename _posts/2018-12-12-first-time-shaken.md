@@ -102,6 +102,12 @@ Lúc học lái xe nếu chịu khó nghe giảng mọi người sẽ biết là
 
 ![](/img/shaken_gasorine_coupon.jpg)
 
+# Cập nhật:
+
+Sau khi đăng bài trên Facebook, được biết đến hình thức **user shaken** có thể rẻ hơn được vài man yên. Link hướng dẫn trên trang tiếng Nhật: https://annai-center.com/syaken/yarikata.php
+
+Lần tới làm shaken sẽ thử **user shaken**.
+
 **Xem thêm các bài viết liên quan đến ô tô:**
 
 * [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)

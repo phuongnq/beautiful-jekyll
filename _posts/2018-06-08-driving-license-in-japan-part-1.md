@@ -194,12 +194,6 @@ In my case, I studied about 1 week before actual test and score 94 points. Passe
 
 Take driver's license is only the very first step. We have to practice many times before getting familiar with real traffic situations. And make sure to drive safely! Driving may be fun, but with careless, a car may become dangerous weapon, could take people lives!
 
-# Cập nhật:
-
-Sau khi đăng bài trên Facebook, được biết đến hình thức **user shaken** có thể rẻ hơn được vài man yên. Link hướng dẫn trên trang tiếng Nhật: https://annai-center.com/syaken/yarikata.php
-
-Lần tới làm shaken sẽ thử **user shaken**.
-
 **Xem thêm các bài viết liên quan đến ô tô:**
 
 * [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
