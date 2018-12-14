@@ -34,7 +34,7 @@ Như mình thì chọn cửa hàng nào rẻ nhất, gần nhà nhất để đ�
 
 Đặc điểm dùng qua trang của Rakuten là sẽ được point back nếu có tài khoản Rakuten.
 
-Khi chọn được shop rồi thì nhập các thông tin của xe vào, đăng ký ngày muốn đến cửa hàng. Mọi thông tin nhập ok thì sẽ có email báo về thông báo thành công. Người của shop sẽ gọi điện liên lạc để xác nhận ngày đến cửa hàng. 
+Khi chọn được shop rồi thì nhập các thông tin của xe vào, đăng ký ngày muốn đến cửa hàng. Mọi thông tin nhập ok thì sẽ có email báo về thông báo thành công. Người của shop sẽ gọi điện liên lạc để xác nhận ngày đến cửa hàng.
 
 Chú ý tùy chỗ thời gian có thể mất 2, 3 ngày để đặt thành công, nên tính toán để bắt đầu đăng ký trước khi shaken khoảng 1 tuần cho thoải mái. Qua tìm hiểu thì có những chỗ cho shaken trong ngày, khoảng 120 phút, có chỗ sẽ mất 1 ngày. Tùy từng shop ngoài ra có thể có dịch vụ cho mượn xe trong lúc shaken. Các thông tin này thì kiểm tra chi tiết trong từng shop.
 
@@ -58,7 +58,7 @@ Ngoài ra, email còn nhắn mang thêm các giấy tờ sau nhưng mình thấy
 
 Tại cửa hàng nhân viên sẽ hướng dẫn làm thủ tục. Căn bản có 2 bước:
 
-* 20 phút đầu họ sẽ kiểm tra xe một lượt, đưa ra ước tính giá cả. 
+* 20 phút đầu họ sẽ kiểm tra xe một lượt, đưa ra ước tính giá cả.
 
 * Nếu ước tính giá cả ok thì hẹn ngày làm 車検 (Như mình thì làm ngay lập tức, do phải đi làm nên nhờ họ giữ xe giúp, tối hôm sau làm về qua lấy)
 
@@ -101,6 +101,16 @@ Lúc học lái xe nếu chịu khó nghe giảng mọi người sẽ biết là
 * Ngoài ra được bonus thêm phiếu giảm giá khi mua xăng:
 
 ![](/img/shaken_gasorine_coupon.jpg)
+
+# Mã giới thiệu
+
+Mọi người nếu dùng dịch vụ Rakuten shaken hãy dùng mã giới thiệu sau để nhận được point:
+
+```text
+
+NLEPULGS
+
+```
 
 # Cập nhật:
 
