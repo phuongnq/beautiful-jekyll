@@ -100,3 +100,9 @@ $ npm outdated
 ```
 
 At this point, nothing should be output. Your `package.json` should be *up-to-date*
+
+# References
+
+https://docs.npmjs.com/cli/outdated.html
+
+https://docs.npmjs.com/updating-packages-downloaded-from-the-registry
