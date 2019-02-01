@@ -95,9 +95,9 @@ Mình cũng đã thử so sánh dịch vụ này với các cách chuyển tiề
 
 Dịch vụ có giao diện hiện đại, có ứng dụng *iOS*, *Android* và có đội support rất tốt. Có lần mình cần thay địa chỉ, gửi inquery thì được support rất tốt và nhanh chóng. Dịch vụ còn có chức năng gửi lại **Repeat** để gửi đúng số tiền vào đúng tài khoản của lần giao dịch trước, rất thuận tiện để hàng tháng gửi vào một tài khoản tiết kiệm.
 
-Có thể nói **TransferWise** là một dịch vụ dành cho người làm việc tại nước ngoài như Nhật Bản. Qua dùng dịch vụ chúng ta có thể cảm nhận được ứng dụng fintech trong việc dùng hạ tầng ngân hàng hiện tại tại ứng dụng trên internet. Nếu có cơ hội chuyển tiền quốc tế, mọi người hãy thử dùng dịch vụ **TransferWise**. Dùng link sau để được nhận được một lần chuyển tiền miễn phí (nếu giao dịch không quá 500 bảng Anh):
+Có thể nói **TransferWise** là một dịch vụ dành cho người làm việc tại nước ngoài như Nhật Bản. Qua dùng dịch vụ chúng ta có thể cảm nhận được ứng dụng fintech trong việc dùng hạ tầng ngân hàng hiện tại tại ứng dụng trên internet. Nếu có cơ hội chuyển tiền quốc tế, mọi người hãy thử dùng dịch vụ **TransferWise**. Link đăng ký dịch vụ:
 
-[https://transferwise.com/u/nguyenq1](https://transferwise.com/u/nguyenq1)
+[https://transferwise.com](https://transferwise.com/)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
