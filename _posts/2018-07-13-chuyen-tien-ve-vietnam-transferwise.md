@@ -15,7 +15,7 @@ Ngoài ra, để làm giấy tờ người phụ thuộc thì cần có bằng c
 
 # Đặc điểm dịch vụ TransferWise
 
-Link trang web **TransferWise**: [https://transferwise.com/](https://transferwise.com/u/nguyenq1)
+Link trang web **TransferWise**: [https://transferwise.com/](https://transferwise.com)
 
 > TransferWise là gì?
 
