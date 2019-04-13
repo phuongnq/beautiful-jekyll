@@ -5,7 +5,7 @@ categories: [japan-life]
 share-img: /img/visa_schengen.jpg
 ---
 
-Người quốc tịch Việt Nam muốn đi sang Pháp hay các nước thuộc khu EU từ Nhật Bản đều phải làm visa, gọi là [visa Schengen](https://en.wikipedia.org/wiki/visa_policy_of_the_Schengen_Area). Bài viết note lại quá trình làm thủ tục visa này sang Pháp. Việc làm visa từ các nước khác trong khối EU xin được đề cập trong bài viết khác.
+Công dân quốc tịch Việt Nam muốn đi sang Pháp hay các nước thuộc khu EU từ Nhật Bản đều phải làm visa, gọi là [visa Schengen](https://en.wikipedia.org/wiki/visa_policy_of_the_Schengen_Area). Bài viết note lại quá trình làm thủ tục visa này sang Pháp. Việc làm visa từ các nước khác trong khối EU xin được đề cập trong bài viết khác.
 
 ![](/img/visa_schengen.jpg)
 
