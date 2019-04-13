@@ -39,7 +39,7 @@ Dưới đây liệt kê các giấy tờ có note trong file đó:
 
 * 証明写真 1 枚: Ảnh thẻ 3.5 x 4.5 gắn vào tờ khai ở trên
 
-* パスポート: Hộ chiếu - Pháp hành trong 10 năm gần đây. Còn hạn trên 3 tháng từ ngày kết thúc đăng ký visa. Mang theo bản gốc và bản copy trang có ảnh và trang chữ ký
+* パスポート: Hộ chiếu - Phát hành trong 10 năm gần đây. Còn hạn trên 3 tháng từ ngày kết thúc đăng ký visa. Mang theo bản gốc và bản copy trang có ảnh và trang chữ ký
 
 * ビザ申請料金: Tiền nộp đăng ký - 60 euro (trả bằng JPY tương đương, ở đại sứ quán có ghi giá trị bằng JPY)
 
