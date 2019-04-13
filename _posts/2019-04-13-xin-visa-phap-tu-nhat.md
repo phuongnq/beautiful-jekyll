@@ -13,7 +13,7 @@ Công dân quốc tịch Việt Nam muốn đi sang Pháp hay các nước thu�
 
 Giấy tờ làm visa đi Pháp (hay các nước EU) cũng tương đối nhiều, so với các nước khác. Có một chú ý là họ note giấy tờ gì thì cần phải chuẩn bị đầy đủ, thiếu sẽ bị yêu cầu nộp bổ sung, có thể làm chậm quá trình làm visa. Giấy tờ cần thiết có thể xem trực tiếp trên trang đại sứ quán Pháp:
 
-[Link thủ tục làm visa tiếng Nhật từ đại sứ quán Pháp](https://jp.ambafrance.org/-rubrique1598-)
+[Link thủ tục làm visa từ đại sứ quán Pháp](https://jp.ambafrance.org/-rubrique1598-) (tiếng Nhật)
 
 Có một số điểm chú ý quan trọng khi làm visa:
 
