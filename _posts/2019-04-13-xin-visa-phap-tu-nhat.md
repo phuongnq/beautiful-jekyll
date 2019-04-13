@@ -71,6 +71,15 @@ Dưới đây liệt kê các giấy tờ có note trong file đó:
 
 # Thủ tục tại đại sứ quán Pháp
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+
 Sau khi đã chuẩn bị đầy đủ giấy tờ thì cần phải đăng ký đến nộp hồ sơ. Chú ý không đến trực tiếp nộp được mà họ chỉ nhận hồ sơ của người đã đăng ký qua trang web của đại sứ quán Pháp tại Nhật Bản. Link đăng ký:
 
 https://pastel.diplomatie.gouv.fr/rdvinternet/html-4.01.01/frameset/frameset.html?lcid=1&sgid=295&suid=1
