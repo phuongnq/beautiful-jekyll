@@ -2,7 +2,7 @@
 title: "Đổi sang visa chất lượng cao"
 tags: [japan]
 categories: [japan-life]
-share-img: /img/highly_skilled_professional_visa
+share-img: /img/highly_skilled_professional_visa.png
 ---
 
 Mấy năm gần đây do tình trạng thiếu hụt lao động trầm trọng nên phía Nhật Bản đang thúc đẩy tuyển dụng từ nước ngoài. Như cách đây khoảng 8-9 năm không thấy người nước ngoài mấy, nhưng những năm gần đây cứ đi ra đường là thấy đâu đó người ngoại quốc. Trong số đó, chính phủ Nhật đặc biệt quan tâm đến tầng lớp lao động trí thức nên đã thành lập ra chế độ visa riêng gọi là **高度人材** (tiếng Anh dịch là *highly skilled professional visa*, tiếng Việt tạm gọi vui là visa *Cao độ nhân tài*). Visa này chia làm 3 nhóm: **người nghiên cứu**, **người đi làm công ty** và **người làm các hoạt động kinh doanh đầu tư**. Bài viết note lại quá trình chuyển sang loại visa này (dạng người đi làm công ty).
