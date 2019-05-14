@@ -15,7 +15,7 @@ Ngoài ra, để làm giấy tờ người phụ thuộc thì cần có bằng c
 
 # Đặc điểm dịch vụ TransferWise
 
-Link trang web **TransferWise**: [https://transferwise.com/](https://transferwise.com)
+Link trang web **TransferWise**: [https://transferwise.com/](http://prf.hn/click/camref:1100l7tFq)
 
 > TransferWise là gì?
 
@@ -97,7 +97,7 @@ Dịch vụ có giao diện hiện đại, có ứng dụng *iOS*, *Android* và
 
 Có thể nói **TransferWise** là một dịch vụ dành cho người làm việc tại nước ngoài như Nhật Bản. Qua dùng dịch vụ chúng ta có thể cảm nhận được ứng dụng fintech trong việc dùng hạ tầng ngân hàng hiện tại tại ứng dụng trên internet. Nếu có cơ hội chuyển tiền quốc tế, mọi người hãy thử dùng dịch vụ **TransferWise**. Link đăng ký dịch vụ:
 
-[https://transferwise.com](https://transferwise.com/)
+[https://transferwise.com](http://prf.hn/click/camref:1100l7tFq)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
