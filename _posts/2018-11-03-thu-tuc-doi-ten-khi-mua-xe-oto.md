@@ -1,5 +1,5 @@
 ---
-title: "【Lái xe bên Nhật】Thủ tục đổi tên khi mua xe cũ"
+title: "【Lái xe】Thủ tục đổi tên khi mua xe cũ"
 tags: [driving]
 categories: [driving]
 share-img: /img/car_meigihenko.jpg
@@ -48,7 +48,7 @@ Xin giấy chứng nhận con dấu của chủ mới. Có thể lấy tại com
 
 Đây là giấy ủy thác cần thiết nếu chủ mới hoặc chủ cũ không tự đi làm giấy tờ được. Trong giấy ghi rõ tên/địa chỉ người đi làm thủ tục, lý do ủy thác là 移転登録, số  đăng ký xe và tên/địa chỉ/con dấu của chủ cũ và chủ mới.
 
-Như trường hợp mình là chủ mới tự đi làm vẫn xin giấy này mang đi. 
+Như trường hợp mình là chủ mới tự đi làm vẫn xin giấy này mang đi.
 
 Link download giấy: [Download 委任状](https://annai-center.com/pdf/ininjo.pdf)
 
@@ -122,7 +122,7 @@ Ví dụ với tỉnh Kanagawa, thành phố Yamato:
 
 Cụ thể tham khảo link: [車庫証明管轄区域・警察署所在地【神奈川県】](https://www.kurunavi.jp/syako/syako_kankatsu_kanagawa_02.html)
 
--> thành phố 大和市 là ở địa chỉ: 
+-> thành phố 大和市 là ở địa chỉ:
 
 〒242-0021
 神奈川県大和市中央5丁目15-4
@@ -163,7 +163,7 @@ Ngoài ra có thêm một số giấy tờ sau sẽ làm tại 運輸局
 
 * 申請書（第1号様式） (giấy đăng ký 名義変更, có thể tự in và điền trước nhưng cần chú ý in giấy phù hợp để máy của họ đọc được - Phần ô vuông điền thông tin phải viết bằng bút chì, phần ký tên đóng dấu thì viết bằng bút bi đen không xóa được). Theo như kinh nghiệm cá nhân thì một số thông tin phải xem tờ mẫu mới điền được nên chỉ cần ký tên đóng dấu trước, phần còn lại khi đến cơ quan viết cũng được.
 
-Tại trung tâm sẽ làm thủ tục mất khoảng 45 phút - 1 tiếng tùy đông hay vắng. Nhân viên họ rất nhiệt tình và quá trình làm việc khá suôn sẻ nên có thể yên tâm không lo lắng lắm nếu đã đủ giấy tờ ở trên. 
+Tại trung tâm sẽ làm thủ tục mất khoảng 45 phút - 1 tiếng tùy đông hay vắng. Nhân viên họ rất nhiệt tình và quá trình làm việc khá suôn sẻ nên có thể yên tâm không lo lắng lắm nếu đã đủ giấy tờ ở trên.
 
 Hoàn tất thủ tục, họ sẽ giao biển xe mới, tự mình lắp vào xe. Lắp biển mới xong họ sẽ kiểm tra lại một lần nữa, đóng dấu vào biển và hoàn tất thủ tục. Họ sẽ bảo mọi thứ ok, bạn có thể lái xe về.
 
@@ -173,7 +173,7 @@ Hoàn tất thủ tục, họ sẽ giao biển xe mới, tự mình lắp vào x
 
 # Kết luận
 
-Nếu hoàn tất thủ tục như trên, chúc mừng bạn đã hoàn tất thủ tục 名義変更. Thủ tục có vẻ nhiều giấy tờ nhưng thực ra không phức tạp, làm đúng theo hướng dẫn thì mọi thứ sẽ thuận lợi, không có tình trạng gây khó khăn. So với thuê bên thứ 3 làm giúp (chi phí có khi lên tới 10man tổng cộng), thì tự mình đi chi phí rẻ đi rất nhiều. Chỉ khoảng hơn 5,000円. 
+Nếu hoàn tất thủ tục như trên, chúc mừng bạn đã hoàn tất thủ tục 名義変更. Thủ tục có vẻ nhiều giấy tờ nhưng thực ra không phức tạp, làm đúng theo hướng dẫn thì mọi thứ sẽ thuận lợi, không có tình trạng gây khó khăn. So với thuê bên thứ 3 làm giúp (chi phí có khi lên tới 10man tổng cộng), thì tự mình đi chi phí rẻ đi rất nhiều. Chỉ khoảng hơn 5,000円.
 
 Ngoài ra tự đi mình cũng biết thêm kiến thức mới như là việc họ đóng seal vào biển xe mới, chứng nhận xe đã có chủ mới.
 

@@ -1,5 +1,5 @@
 ---
-title: "[Lái xe bên Nhật] - Mua 初心者マーク ở đâu"
+title: "[Lái xe] - Mua 初心者マーク ở đâu"
 tags: [driving]
 categories: [driving]
 share-img: /img/shoshinsha_mark.jpg
@@ -116,7 +116,7 @@ Nếu người hay tự thuê xe qua dịch vụ Anyca như mình, có thể mua
 
 <table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #000000;background-color:#FFFFFF;width:310px;margin:0px;padding-top:6px;text-align:center;overflow:auto;"><a href="https://hb.afl.rakuten.co.jp/hgc/16f9fa80.ecf6e8fd.16f9fa81.79c60cce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-emukai%2F10000100111%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-emukai%2Fi%2F10001516%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIzMDB4MzAwIiwibmFtIjoxLCJuYW1wIjoiZG93biIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjB9" target="_blank" rel="nofollow" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hgb/16f9fa80.ecf6e8fd.16f9fa81.79c60cce/?me_id=1234762&item_id=10001516&m=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fauc-emukai%2Fcabinet%2F05911710%2Fimgrc0071085288.jpg%3F_ex%3D80x80&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fauc-emukai%2Fcabinet%2F05911710%2Fimgrc0071085288.jpg%3F_ex%3D300x300&s=300x300&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/hgc/16f9fa80.ecf6e8fd.16f9fa81.79c60cce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-emukai%2F10000100111%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-emukai%2Fi%2F10001516%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIzMDB4MzAwIiwibmFtIjoxLCJuYW1wIjoiZG93biIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjB9" target="_blank" rel="nofollow" style="word-wrap:break-word;"  >初心者マーク（吸盤式1枚とマグネット式1枚）若葉マーク わかばマーク</a><br><span >価格：680円（税込、送料無料)</span> <span style="color:#BBB">(2018/8/27時点)</span></p></div><br><p style="font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
 
-Trong năm đầu đi xe, việc gắn thẻ 初心者マークlà bắt buộc, vi phạm sẽ bị phạt tiền và trừ điểm lái xe. 
+Trong năm đầu đi xe, việc gắn thẻ 初心者マークlà bắt buộc, vi phạm sẽ bị phạt tiền và trừ điểm lái xe.
 
 Để đảm bảo lái xe an toàn cho mình và mọi người xung quanh, chú ý tuân thủ đúng pháp luật và gắn 初心者マーク mỗi khi đi xe.
 

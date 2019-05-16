@@ -1,5 +1,5 @@
 ---
-title: "[Lái xe bên Nhật] Đi Aomori từ Tokyo bằng ô tô"
+title: "[Lái xe] Đi Aomori từ Tokyo bằng ô tô"
 tags: [driving]
 categories: [driving, vietnamese]
 share-img: /img/jogakura_bridge.jpg

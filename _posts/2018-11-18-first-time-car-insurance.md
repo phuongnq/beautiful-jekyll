@@ -1,5 +1,5 @@
 ---
-title: "【Lái xe bên Nhật】Mua bảo hiểm tự nguyện"
+title: "【Lái xe】Mua bảo hiểm tự nguyện"
 tags: [driving]
 categories: [driving]
 share-img: /img/car_first_time_insurance.jpg
@@ -28,7 +28,7 @@ Dưới đây đề cập đến vấn đề mua bảo hiểm tự nguyện.
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Thường khi mua xe dù cũ hay mới, nhiều người thường thấy phiền vấn đề thủ tục, ví dụ như thủ tục mua bảo hiểm. Do vậy, thường sẽ để phó mặc cho bên dealer, người bán ô tô làm giúp. Bên dealer làm thủ tục thường sẽ không chọn được loại bảo hiểm rẻ nhất, có khi chênh lệch đến cả 2~3man/năm. 
+Thường khi mua xe dù cũ hay mới, nhiều người thường thấy phiền vấn đề thủ tục, ví dụ như thủ tục mua bảo hiểm. Do vậy, thường sẽ để phó mặc cho bên dealer, người bán ô tô làm giúp. Bên dealer làm thủ tục thường sẽ không chọn được loại bảo hiểm rẻ nhất, có khi chênh lệch đến cả 2~3man/năm.
 
 Vậy để giảm chi ví và cũng để tự mình biết thêm thủ tục thì có thể thử mua bảo hiểm online. Gọi là **インターネット保険** - mua online, dùng credit card hoặc chuyển khoản ngân hàng để thanh toán.
 
@@ -70,7 +70,7 @@ Nhận được tài liệu qua bưu điện thì kiểm tra lại lần nữa c
 
 ## Kết luận
 
-Mua bảo hiểm tự nguyện qua internet sẽ rẻ hơn một chút so với mua offline hoặc qua dealer. 
+Mua bảo hiểm tự nguyện qua internet sẽ rẻ hơn một chút so với mua offline hoặc qua dealer.
 
 Mặc dù có bảo hiểm cũng không có nghĩa là có thể đi xe bất chấp. Tai nạn là cái không ai muốn xảy ra, và khi có tai nạn dù có bảo hiểm thì cá nhân cũng sẽ thiệt hại nhiều: về mặt tinh thần, thời gian, vân vân. Do vậy khi đi xe vẫn phải đi an toàn, tránh tai nạn trong mọi hoàn cảnh.
 

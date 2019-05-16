@@ -1,5 +1,5 @@
 ---
-title: "【Lái xe bên Nhật】Lần đầu đi làm 車検 (shaken)"
+title: "【Lái xe】Lần đầu đi làm 車検 (shaken)"
 tags: [driving]
 categories: [driving]
 share-img: /img/car_shaken.jpg

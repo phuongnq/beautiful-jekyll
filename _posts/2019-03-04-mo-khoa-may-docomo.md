@@ -1,5 +1,5 @@
 ---
-title: "【Nhật Bản】Mở khoá máy Docomo"
+title: "Mở khoá máy Docomo"
 tags: [japan]
 categories: [japan-life]
 share-img: /img/docomo_condition.png
