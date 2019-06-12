@@ -122,6 +122,12 @@ Phần này sẽ mất nhiều thời gian làm hơn. Một số giấy tờ s�
 
 Ngoài ra có giấy tờ gì khác tính điểm thì chuẩn bị thêm. Các giấy tờ này có thể nộp bản photo nhưng cần mang bản chính đi đối chiếu
 
+**Note**
+
+Về giấy tờ công ty, nếu công ty lên sàn -> cần giấy 四季報
+
+Nếu công ty chưa lên sàn, cần giấy giờ chứng minh lãi lỗ, quy mô của công ty.
+
 # Thủ tục tại cục xuất nhập cảnh
 
 Sau khi đã đủ giấy tờ rồi thì sẽ đi làm thủ tục tại cục xuất nhập cảnh. Địa điểm tại Tokyo:
