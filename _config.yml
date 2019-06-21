@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Phil's Notes
+title: Nhật Bản ký sự
 
 # Short description of your site
 description: "Note về Nhật Bản, con người, cuộc sống tại Nhật Bản."
@@ -23,8 +23,8 @@ description: "Note về Nhật Bản, con người, cuộc sống tại Nhật B
 
 # List of links in the navigation bar
 navbar-links:
-  Categories: "category"
-  Nhật Bản: "japan"
+  # Categories: "category"
+  # Nhật Bản: "japan"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -51,11 +51,8 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Phuong Nguyen | Phil
+  name: Nerd Otaku
   email: "nquangphuong@gmail.com"
-  facebook: phuongnq223  # eg. daattali
-  github: phuongnq    # eg. daattali
-  twitter: iphuong   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
