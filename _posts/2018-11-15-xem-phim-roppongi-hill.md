@@ -1,5 +1,5 @@
 ---
-title: "【Buôn chuyện】Thử đi xem phim ở Roppongi TOHO"
+title: "Đi xem phim ở Roppongi TOHO"
 tags: [life]
 categories: [life]
 share-img: /img/roppongi_hill.jpg

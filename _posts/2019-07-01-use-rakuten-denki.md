@@ -59,9 +59,18 @@ Bấm chọn: **お申し込みはこちら** > **個人・家族向け**
 
 ![](/img/rakuten_dekin_moshikomi.png)
 
-Chú ý cần nhập một số thông tin trên tờ hóa đơn điện hàng tháng:
+Chú ý cần nhập một số thông tin trên tờ hóa đơn điện hàng tháng.
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2750437710821247"
+     data-ad-slot="8905029259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 # So sánh giá
 
