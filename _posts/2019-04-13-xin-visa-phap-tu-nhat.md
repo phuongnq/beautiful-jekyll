@@ -23,17 +23,18 @@ Có một số điểm chú ý quan trọng khi làm visa:
 
 Do vậy nếu có kế hoạch xin visa thì tốt nhất nên cập nhật hộ chiếu và thẻ ngoại kiều trước đó.
 
-Tùy loại visa giấy tờ và tờ khai có thể khác nhau, nên tùy mục đích tham khảo trên [trang chủ của đại sứ quán Pháp](https://jp.ambafrance.org/-rubrique1531-) (Tiếng Pháp hoặc tiếng Nhật)
+Tùy loại visa giấy tờ và tờ khai có thể khác nhau, nên tùy mục đích tham khảo trên [trang chủ của đại sứ quán Pháp](https://jp.ambafrance.org/-rubrique1531) (Tiếng Pháp hoặc tiếng Nhật)
 
 Như mình xin **visa ngắn hạn** thì tham khảo qua [trang hướng dẫn visa ngắn hạn Schengen](https://jp.ambafrance.org/article1160).
 
-Giấy tờ cần thiết sẽ được liệt kê chi tiết trong trang list document, có thể download tại mục **必要書類リスト**: https://jp.ambafrance.org/IMG/pdf/visa_schengen_liste_jp_2.pdf
+Giấy tờ cần thiết sẽ được liệt kê chi tiết trong trang list document, có thể download tại mục **必要書類リスト**: [https://jp.ambafrance.org/IMG/pdf/visa_schengen_liste_jp_2.pdf](https://jp.ambafrance.org/IMG/pdf/visa_schengen_liste_jp_2.pdf)
 
 Dưới đây liệt kê các giấy tờ có note trong file đó:
 
 * 申請書類チェックリスト: Chính là file check list ở trên. Với mỗi đề mục đọc kỹ, chuẩn bị tài liệu và dùng bút check.
 
-* 短期ビザ申請書 1 部: Giấy đăng ký visa. Link tải về có thể tham khảo tại đây: https://jp.ambafrance.org/IMG/pdf/application_for_schengen_visa.pdf
+* 短期ビザ申請書 1 部: Giấy đăng ký visa. Link tải về có thể tham khảo tại đây: [https://jp.ambafrance.org/IMG/pdf/application_for_schengen_visa.pdf](https://jp.ambafrance.org/IMG/pdf/application_for_schengen_visa.pdf
+)
 
   Cần nhập đầy đủ thông tín, dán ảnh thẻ 3.5 x 4.5 vào tờ khai. Chú ý ký tên phải giống với chữ ký trên passport.
 
@@ -82,9 +83,9 @@ Dưới đây liệt kê các giấy tờ có note trong file đó:
 
 Sau khi đã chuẩn bị đầy đủ giấy tờ thì cần phải đăng ký đến nộp hồ sơ. Chú ý không đến trực tiếp nộp được mà họ chỉ nhận hồ sơ của người đã đăng ký qua trang web của đại sứ quán Pháp tại Nhật Bản. Link đăng ký:
 
-https://pastel.diplomatie.gouv.fr/rdvinternet/html-4.01.01/frameset/frameset.html?lcid=1&sgid=295&suid=1
+[https://pastel.diplomatie.gouv.fr/rdvinternet/html-4.01.01/frameset/frameset.html?lcid=1&sgid=295&suid=1](https://pastel.diplomatie.gouv.fr/rdvinternet/html-4.01.01/frameset/frameset.html?lcid=1&sgid=295&suid=1)
 
-Hướng dẫn cách dùng hệ thống đăng ký nộp visa: https://jp.ambafrance.org/article3843
+Hướng dẫn cách dùng hệ thống đăng ký nộp visa: [https://jp.ambafrance.org/article3843](https://jp.ambafrance.org/article3843)
 
 Sau khi đã đăng ký thành công thì sẽ có email gửi về, xác nhận lại ngày giờ, người đăng ký. Đến đúng ngày, giờ thì đến đại sứ quán Pháp để làm thủ tục.
 
