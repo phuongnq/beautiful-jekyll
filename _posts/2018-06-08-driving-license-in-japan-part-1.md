@@ -212,4 +212,4 @@ Take driver's license is only the very first step. We have to practice many time
 
 * [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)
 
-* [Làm shaken](/2018-12-12-first-time-shaken)
+* [Làm shaken](https://phuongnq.me/2018-12-12-first-time-shaken)
