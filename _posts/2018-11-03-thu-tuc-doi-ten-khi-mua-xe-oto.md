@@ -68,7 +68,7 @@ Trường hợp mình có xin sẵn con dấu của chủ cũ, nhưng đến nơ
 
 Link download: [Download 申請書（第1号様式)](http://www.mlit.go.jp/common/001287620.pdf)
 
-Note: Trường hợp link bị hỏng: Truy cập [trang chủ bộ giao thông](http://www.mlit.go.jp/index.html) và tìm kiếm với từ khoá *申請書（第1号様式)*.
+> Note: Trường hợp link bị hỏng: Truy cập [trang chủ bộ giao thông](http://www.mlit.go.jp/index.html) và tìm kiếm với từ khoá *申請書（第1号様式)*.
 
 # Thủ tục tại trung tâm hành chính
 
@@ -138,6 +138,8 @@ Nếu không có vấn đề gì thì bạn sẽ có 車庫証明書 trong kho�
 ![](/img/car_meigihenko_shakoshomei.jpg)
 
 ## 3. Đăng ký 名義変更 tại 運輸局
+
+> Note: Muốn biết phải đến cục *運輸局* nào có thể tham khảo địa chỉ nhà ở hiện tại. Hoặc xem thử biển số xe của hàng xóm ở đâu. Ví dụ biển số ở *横浜* -> tìm kiếm địa chỉ của *運輸局 横浜*.
 
 Sau khi đã có 車庫証明書 thì lái xe muốn chuyển tên, mang kèm các giấy tờ cần thiết khác đến 運輸局 để hoàn tất thủ tục đổi tên. Đây là bước cuối cùng bạn cần làm thủ tục.
 
