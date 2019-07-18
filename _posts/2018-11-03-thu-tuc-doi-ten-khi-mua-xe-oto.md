@@ -66,7 +66,9 @@ Giấy đăng ký chuyển tên. Có thể làm tại trung tâm hành chính (t
 
 Trường hợp mình có xin sẵn con dấu của chủ cũ, nhưng đến nơi họ không đọc được giấy do mình photo, phải viết lại tờ họ đưa cho. Tờ mới này mình không có dấu của chủ cũ nhưng vẫn được chấp nhận. Vậy nếu muốn chắc bạn có thể xin sẵn dấu của chủ cũ vào tờ này rồi mang nộp thử.
 
-Link download: [Download 申請書（第1号様式)](http://www.mlit.go.jp/common/001156787.pdf)
+Link download: [Download 申請書（第1号様式)](http://www.mlit.go.jp/common/001287620.pdf)
+
+Note: Trường hợp link bị hỏng: Truy cập [trang chủ bộ giao thông](http://www.mlit.go.jp/index.html) và tìm kiếm với từ khoá *申請書（第1号様式)*.
 
 # Thủ tục tại trung tâm hành chính
 
