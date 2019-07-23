@@ -88,3 +88,25 @@ Tổng chi phi của mình như sau:
 # Kết luận
 
 Thuê xe tự lái là một cách giảm chi phí khi chuyển nhà. Ở trên mình đã giới thiệu một trong những dịch vụ là *Nippon rent a car*. Ngoài dịch vụ này có nhiều cửa hàng nhỏ lẻ quanh nhà cũng có thể cho thuê (giá cả có thể sẽ tốt hơn).
+
+**Xem thêm các bài viết liên quan đến ô tô:**
+
+* [Lấy bằng lái xe](https://phuongnq.me/2018-06-08-driving-license-in-japan-part-1/)
+
+* [Thuê xe ô tô ở Nhật Bản với dịch vụ Anyca](https://phuongnq.me/2018-06-30-thue-xe-qua-dich-vu-anyca/)
+
+* [Đổi bằng lái từ bằng Nhật sang bằng Việt Nam](https://phuongnq.me/2018-08-22-doi-bang-nhat-sang-bang-viet/)
+
+* [Mua 初心者マーク ở đâu](https://phuongnq.me/2018-08-27-use-new-user-mark-japan-driver/)
+
+* [Vấn đề đổ xăng](https://phuongnq.me/2018-09-02-driving-in-japan-gasoline/)
+
+* [Chi phí sở hữu ô tô](https://phuongnq.me/2018-09-07-how-much-a-car-cost-whole-life)
+
+* [Làm thủ tục 名義変更 khi mua xe cũ](https://phuongnq.me/2018-11-03-thu-tuc-doi-ten-khi-mua-xe-oto)
+
+* [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)
+
+* [Làm shaken](/2018-12-12-first-time-shaken)
+
+* [Thuê ô tô chuyển đồ với dịch vụ của Nippon Rent a Car](/2019-07-23-move-out-with-nippon-rent-a-car)

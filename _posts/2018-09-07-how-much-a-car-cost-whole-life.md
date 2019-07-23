@@ -154,4 +154,6 @@ Với mỗi người và nhu cầu khác nhau thì chi phí sở hữu hay chi c
 
 * [Làm shaken](/2018-12-12-first-time-shaken)
 
+* [Thuê ô tô chuyển đồ với dịch vụ của Nippon Rent a Car](/2019-07-23-move-out-with-nippon-rent-a-car)
+
 Bài viết có tham khảo từ nguồn https://allabout.co.jp/gm/gc/12701/2/

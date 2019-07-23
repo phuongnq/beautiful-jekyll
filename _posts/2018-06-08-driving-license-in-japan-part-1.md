@@ -213,3 +213,5 @@ Take driver's license is only the very first step. We have to practice many time
 * [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)
 
 * [Làm shaken](https://phuongnq.me/2018-12-12-first-time-shaken)
+
+* [Thuê ô tô chuyển đồ với dịch vụ của Nippon Rent a Car](/2019-07-23-move-out-with-nippon-rent-a-car)

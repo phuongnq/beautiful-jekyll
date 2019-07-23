@@ -201,6 +201,8 @@ Ngoài ra tự đi mình cũng biết thêm kiến thức mới như là việc 
 
 * [Làm shaken](/2018-12-12-first-time-shaken)
 
+* [Thuê ô tô chuyển đồ với dịch vụ của Nippon Rent a Car](/2019-07-23-move-out-with-nippon-rent-a-car)
+
 **Bài viết có tham khảo một số nguồn:**
 
 https://annai-center.com/meigi/

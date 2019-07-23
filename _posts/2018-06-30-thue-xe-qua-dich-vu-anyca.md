@@ -163,3 +163,5 @@ Khi dùng mã 友達招待コードnày thì bạn sẽ được 2,500￥ dùng 
 * [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)
 
 * [Làm shaken](/2018-12-12-first-time-shaken)
+
+* [Thuê ô tô chuyển đồ với dịch vụ của Nippon Rent a Car](/2019-07-23-move-out-with-nippon-rent-a-car)

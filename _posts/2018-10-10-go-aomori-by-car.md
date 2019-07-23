@@ -134,3 +134,4 @@ Mấy địa điểm trên để ở trên núi Hakkoda. Cả ngọn núi bao ph
 
 * [Mua bảo hiểm tự nguyện](https://phuongnq.me/2018-11-18-first-time-car-insurance/)
 
+* [Thuê ô tô chuyển đồ với dịch vụ của Nippon Rent a Car](/2019-07-23-move-out-with-nippon-rent-a-car)
