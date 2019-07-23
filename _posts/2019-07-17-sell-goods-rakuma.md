@@ -19,9 +19,9 @@ Lần này do không còn nhu cầu dùng Kindle nên mình muốn bán đi. V�
 
 Tải ứng dụng tại đây:
 
-* iOS: [https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%9E-%E6%97%A7%E3%83%95%E3%83%AA%E3%83%AB-%E6%A5%BD%E5%A4%A9%E3%81%AE%E3%83%95%E3%83%AA%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA/id523497998](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%9E-%E6%97%A7%E3%83%95%E3%83%AA%E3%83%AB-%E6%A5%BD%E5%A4%A9%E3%81%AE%E3%83%95%E3%83%AA%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA/id523497998)
+* iOS: [ラクマ（旧フリル）- 楽天のフリマアプリ](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%9E-%E6%97%A7%E3%83%95%E3%83%AA%E3%83%AB-%E6%A5%BD%E5%A4%A9%E3%81%AE%E3%83%95%E3%83%AA%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA/id523497998)
 
-* Android: [https://play.google.com/store/apps/details?id=jp.co.fablic.fril&hl=en](https://play.google.com/store/apps/details?id=jp.co.fablic.fril&hl=en)
+* Android: [ラクマ（旧フリル） - 満足度No.1 楽天のフリマアプリ](https://play.google.com/store/apps/details?id=jp.co.fablic.fril&hl=en)
 
 Để bắt đầu bán đồ, bấm vào hình điện thoại, tải ảnh lên và nhập thông tin cần thiết
 
