@@ -53,6 +53,7 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Nerd Otaku
   email: "nquangphuong@gmail.com"
+  facebook: otakukysu
 
 # Select which links to show in the footer
 footer-links-active:
@@ -97,7 +98,7 @@ google_analytics: "UA-111365449-1"
 #gtm: ""
 
 # Facebook App ID
-# fb_app_id: ""
+fb_app_id: "370274830352999"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
@@ -127,7 +128,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: false  # add comments to all blog posts
+      comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
