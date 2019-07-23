@@ -17,6 +17,12 @@ share-img: /img/rakuma_intro.png
 
 Lần này do không còn nhu cầu dùng Kindle nên mình muốn bán đi. Về cơ bản dùng **Rakuten ラクマ** cũng tương tự như [dùng dịch vụ Mercari](/2019-07-14-give-away-goods-with-mercari). Có một đặc điểm là phí dịch vụ rẻ hơn (3.5% - tại thời điểm viết bài). Ngoài ra còn một điểm nữa thú vị là nếu dùng ngân hàng Rakuten mà số tiền bán được trên 1man thì chuyển khoản tiền bán về tài khoản của mình không mất phí.
 
+Tải ứng dụng tại đây:
+
+* iOS: [https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%9E-%E6%97%A7%E3%83%95%E3%83%AA%E3%83%AB-%E6%A5%BD%E5%A4%A9%E3%81%AE%E3%83%95%E3%83%AA%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA/id523497998](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%9E-%E6%97%A7%E3%83%95%E3%83%AA%E3%83%AB-%E6%A5%BD%E5%A4%A9%E3%81%AE%E3%83%95%E3%83%AA%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA/id523497998)
+
+* Android: [https://play.google.com/store/apps/details?id=jp.co.fablic.fril&hl=en](https://play.google.com/store/apps/details?id=jp.co.fablic.fril&hl=en)
+
 Để bắt đầu bán đồ, bấm vào hình điện thoại, tải ảnh lên và nhập thông tin cần thiết
 
 ![](/img/use_rakuma_01.jpg)
