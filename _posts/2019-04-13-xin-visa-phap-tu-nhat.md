@@ -1,7 +1,7 @@
 ---
 title: "Xin visa đi Pháp từ Nhật Bản"
 tags: [japan]
-categories: [japan-life]
+categories: [procedure]
 share-img: /img/visa_schengen.jpg
 ---
 
@@ -19,7 +19,7 @@ Có một số điểm chú ý quan trọng khi làm visa:
 
 * Hộ chiếu phải còn hạn trên 3 tháng từ ngày cuối cùng tại Pháp trước khi quay lại Nhật Bản
 
-* Thẻ ngoại kiều phải còn hạn trên 3 tháng trước lúc xuất cảnh. Nếu đang update thẻ ngoại kiều thì quá trình apply visa có thể bị từ chối. 
+* Thẻ ngoại kiều phải còn hạn trên 3 tháng trước lúc xuất cảnh. Nếu đang update thẻ ngoại kiều thì quá trình apply visa có thể bị từ chối.
 
 Do vậy nếu có kế hoạch xin visa thì tốt nhất nên cập nhật hộ chiếu và thẻ ngoại kiều trước đó.
 

@@ -1,13 +1,13 @@
 ---
 title: "Đổi hộ chiếu tại Nhật Bản"
 tags: [japan]
-categories: [japan-life]
+categories: [procedure]
 share-img: /img/passport_vn.png
 ---
 
 ![](/img/passport_vn.png)
 
-Hộ chiếu phổ thông thường có thời hạn 10 năm. Trong hộ chiếu sẽ có ghi ngày hết hạn tại mục **Có giá trị đến**. Trước khi hết hạn hộ chiếu chúng ta cần phải đi làm thủ tục xin cấp lại hộ chiếu. Ngoài ra cũng có một số lý do khác chúng ta cần đi xin cấp lại hộ chiếu như hộ chiếu bị mất, xin lần đầu cho con cái, thay đổi họ tên, vân vân... 
+Hộ chiếu phổ thông thường có thời hạn 10 năm. Trong hộ chiếu sẽ có ghi ngày hết hạn tại mục **Có giá trị đến**. Trước khi hết hạn hộ chiếu chúng ta cần phải đi làm thủ tục xin cấp lại hộ chiếu. Ngoài ra cũng có một số lý do khác chúng ta cần đi xin cấp lại hộ chiếu như hộ chiếu bị mất, xin lần đầu cho con cái, thay đổi họ tên, vân vân...
 
 Khi cấp lại hộ chiếu sẽ có một ID mới được dùng, do vậy gần đến ngày làm mới hộ chiếu cần chú ý để tránh bị giấy tờ dùng ID cũ, có thể sẽ mất công làm lại hoặc giải thích.
 
@@ -61,7 +61,7 @@ Ngoài ra có các địa điểm khác có thể làm hộ chiếu trên nướ
 
 # Thủ tục tại đại sứ quán
 
-Sau khi vào thì lấy số thứ tự như bình thường. Sẽ có nhân viên gọi đến số thì nộp hồ sơ. Họ sẽ kiểm tra xem có thiếu sót gì không. Nếu không thiếu sót gì thì gửi họ tờ giấy hẹn lấy ngay hoặc lấy chậm bình thường hoặc gửi theo đường bưu điện. 
+Sau khi vào thì lấy số thứ tự như bình thường. Sẽ có nhân viên gọi đến số thì nộp hồ sơ. Họ sẽ kiểm tra xem có thiếu sót gì không. Nếu không thiếu sót gì thì gửi họ tờ giấy hẹn lấy ngay hoặc lấy chậm bình thường hoặc gửi theo đường bưu điện.
 
 Tờ hẹn lấy hộ chiếu như nói ở trên có thể lấy ở quầy. Trước khi gọi đến số mình có thể lấy sẵn và điền thông tin thì thủ tục sẽ nhanh chóng hơn.
 

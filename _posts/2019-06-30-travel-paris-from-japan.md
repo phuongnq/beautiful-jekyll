@@ -1,7 +1,7 @@
 ---
 title: "A đến Z đi du lịch Paris từ Nhật Bản"
 tags: [japan, travel, paris, guide]
-categories: [japan, travel, paris, guide]
+categories: [japan, travel, paris, guide, life]
 share-img: /img/paris_1.jpg
 ---
 
@@ -23,7 +23,7 @@ Thời gian bay thẳng: Khoảng 12 giờ bay.
 
 Bên Pháp cũng giống như khối EU dùng đồng Euro. Tiền có thể đổi tại sân bay Nhật hoặc bên Pháp. Tuy nhiên nếu ở Paris thì dùng thẻ tín dụng khá tiện nên cũng không cần phải mang quá nhiều. Như mình đi 1 tuần đổi 80,000 JPY nhưng cuối cùng cũng chỉ tiêu hết khoảng 50,000 JPY. Một phần vì thanh toán qua credit card. Chi phí ăn uống nói chung tương đương Tokyo nên tính toán như ăn uống du lịch ở Tokyo là ổn.
 
-Ví dụ: 
+Ví dụ:
 
 Bữa sáng: ~1,000 JPY
 
@@ -41,7 +41,7 @@ Chú ý nếu sang lần đầu có thể họ sẽ hỏi sang làm gì, xuất 
 
 Nhập cảnh xong lấy hành lý lên xe đi về khách sạn.
 
-Nếu đi mùa hè (Mình đi cuối tháng 5), thì trời bên Paris tối khá muộn. Tầm 10h tối vẫn sáng nên nếu máy bay có chậm một chút đi lại buổi tối vẫn rất thuận tiện. 
+Nếu đi mùa hè (Mình đi cuối tháng 5), thì trời bên Paris tối khá muộn. Tầm 10h tối vẫn sáng nên nếu máy bay có chậm một chút đi lại buổi tối vẫn rất thuận tiện.
 
 Buổi tối khoảng 9 - 10 giờ ở Paris (2019/05/18):
 
