@@ -53,7 +53,7 @@ Tàu chậm đi sẽ mất thời gian hơn tàu nhanh. Tuỳ địa điểm đi
 
 改札口 (かいさつぐち)　ー　Cửa soát vé
 
-**Nếu dùng thẻ đi tàu mà muốn nạp tiền thì tìm máy có chữ **チャージ** (charge). Trường hợp đi tàu quẹt thẻ bị thiếu tiền, dùng máy để tính phần tiền còn thiếu phải nạp thêm, lúc đó bạn sẽ để ý từ Hán:**
+**Nếu dùng thẻ đi tàu mà muốn nạp tiền thì tìm máy có chữ チャージ (charge). Trường hợp đi tàu quẹt thẻ bị thiếu tiền, dùng máy để tính phần tiền còn thiếu phải nạp thêm, lúc đó bạn sẽ để ý từ Hán:**
 
 精算 (せいさん)　ー　Tính toán tiền tàu bị thiếu (Fare Adjustment).
 
