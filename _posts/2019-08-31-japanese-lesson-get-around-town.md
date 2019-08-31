@@ -97,15 +97,4 @@ Mọi người đều thích giảm giá. Nên hãy nhớ những chữ Hán đ�
 
 Nhiều khi biết một vài chữ Hán đơn giản có thể giúp ích rất nhiều.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Xem thêm các bài viết về [tiếng Nhật](/japanese/)

@@ -70,3 +70,5 @@ Tàu chậm đi sẽ mất thời gian hơn tàu nhanh. Tuỳ địa điểm đi
 優先席 (ゆうせんせき)　ー　Ghế ưu tiên (người già, tàn tật, trẻ nhỏ, phụ nữ mang thai)
 
 Biết chữ Hán phụ nữ (女) còn giúp bạn vào đúng nhà vệ sinh trong ga!
+
+Xem thêm các bài viết về [tiếng Nhật](/japanese/)
