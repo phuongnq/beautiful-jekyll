@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: phuongnq.me
+Token: 6797e2f371cde64039aa43b7de1cd9438cbb2e365a64a635d469725be37d49db
