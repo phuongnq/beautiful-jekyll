@@ -104,3 +104,5 @@ Ngoài ra, nếu bạn dùng dịch vụ nào khác mà có địa chỉ thì đ
 * Đổi địa chỉ cho các loại bảo hiểm nếu có dùng
 
 * Đổi địa chỉ các dịch vụ Internet
+
+* Nếu có dùng dịch vụ NHK thu phí thì làm thủ tục đổi địa chỉ
