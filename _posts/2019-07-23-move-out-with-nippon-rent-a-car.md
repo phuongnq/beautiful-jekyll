@@ -1,7 +1,7 @@
 ---
 title: "Thuê ô tô chuyển đồ với dịch vụ của Nippon Rent a Car"
-tags: [japan, life, hikkoshi, car]
-categories: [japan, life, hikkoshi, car]
+tags: [japan, life, hikkoshi, car, driving]
+categories: [japan, life, hikkoshi, car, driving]
 share-img: /img/nippon_rent_a_car_01.png
 ---
 
