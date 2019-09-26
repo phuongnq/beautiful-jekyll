@@ -1,11 +1,11 @@
 ---
-title: "Đổi địa chỉ nhà cho bằng lái xe"
+title: "Đổi địa chỉ nhà trên bằng lái xe - 免許証 住所変更"
 tags: [japan, life, hikkoshi, car, guide, driving]
 categories: [japan, life, hikkoshi, car, guide, driving]
 share-img: /img/car_license.jpg
 ---
 
-Sau khi chuyển nhà nếu có bằng lái xe chúng ta sẽ phải làm thủ tục đổi địa chỉ ghi trên bằng lái. Thủ tục này rất đơn giản, làm tại sở cảnh sát của phường nơi ở mới.
+Sau khi chuyển nhà nếu có bằng lái xe chúng ta sẽ phải làm thủ tục đổi địa chỉ ghi trên bằng lái (免許証 住所変更). Thủ tục này rất đơn giản, làm tại sở cảnh sát của phường nơi ở mới.
 
 ![](/img/car_license.jpg)
 
