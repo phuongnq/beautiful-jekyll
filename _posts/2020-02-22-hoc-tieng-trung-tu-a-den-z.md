@@ -89,6 +89,14 @@ Chú ý cần học và nghe tiếng Trung hàng ngày để nhanh chóng tạo 
 
 * Tới bước này thì chủ yếu người học cần nghe theo tốc độ native, xem phim và đọc bản tin tiếng Trung, hay đọc tiểu thuyết.
 
+# Podcast hay
+
+* [LEARNING CHINESE THROUGH STORIES 听故事学中文](https://learningchinesethroughstories.com/)
+
+    Có cả text lẫn giải thích, tất cả đều bằng tiếng Trung
+
+    ![](/img/learn_chinese_through_stories.png)
+
 # Một số video tạo motivation
 
 Học ngoại ngữ nói chung là quá trình lâu dài, cần sự bền bỉ của người học. Và mỗi người đều có phương pháp học riêng cho mình. Trong quá trình học, nếu bị bí phương pháp hoặc cần xem để tự tạo động lực cho bản thân, có thể tham khảo một số video bên dưới:
