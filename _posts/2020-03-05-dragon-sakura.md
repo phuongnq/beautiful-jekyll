@@ -2,7 +2,7 @@
 title: "Đọc miễn phí bộ truyện Dragozakura"
 tags: [life, japanese]
 categories: [japanese]
-share-img: /img/dragonzakura.jepg
+share-img: /img/dragonzakura.jpeg
 ---
 
 **Đọc miễn phí bộ truyện Dragonzakura từ tập 1 đến 11.**
