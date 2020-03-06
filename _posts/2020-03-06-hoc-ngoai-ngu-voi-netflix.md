@@ -33,7 +33,7 @@ Link extention: [Language Learning with Netflix](https://chrome.google.com/webst
 
 Xem video demo:
 
-<iframe width="100%" src="https://www.youtube.com/embed/pMrWX2dlGIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="360px" src="https://www.youtube.com/embed/pMrWX2dlGIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Extension này dùng để xem trên máy tính với trình duyệt Chrome.
 
