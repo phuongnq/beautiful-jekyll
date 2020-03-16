@@ -1,5 +1,5 @@
 ---
-title: "Đọc miễn tập 1 ~ 23 bộ truyện ちはやふる"
+title: "Đọc miễn tập 1 ~ 42 bộ truyện ちはやふる"
 tags: [life, japanese, manga]
 categories: [japanese, manga]
 share-img: /img/chihayafuru.png
@@ -15,7 +15,7 @@ Ngày 19 tháng 3 năm 2016, phim điện ảnh chuyển thể với tên Chihay
 
 Bộ truyện đã thắng giải thưởng Manga Taishō Award và the Kodansha Manga Award. Kể từ tập 4 (tháng 3, năm 2009), Chihayafuru bắt đầu xuất hiện thường xuyên trên Bảng xếp hạng truyện tranh Nhật Bản. Tính đến tháng 8 năm 2011, Chihayafuru bán được trên 4.5 triệu bản. Sự nổi tiếng của bộ truyện tranh này đã đồng thời giúp hình ảnh của môn bài thi đấu karuta trở nên phổ biến hơn ở Nhật Bản.
 
-*Hiện tại nhà xuất bản đang cho đọc miễn phí 23 tập của bộ truyện do đợt dịch cúm COVID-19. Đây cũng là dịp tốt cho bạn nào muốn học tiếng Nhật thông qua truyện tranh.*
+*Hiện tại nhà xuất bản đang cho đọc miễn phí 42 tập của bộ truyện do đợt dịch cúm COVID-19. Đây cũng là dịp tốt cho bạn nào muốn học tiếng Nhật thông qua truyện tranh.*
 
 **Thời gian đọc miễn phí đến hết ngày 25 tháng 3 năm 2020**
 
