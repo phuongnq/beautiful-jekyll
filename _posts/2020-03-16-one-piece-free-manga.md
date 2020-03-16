@@ -1,5 +1,5 @@
 ---
-title: "Đọc miễn tập 1 ~ 594 bộ truyện Open Piece"
+title: "Đọc miễn phí tập 1 ~ 594 bộ truyện Open Piece"
 tags: [life, japanese, manga]
 categories: [japanese, manga]
 share-img: /img/one_piece.jpg
