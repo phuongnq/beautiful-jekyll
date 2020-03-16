@@ -1,5 +1,5 @@
 ---
-title: "Đọc miễn tập 1 ~ 42 bộ truyện ちはやふる"
+title: "Đọc miễn phí tập 1 ~ 42 bộ truyện ちはやふる"
 tags: [life, japanese, manga]
 categories: [japanese, manga]
 share-img: /img/chihayafuru.png
