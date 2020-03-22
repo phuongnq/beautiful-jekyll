@@ -24,13 +24,13 @@ description: "Note về Nhật Bản, con người, cuộc sống tại Nhật B
 # List of links in the navigation bar
 navbar-links:
   # Categories: "category"
-  Lái xe, Ô tô: "cars"
-  Đời sống: "lifes"
-  Thủ tục: "procedures"
-  Du lịch: "travels"
-  Ẩm thực: "foods"
-  Ngôn ngữ: "japanese"
-  Lập Trình: "programming"
+  # Lái xe, Ô tô: "cars"
+  # Đời sống: "lifes"
+  # Thủ tục: "procedures"
+  # Du lịch: "travels"
+  # Ẩm thực: "foods"
+  # Ngôn ngữ: "japanese"
+  # Lập Trình: "programming"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
