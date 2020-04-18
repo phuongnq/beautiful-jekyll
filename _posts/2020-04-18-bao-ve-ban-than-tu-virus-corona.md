@@ -31,7 +31,7 @@ Các tốt nhất là trang bị kiến thức cho mình. Không có phương ph
 
 (Chú ý là vì trong môi trường khép kín virus có thể tồn tại đến 30 phút, vì vậy nói là 1-2 mét cũng chỉ là ước chừng. Tuỳ điều kiện thời tiết, độ ẩm con số có thể thay đổi)
 
-* Virus nếu không duy trì được trạng thái hình lập thể thì không phát bệnh. Cho nên nếu con virus trong trạng thái không thể duy trì khối lập thể thì sẽ mất hết tính bệnh. Chỉ còn là một vật thông thường.
+* Virus nếu không duy trì được trạng thái hình lập thể thì không phát bệnh. Cho nên nếu virus trong trạng thái không thể duy trì khối lập thể thì sẽ mất hết tính bệnh. Chỉ còn là một vật thông thường.
 
 **Ví dụ:** Thêm nhiệt để tiêu diệt virus. Giống như việc sữa bò sẽ bị phân ly nếu đun với nhiệt độ cao. Bằng việc gia nhiệt, virus có thể bị phá vỡ trạng thái lập thể, mất đi tính gây bệnh.
 
@@ -69,7 +69,7 @@ Cũng không có nghĩa chúng ta phải hoảng loạn nếu có sơn dính và
 
 ![](/img/house.jpg)
 
-Cuối cùng thì chúng ta cũng về tới nhà. Ở nhà thì ai cũng muốn quên đi chuyện về con virus đó, muốn được thoải mái nghỉ ngơi. Tuy nhiên chính lúc này cũng cần nâng cao cảnh giác hơn một chút.
+Cuối cùng thì chúng ta cũng về tới nhà. Ở nhà thì ai cũng muốn quên đi chuyện về covid-19 đó, muốn được thoải mái nghỉ ngơi. Tuy nhiên chính lúc này cũng cần nâng cao cảnh giác hơn một chút.
 
 Lúc về nhà thì bỏ giày ở sảnh, không mang vào trong phòng. Áo khoác ngoài cũng để ở ngoài sảnh. Quần áo ngoài cũng cởi bỏ luôn và cho vào máy giặt ngay lập tức. Tiếp đó đi luôn vào phòng tắm để tắm xoá sạch *sơn* dính trên đầu và cơ thể.
 
