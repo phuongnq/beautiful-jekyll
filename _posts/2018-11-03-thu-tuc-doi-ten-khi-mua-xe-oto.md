@@ -208,3 +208,14 @@ Ngoài ra tự đi mình cũng biết thêm kiến thức mới như là việc 
 https://annai-center.com/meigi/
 
 https://annai-center.com/meigi/syorui.php
+
+## Hỏi đáp
+
+**Hỏi**
+
+> Trường hợp xin được chỗ đậu xe, như là của công ty nơi làm việc (cách nhà dưới 2km) thì có cần làm thủ tục 車庫証明書 không?
+
+**Trả lời**
+
+> Thủ tục này là bắt buộc đối với người sở hữu xe để khai báo cho cảnh sát nên về nguyên tắc vẫn cần làm. Bạn hỏi người quản lý bãi đậu xe của công ty rồi làm thủ tục theo như trong hướng dẫn nhé!
+
