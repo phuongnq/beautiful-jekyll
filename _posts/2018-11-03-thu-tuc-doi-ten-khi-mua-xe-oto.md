@@ -219,3 +219,13 @@ https://annai-center.com/meigi/syorui.php
 
 > Thủ tục này là bắt buộc đối với người sở hữu xe để khai báo cho cảnh sát nên về nguyên tắc vẫn cần làm. Bạn hỏi người quản lý bãi đậu xe của công ty rồi làm thủ tục theo như trong hướng dẫn nhé!
 
+**Hỏi**
+
+> Trường hợp có nhà riêng, chỗ đỗ xe ở nhà riêng thì có cần đăng ký 車庫証明書 với bên cảnh sát hay không?
+
+**Trả lời**
+
+> Về nguyên tắc vẫn phải làm thủ tục bìnht thường với phía cảnh sát. Tuy nhiên giấy tờ sẽ đơn giản hơn. Ví dụ như ở Kangawa thì trên trang chủ có ghi rõ:
+> 保管場所使用権原疎明書面（自認書）[保管場所が自分の土地、建物の場合に使用]
+> https://www.police.pref.kanagawa.jp/mes/mesf4020.htm#sinseisyo
+> Vậy bạn truy cập vào trang chủ sở cảnh sát tỉnh/thành phố chỗ sinh sống và kiểm tra giấy tờ cần thiết nhé.
