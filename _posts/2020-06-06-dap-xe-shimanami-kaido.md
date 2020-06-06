@@ -33,6 +33,7 @@ share-img: /img/shimanami/shimanami_cover.jpg
 
 * Túi đựng xe: [http://www.amazon.co.jp/Wizard-%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89-%E8%BB%BD%E9%87%8F%E8%BC%AA%E8%A1%8C%E8%A2%8B%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A4%E3%83%B3-WZRK8730-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/dp/B00DYF8ZUA/](http://www.amazon.co.jp/Wizard-%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89-%E8%BB%BD%E9%87%8F%E8%BC%AA%E8%A1%8C%E8%A2%8B%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A4%E3%83%B3-WZRK8730-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/dp/B00DYF8ZUA/)
 
+
 Đến ga Onomichi thì lắp ráp lại xe, đăng ký tham gia cuộc thi và bắt thuyền đi lên đảo (tầm 5 phút đi thuyền). Gần ga có combini, cửa hàng sửa chữa xe đạp. Do có một số vấn đề kỹ thuật nên đã ghé qua cửa hàng GIANT nhờ maintain lại xe đạp.
 
 ![](/img/shimanami/shimanami_3.jpg)
