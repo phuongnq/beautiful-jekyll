@@ -5,7 +5,7 @@ categories: [japan, life]
 share-img: /img/shimanami/shimanami_cover.jpg
 ---
 
-Được bạn bè giới thiệu, ngày 12, 13 tháng 3/2016 vừa rồi có đi thử cuộc thi đạp xe đường biển Shimanami Kaidō . Đây là tuyến đường cao tốc ở Nhật Bản nối các điểm Onomichi, Hiroshima và Imabari, Ehime, chạy dọc 9 đảo thuộc quần đảo Geiyo, bao gồm Oshima, Umashima, và Inooshima (Theo wikipedia: [https://en.wikipedia.org/wiki/Nishiseto_Expressway](https://en.wikipedia.org/wiki/Nishiseto_Expressway))
+Được bạn bè giới thiệu, mình có đi thử cuộc thi đạp xe đường biển Shimanami Kaidō . Đây là tuyến đường cao tốc ở Nhật Bản nối các điểm Onomichi, Hiroshima và Imabari, Ehime, chạy dọc 9 đảo thuộc quần đảo Geiyo, bao gồm Oshima, Umashima, và Inooshima (Theo wikipedia: [https://en.wikipedia.org/wiki/Nishiseto_Expressway](https://en.wikipedia.org/wiki/Nishiseto_Expressway))
 
 ![](/img/shimanami/shimanami_1.jpg)
 
