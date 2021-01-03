@@ -5,9 +5,9 @@ categories: [vietnam, life]
 share-img: /img/2021/phuot-ha-giang/hagiang_cover.jpg
 ---
 
-![](/img/2021/phuot-ha-giang/hagiang_cover.jpg)
-
 Tranh thủ dịp năm mới 2021, mình đã thử đi phượt Hà Giang trong 2 ngày 3 đêm. Bài viết note lại quá trình chuẩn bị và đi lại từ Hà Nội đến Hà Giang và thăm thú xung quanh.
+
+![](/img/2021/phuot-ha-giang/hagiang_cover.jpg)
 
 # Chuẩn bị
 
