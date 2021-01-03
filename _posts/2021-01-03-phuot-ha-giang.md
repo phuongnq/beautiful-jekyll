@@ -57,7 +57,7 @@ Xe đi từ 23h00 và khoảng 5h00 sáng thì tới nơi. Vì buổi sáng sẽ
 
 Sau khi đi ô tô lên tới nơi, đoàn được sắp xếp nghỉ ngơi 1 tiếng đồng hồ ở homestay. Đủ thời gian để tắm rửa vệ sinh cá nhân.
 
-Sau đó đoàn sẽ tập trung lấy xe máy ở điểm gần đó. Về xe máy thì tất cả đều là loại Blade của Hondo, xe 4 số, mũ bảo hiểm màu đỏ bịt kín tai.
+Sau đó đoàn sẽ tập trung lấy xe máy ở điểm gần đó. Về xe máy thì tất cả đều là loại Blade của Honda, xe 4 số, mũ bảo hiểm màu đỏ bịt kín tai.
 
 > Đoàn tập trung lấy xe máy:
 
